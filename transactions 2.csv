@@ -1,0 +1,1001 @@
+transaction_id,customer_id,transaction_date,amount,currency,transaction_type,channel,merchant_name,merchant_category,location_country,location_city,is_flagged
+d7910c71-3332-4ad9-b5d1-a4012c9d634e,1c050bae-4af9-438b-9bd8-0a065e00cd92,2022-11-30 09:47:34,9442.87,GBP,deposit,online,Walmart,Electronics,United Kingdom,Birmingham,False
+ef978251-9fe4-4601-a7e7-d4f6144f922f,6a41993c-02a3-46f9-b444-5948661fd5d3,2023-09-19 20:05:51,7610.85,GBP,withdrawal,in-branch,Walmart,Miscellaneous,United Kingdom,Liverpool,False
+437cd6a2-ca0f-46eb-b8ff-10296df2c10e,a8c00c26-e24d-4009-98d5-fe0d40b6e099,2023-08-06 03:47:28,5497.06,USD,withdrawal,ATM,Amazon,Electronics,United States,Los Angeles,False
+f465fdf3-4663-4216-962f-e26d793e24de,68c131e4-4c7e-4b84-9c5b-d91db4e8b2aa,2022-10-22 21:27:53,3786.09,USD,transfer,mobile,Target,Retail,United States,Phoenix,False
+1c0c940e-2d06-4d6e-914a-42784bddceac,4fb4567b-cb75-4e96-8595-7dc28b3725fa,2024-05-16 20:39:18,8280.58,JPY,withdrawal,mobile,Target,Miscellaneous,Japan,Fukuoka,False
+85ac3030-fea6-4355-9343-b4a6ee7f8951,31fd929f-1e1b-4d70-b98e-658eaac49fba,2023-07-10 21:00:40,2917.09,USD,purchase,in-branch,Best Buy,Electronics,United States,Houston,False
+3a4a8fab-b3c8-4837-bb8b-126b1905ae15,60821a9c-77d2-4e6d-9edc-11747a7af475,2023-01-01 23:24:17,1194.56,GBP,withdrawal,online,Best Buy,Clothing,United Kingdom,Liverpool,False
+b011484f-0115-4274-b811-aa7df8399a32,facd5f05-9473-4f62-b0eb-f49b13d2dead,2024-07-24 12:46:39,8621.69,EUR,deposit,in-branch,Amazon,Grocery,Germany,Munich,False
+d16fcead-be08-4789-a8ce-4419dfe32daf,a5a89695-cd7b-4e4d-81a1-111f991c835b,2024-05-09 09:03:18,3339.58,EUR,withdrawal,mobile,Costco,Electronics,Germany,Berlin,False
+25cc0b28-5264-43fb-9b19-d257e0563e1c,b097c7c4-2ce5-4dbb-9568-e80a79426143,2022-10-05 17:41:27,4401.56,INR,withdrawal,mobile,Costco,Grocery,India,Chennai,False
+4d62e670-7453-4e92-88a1-d3107806fbe3,28d00a0b-4f8f-42cb-8ba6-25f1381110ff,2022-08-31 22:07:31,1597.22,INR,transfer,in-branch,Amazon,Grocery,India,Hyderabad,False
+b75d86af-45a6-4e39-a1d6-61a4cba2dd6d,3adb3243-7629-479a-afdb-fe6689f285cd,2024-05-01 10:07:59,5610.76,GBP,transfer,in-branch,Costco,Clothing,United Kingdom,Birmingham,False
+dd543d59-f254-436b-a343-03ef0d9291cb,534c0fcb-1b50-48dc-bc4c-d694bf7d818d,2023-12-30 01:34:04,9699.71,INR,transfer,ATM,Best Buy,Grocery,India,Bangalore,False
+d701221e-f02b-4a14-9886-2a3bdb153e70,06605543-88ff-49c7-b8ab-b6fa359ae951,2024-02-29 00:19:41,2858.48,USD,withdrawal,in-branch,Walmart,Grocery,United States,Houston,False
+00cf72ce-b558-4bdb-9db5-db30577d16ca,6408c6db-bebc-42bc-8b07-d7bb0aeb92a5,2023-04-09 18:25:14,6086.9,GBP,deposit,mobile,Costco,Clothing,United Kingdom,Manchester,False
+ac9a0cd3-34b0-497e-aa44-30526619c798,4e365409-0216-474e-87d2-4f70baefb8f6,2024-05-31 20:20:25,1543.51,INR,purchase,in-branch,Best Buy,Clothing,India,Chennai,False
+96000db1-8ea5-44d4-89fa-840feab913de,9d6def54-e9d8-4746-8e5c-f777d995324b,2022-09-05 12:12:02,1578.21,JPY,withdrawal,in-branch,Best Buy,Retail,Japan,Tokyo,False
+dce690ab-44c9-45d1-a788-41adf0f478fb,9220f538-6f2a-4232-9675-d7cf43e48d1b,2024-08-11 08:04:15,3334.29,USD,purchase,in-branch,Costco,Retail,United States,Houston,False
+312f0ba7-a006-4e8a-9fec-be167afa5b57,ac2c4434-2a0e-490a-9cdf-a2112490ffe1,2022-12-07 23:22:44,2383.36,USD,deposit,online,Walmart,Clothing,United States,Chicago,False
+89523de7-a402-412e-92a1-570ce41e83a5,5e1182c7-536c-4bd5-ba0d-85f586537b3b,2024-06-06 06:29:26,2460.48,EUR,purchase,in-branch,Costco,Electronics,Germany,Cologne,False
+7dd9229a-67dc-4ec1-8dde-e8dfc8d47d60,7c262bc5-d386-485a-95c6-ca40994ea2d3,2023-11-16 17:30:55,6527.1,EUR,withdrawal,mobile,Walmart,Electronics,Germany,Munich,True
+9fbfa271-2b21-467a-a65c-a336e498b607,a2e3feaa-42fe-41d5-ac2b-d55a424c30b9,2024-05-03 19:55:32,4381.19,JPY,deposit,mobile,Best Buy,Grocery,Japan,Tokyo,False
+13071083-17fa-489b-ac29-d86f260aae5e,0dd3391b-f9f1-4876-9ecf-4420db3b73eb,2022-12-21 10:50:11,8447.86,USD,purchase,mobile,Costco,Electronics,United States,Houston,False
+0cdf7b35-cf18-4db2-b597-d25ed01715a0,2bb30145-e743-4220-bd1a-fa4b41a7bcd0,2022-10-18 07:26:41,500.7,USD,withdrawal,in-branch,Amazon,Grocery,United States,Los Angeles,False
+c265fc3b-afa8-4783-bacd-ac6c100d4827,ff7fbf62-7d73-4362-a22b-6441506e02a3,2023-07-18 23:31:10,5781.35,GBP,transfer,in-branch,Amazon,Grocery,United Kingdom,Birmingham,False
+dfec5e4f-3069-4f35-b6c2-10ed42b103bb,4acc5901-ed63-492e-9dd9-210c8c173a03,2024-05-27 03:02:36,7824.78,JPY,purchase,online,Amazon,Miscellaneous,Japan,Tokyo,False
+62734f21-06b8-4fe9-aa0a-4afbd2553dfe,515db09c-08d8-44f3-b739-8ee0274cd606,2024-06-25 20:10:53,7070.87,JPY,transfer,ATM,Walmart,Retail,Japan,Nagoya,False
+092aad87-0374-490b-a8bd-4630d9ee1d91,314ccb0e-c250-449f-b94d-f547e46e55aa,2023-02-10 19:48:48,8536.03,GBP,withdrawal,in-branch,Costco,Miscellaneous,United Kingdom,Manchester,False
+d2632fa9-a9b8-4804-aeef-1131fd0b980c,8178b7a9-7c45-4000-908c-cbe4ca1492f7,2023-09-03 03:49:48,9399.45,GBP,withdrawal,ATM,Walmart,Clothing,United Kingdom,Birmingham,False
+7ced6e06-7aca-4874-ae91-23791c7df1cf,fc3b2754-1ae9-4522-b5f9-e1adb76d299b,2024-01-24 10:49:11,2466.5,USD,deposit,mobile,Best Buy,Grocery,United States,Phoenix,False
+ff82fb67-18cc-4fdc-b76c-8b84db0857ba,84dde35b-97fc-4d17-8755-8125cd15e134,2023-08-13 19:35:47,3515.07,USD,purchase,ATM,Walmart,Miscellaneous,United States,Phoenix,True
+c8be370b-c911-4773-ad15-cc8f7724e673,861c61b6-0c60-4c2e-93ab-dc28aea231b5,2024-03-10 00:57:02,6108.77,USD,withdrawal,in-branch,Amazon,Grocery,United States,Phoenix,False
+6c84dbc0-8aa2-42a9-b956-2cb276e44003,d622e7ea-b7b0-4138-97ed-b4fccaf4c5a1,2023-08-27 06:30:28,7580.68,JPY,purchase,ATM,Amazon,Miscellaneous,Japan,Fukuoka,False
+1b03a45a-9285-4892-acc7-03eb11f6bb1d,d81dae78-0581-4bc0-b6bf-7c1d78d96eba,2023-02-21 14:28:33,9147.39,GBP,withdrawal,in-branch,Amazon,Grocery,United Kingdom,Manchester,False
+73c15c42-9396-4127-bf33-1ef9711afcd6,e2a48f35-0623-462f-bfaa-3c40961f9060,2023-02-01 07:08:30,6126.25,JPY,purchase,mobile,Costco,Clothing,Japan,Sapporo,False
+da930340-8426-4747-903c-ece74805bfed,a9814266-0f90-4f87-b0b2-2a8aeec498cc,2023-11-12 17:24:00,7263.86,EUR,transfer,ATM,Costco,Clothing,Germany,Munich,False
+21e09eee-9f3e-4dca-ae41-f2cf88d3e64c,27dfff83-16f7-4d54-9bbe-608b94cd5bd6,2023-01-09 11:17:58,7322.48,EUR,purchase,mobile,Target,Miscellaneous,Germany,Hamburg,False
+6cdf6512-d019-41ec-900d-0ecf45438474,cf3f9e28-5d92-4aad-9167-553e07dfb770,2023-02-16 17:45:32,4811.86,GBP,deposit,ATM,Walmart,Clothing,United Kingdom,Glasgow,False
+645ecc50-f052-42b9-9ba7-76c56448505e,84dde35b-97fc-4d17-8755-8125cd15e134,2023-02-25 15:55:01,9159.76,USD,withdrawal,mobile,Best Buy,Retail,United States,Chicago,True
+8a53b441-6a18-48de-afba-13c4e3a27b1c,4126e395-bb95-4a0f-9d28-794f33082833,2023-08-07 20:53:43,7390.5,JPY,purchase,mobile,Amazon,Retail,Japan,Sapporo,False
+13205023-e91b-4c65-9ce4-84e361fd541d,1c050bae-4af9-438b-9bd8-0a065e00cd92,2023-07-03 01:41:27,4610.77,GBP,withdrawal,mobile,Best Buy,Retail,United Kingdom,Liverpool,False
+05e619a5-4eee-4e03-b82a-0812cc1a10b9,51877c5d-dcaa-417f-a6d0-0c36e37caa8e,2022-11-01 14:43:15,5552.15,INR,transfer,online,Amazon,Retail,India,Chennai,False
+781dd2df-5430-489a-ab9c-c6cd28619c3a,1ba99f29-822c-4459-bb2b-fd4d8c20e31e,2024-05-27 06:15:37,4866.62,GBP,transfer,mobile,Best Buy,Retail,United Kingdom,Manchester,False
+7fbe685a-bfe8-45a1-9216-1a0a1d3e2a39,eb123472-80dc-4242-af81-8e46f5650ea4,2024-07-19 00:16:13,6150.68,GBP,withdrawal,in-branch,Amazon,Clothing,United Kingdom,Birmingham,False
+0b60f648-a2b1-4cb4-b429-d8685cf7c824,21b49fab-f7cf-4678-a308-f899c266a246,2023-07-30 00:02:19,5784.39,JPY,purchase,mobile,Walmart,Clothing,Japan,Sapporo,False
+111814e3-a178-45b0-b515-8fa1b964952a,25312ca0-a62c-4fe2-b06f-3bb019eb7857,2023-10-04 02:22:34,6924.91,INR,withdrawal,online,Target,Retail,India,Delhi,False
+0412b240-96c9-4906-85cb-57400b0bc450,93a962a0-76bc-46d1-ab24-0417de4270d3,2024-04-03 22:55:13,5834.93,GBP,deposit,ATM,Walmart,Grocery,United Kingdom,Birmingham,False
+2a74a5df-013c-4694-b837-28ed27f620e2,e3cd41d6-24bb-438c-9046-a0efc692f421,2022-08-19 07:52:45,9856.36,GBP,withdrawal,mobile,Amazon,Retail,United Kingdom,Birmingham,False
+91ef5f90-fc06-44d6-8ac0-5c60eb60a630,0c70936e-a44d-48fe-ac75-9d4ac7738006,2022-11-28 09:32:04,6617.4,EUR,transfer,mobile,Best Buy,Clothing,Germany,Hamburg,False
+d27477b8-fbb7-4c67-8d35-a295fa8f00de,c1a801fb-fd21-4893-9b6f-61818f69f6e6,2024-05-03 16:38:09,303.55,GBP,transfer,online,Walmart,Retail,United Kingdom,Birmingham,False
+8f0c1076-4536-4c3b-950c-c461cd0e8e20,9cee0af8-c309-4119-8354-9a8f2aee7450,2023-06-11 20:15:47,57.92,GBP,deposit,mobile,Best Buy,Grocery,United Kingdom,Glasgow,False
+0493a10b-70a3-4705-bb4e-f9673fa5e9c9,543aefcc-d193-4862-ac3e-8adab693d4ad,2024-01-27 21:39:28,4908.38,INR,withdrawal,mobile,Target,Electronics,India,Delhi,False
+d77bade5-5d06-46b3-b38a-f6acdf8f6a7c,9def69c6-5604-4fed-afed-383accfb5491,2023-11-18 16:16:50,8877.48,JPY,deposit,ATM,Best Buy,Retail,Japan,Nagoya,False
+af99db30-9277-4660-8c51-431da730ad31,0e3a47be-bb77-44e9-aa9c-984983841cba,2022-10-31 20:21:25,4222.54,GBP,transfer,ATM,Amazon,Clothing,United Kingdom,Birmingham,False
+06e2183b-50f6-4128-bc2d-da4c97c62175,747a12d8-60db-4f2f-b643-e13157628403,2022-10-06 08:41:58,3816.07,JPY,deposit,in-branch,Target,Grocery,Japan,Tokyo,False
+d38b43ad-4116-439d-ac80-1da180be12d1,e61dae1d-a5bd-46b8-8e97-d102abf0a783,2023-12-02 18:40:20,5958.65,GBP,withdrawal,mobile,Amazon,Retail,United Kingdom,Manchester,False
+45645cd0-6c7b-4740-a190-92fa98bff7c7,e351aa7c-5174-427b-971c-6feee0f33a81,2024-04-29 21:44:33,5946.31,JPY,withdrawal,mobile,Costco,Grocery,Japan,Fukuoka,False
+77cd56a0-8170-4c6a-8efb-f8304e5be6d8,5fd29df2-1027-4c5a-9f2c-a94cfb3aa45c,2023-09-11 19:38:22,2138.77,EUR,withdrawal,mobile,Amazon,Electronics,Germany,Berlin,False
+34b73e2b-74fd-4ae4-8412-fa73488b5da4,db3b247f-2436-491d-8c18-44c68bdbd73b,2022-09-07 18:51:09,9901.6,INR,deposit,in-branch,Amazon,Clothing,India,Bangalore,False
+ec194258-2437-44e1-a620-df2981bd50ac,871119dd-bc39-472c-8d4f-eb615f16ca23,2023-02-21 04:35:38,1846.97,JPY,transfer,in-branch,Walmart,Clothing,Japan,Osaka,False
+fdc425d7-8b51-4b7d-afa3-735d4f6625fd,2f60b62e-a346-4415-b50f-0f58c0afef7f,2024-02-10 09:07:40,3210.22,GBP,deposit,in-branch,Walmart,Electronics,United Kingdom,Birmingham,False
+b3943f1c-7639-4551-b251-f9a34e863ab3,109068d7-d414-463f-a0b5-3529d3118dbe,2022-10-02 15:03:37,7474.3,USD,deposit,online,Best Buy,Retail,United States,Phoenix,False
+9cf34b5e-dbab-4d18-8828-9ba129de3679,dafe409a-8220-46ee-add8-1f233ad7ceca,2024-05-31 03:22:42,722.31,GBP,purchase,online,Target,Clothing,United Kingdom,Liverpool,True
+2235dabd-b2ac-4111-9405-a4160b50de7d,41bf2982-9ccd-4776-9e30-40c53d07ca8c,2022-12-02 23:25:05,2679.45,JPY,transfer,in-branch,Amazon,Grocery,Japan,Nagoya,False
+5cb3e2eb-5ab5-495f-8358-371335a313e0,9220f538-6f2a-4232-9675-d7cf43e48d1b,2023-06-07 12:34:11,3442.94,USD,purchase,in-branch,Target,Electronics,United States,Los Angeles,False
+853770ad-0b49-4c69-b506-3cadc8dcf302,ebfa1932-12aa-4a0d-9344-046e48ca1dda,2022-12-13 00:52:23,2693.48,JPY,purchase,ATM,Amazon,Electronics,Japan,Fukuoka,False
+6105a8d4-0b44-4d8d-88d3-7fc85da6d565,2193f18e-2cd1-4444-b6aa-8aefd9c9f9d9,2023-06-19 22:25:39,1495.42,INR,deposit,mobile,Best Buy,Clothing,India,Bangalore,False
+02f5925f-5816-4157-ae96-724fbbc6c61d,251655a7-a4b8-4c35-95c5-4d27a0757296,2023-07-26 14:53:27,5548.1,EUR,purchase,mobile,Target,Clothing,Germany,Frankfurt,False
+8d2fcba1-32ae-4b2e-b993-8ffcda2380d1,e7cf739b-b4eb-4e18-ab87-29caff4ddd5c,2022-12-01 13:21:41,7454.98,INR,transfer,ATM,Target,Miscellaneous,India,Bangalore,False
+17f8b602-b9e5-4e62-a81e-5dc9c80c98f7,90480106-0697-4af7-b0cf-e95412d0de26,2024-06-15 11:51:41,8898.96,USD,transfer,in-branch,Best Buy,Electronics,United States,New York,False
+d1622f6b-8e06-4e8e-aaaf-6eb1db12d889,6587c22e-085a-47b4-aaf7-ab522ef161cf,2024-03-09 08:08:29,2258.37,INR,transfer,online,Costco,Miscellaneous,India,Chennai,False
+c978189a-adec-46a0-969c-746253c0d162,84acbe24-24ec-496f-accc-11b55ae78eec,2023-01-03 18:55:51,8413.61,INR,purchase,ATM,Costco,Electronics,India,Mumbai,False
+1019fa48-698b-4c08-99bb-2a3451466314,94ca9abb-1810-490a-b0e4-d4105dfec723,2024-05-07 01:33:44,5354.16,USD,transfer,in-branch,Best Buy,Electronics,United States,Phoenix,False
+f4b8eb75-da87-4d65-a6d2-ec3d5ad823ee,f83c0f13-4595-4cdb-8afe-0fb1e1cbb192,2024-01-19 22:05:08,4282.71,JPY,withdrawal,in-branch,Best Buy,Grocery,Japan,Sapporo,False
+06adfe98-cd72-4b6c-8ab4-d44ca8e43f86,d1543b90-0d2a-4acb-ad04-a09efe767555,2023-04-13 16:37:11,1672.74,GBP,withdrawal,mobile,Amazon,Grocery,United Kingdom,Birmingham,False
+b1a4be86-cd83-4bb2-90e8-a361b3b8315b,6114be2a-fe18-49db-8d85-43d0e8b59cca,2023-09-27 11:08:49,6859.44,GBP,deposit,ATM,Costco,Grocery,United Kingdom,Glasgow,False
+586dd38d-9990-4986-8faa-6b1950bdc2af,ad815707-8ccd-4b73-9cef-38620c7221b6,2023-10-24 13:36:31,4380.24,USD,transfer,in-branch,Target,Retail,United States,Los Angeles,False
+23935024-b6d8-4ef2-aa49-5e69431cf7b4,5f70faf5-db0a-434f-b9a7-31bf2dd106d9,2024-06-29 20:13:37,4882.7,INR,withdrawal,ATM,Target,Clothing,India,Chennai,False
+039c1a22-7d8f-4d85-9f10-0efd4d952ad0,cb94a501-a7f4-48e8-8de8-f974c555b508,2023-09-22 23:58:58,7047.27,GBP,deposit,ATM,Amazon,Electronics,United Kingdom,Manchester,False
+ac382017-80ff-40d4-893b-57039c7a6902,bdac0eb4-53e2-4091-bd4f-04cee831feb7,2024-01-10 08:57:29,9863.71,GBP,withdrawal,mobile,Costco,Grocery,United Kingdom,Manchester,False
+faa41eb1-b8a2-41ce-85e1-c364d113f615,06605543-88ff-49c7-b8ab-b6fa359ae951,2023-12-07 05:21:28,2493.99,USD,withdrawal,online,Best Buy,Clothing,United States,Phoenix,False
+b022a5e6-d1f8-4672-895f-afa9f9d72f9e,25c5f908-60c4-40ce-9301-49acdc3eded8,2022-11-20 20:35:42,2093.41,USD,purchase,mobile,Costco,Grocery,United States,New York,False
+c3607b33-6c55-4852-809f-5947246ecfaf,9af7ea2b-a851-4000-ab52-1660dcaecce0,2023-06-17 05:52:45,7061.65,GBP,purchase,in-branch,Target,Electronics,United Kingdom,London,False
+dcf1856f-086b-4b5c-ab08-9f3a69816393,70ae58e9-c5bf-4616-9824-ae8752134bff,2024-07-27 07:50:02,1556.35,INR,deposit,mobile,Costco,Miscellaneous,India,Chennai,False
+f473d1d5-bf61-425a-bd0b-e28d34e79fe3,b7d5ceb9-f63f-408a-a67d-d6ba57db703f,2023-09-16 05:35:51,1520.08,USD,deposit,ATM,Target,Grocery,United States,Phoenix,False
+c0e40926-a07e-434f-a5bd-038e952bbc3c,394f944b-418e-4642-aa31-8441f0cb6809,2023-07-19 05:19:15,8783.31,USD,withdrawal,online,Best Buy,Retail,United States,Chicago,False
+8dee8393-605b-40ad-a500-ee72e67d66f5,4e32397f-880a-4098-a065-0394b134fa2b,2024-06-06 09:06:21,625.08,GBP,transfer,mobile,Target,Clothing,United Kingdom,Liverpool,False
+96742440-dfef-4273-8a7f-2cdf60e951ab,0438f5a0-9947-45b5-999d-76451dd413a3,2024-06-17 21:19:50,9802.2,GBP,transfer,mobile,Amazon,Grocery,United Kingdom,Birmingham,False
+c2fe1f4a-04ae-4767-b5cc-25368e3b0b0f,e1a6424c-e6dc-4b15-a3ca-89343e4c9201,2023-03-23 08:34:14,3476.73,EUR,transfer,ATM,Costco,Electronics,Germany,Hamburg,False
+a422d159-d617-4690-bbae-c9372fc00df6,57f288d2-ec8e-4552-a0ce-7126b4c92002,2023-03-19 22:58:19,1573.54,USD,withdrawal,ATM,Amazon,Miscellaneous,United States,Houston,False
+e9888d7b-6838-460f-a249-d3af2ef4c21d,0bf9e15d-fccc-4106-928e-dd74b203e21b,2023-06-15 16:17:07,4708.93,USD,withdrawal,mobile,Amazon,Miscellaneous,United States,New York,False
+6a69d1dc-5fd8-4e20-8bd3-7648ee6a774d,4a9776e2-fb69-4a26-8875-5cdbc6b3d76f,2024-05-18 16:50:37,3388.56,USD,withdrawal,in-branch,Target,Miscellaneous,United States,Phoenix,False
+aed1550c-7e29-4b38-aa92-8615c05c0a7a,535a14cc-4b77-4563-a1ac-c8163b84c1ba,2024-06-16 20:23:16,5619.32,JPY,withdrawal,ATM,Costco,Clothing,Japan,Sapporo,False
+5830777b-a9d9-4e90-add1-fd90ec3d3af3,cff7cd09-c8f7-4d70-8561-4928b0bbfd5e,2022-10-18 02:27:16,1932.73,INR,deposit,ATM,Costco,Clothing,India,Hyderabad,False
+6fe3f4fb-1014-4e95-a0c7-e49a39532753,46d87bb2-e0e4-4460-8fa9-3c6a6c60bd3b,2024-05-20 16:11:25,8130.1,GBP,purchase,in-branch,Amazon,Retail,United Kingdom,Manchester,False
+5ab62a24-3a05-4161-9d05-5b112a5653f6,261c2337-a085-473e-9225-9b96bb7bca38,2024-02-28 10:44:52,7237.24,JPY,purchase,online,Amazon,Electronics,Japan,Nagoya,False
+123073c1-61cf-43a0-a627-40c879aed475,2f473be8-3a55-4ae9-a497-74dcc8b2cdcc,2024-04-24 19:17:47,8529.78,EUR,deposit,mobile,Costco,Retail,Germany,Cologne,False
+66b32d92-53e6-4f6b-a77b-b5c1b9dbca69,7638f8b9-5011-4d5b-bc33-58f9462ab5a9,2024-07-27 15:52:40,1339.46,JPY,purchase,in-branch,Best Buy,Clothing,Japan,Nagoya,False
+21dc33a1-b629-47db-9400-2b64a641ef5b,008f7916-9ff2-46b1-91df-83df42ce1e72,2023-10-07 16:17:44,1024.58,GBP,purchase,in-branch,Target,Grocery,United Kingdom,Liverpool,False
+4a759743-d034-4335-b875-83c9b2fb7314,4aea2760-0649-47d3-91df-bc459925345c,2023-06-27 08:22:34,2246.43,EUR,deposit,in-branch,Best Buy,Grocery,Germany,Berlin,True
+51c7fb75-1b54-4ec5-8e04-b59e8e5d31e3,49b7e53e-e7d5-4285-910b-173b9717c669,2023-02-20 15:09:32,7484.15,EUR,deposit,in-branch,Target,Electronics,Germany,Munich,False
+6aac1535-e6e6-4d36-bfb6-948a75dbadfa,a5c186b8-3da1-4852-abc0-5bd76952ff8d,2023-05-25 12:12:20,7498.84,INR,purchase,mobile,Costco,Electronics,India,Chennai,False
+0577693d-c1ac-4f70-9c92-15e201080e0f,a8ea4660-77f6-4802-af8d-25efcc778c09,2022-08-18 10:29:00,1058.92,USD,purchase,mobile,Costco,Clothing,United States,Los Angeles,False
+52557bf8-72db-447a-997c-b1696fd1fcbc,e441580d-130d-4093-b22a-d77ad9cec8ff,2023-03-08 09:04:37,5837.31,GBP,purchase,in-branch,Costco,Miscellaneous,United Kingdom,Manchester,False
+1f324602-0e5a-476d-9c40-867a29cd54cd,8c91b86f-ca1a-47ad-9475-962fc4f4e753,2023-09-12 09:17:05,3275.24,GBP,withdrawal,in-branch,Costco,Grocery,United Kingdom,Manchester,False
+2f0b6696-1cf4-4074-bd69-807ad0bf725f,9eedd333-c478-4138-9547-0a2f1362113b,2024-01-21 11:38:21,4866.16,GBP,purchase,ATM,Best Buy,Retail,United Kingdom,Manchester,True
+52cb0bf2-095d-43d9-a2bd-64302b1f07d9,daf04fa7-a969-4b6e-b5d2-f71b97623e2d,2022-11-20 14:41:07,5157.24,USD,deposit,ATM,Amazon,Grocery,United States,Phoenix,False
+2b3dee77-ff14-4091-8f9f-3c917892d73a,e5d02e56-0b62-4611-8e8a-5725dcef989f,2023-08-10 00:10:17,6622.49,USD,transfer,ATM,Target,Retail,United States,Houston,False
+2383f956-8ed2-4b3f-9ea3-dc0bdb7636cf,49615379-b4e8-478d-9996-8b8febf0f96a,2023-04-11 14:17:36,5171.85,USD,withdrawal,mobile,Amazon,Retail,United States,Phoenix,False
+bb5b2036-0c9f-4b12-934c-36871a18eb9d,11eb811d-f6d5-4fe1-a5ce-4680335aa286,2023-05-27 15:25:33,3570.99,USD,transfer,in-branch,Best Buy,Clothing,United States,Phoenix,False
+481688dd-080e-4d24-a23c-77d250269f57,13e4cb26-18d5-4ac9-9d10-5d1b4ea597b2,2022-11-03 21:11:06,7390.54,EUR,withdrawal,in-branch,Amazon,Retail,Germany,Munich,False
+cd4770f6-3c32-4adb-ab49-998fdf5acd55,ed45ac3f-f40e-4bf9-9193-b5f5da58bbae,2023-03-20 03:35:47,7131.67,INR,purchase,online,Best Buy,Electronics,India,Chennai,False
+5b863e71-f40a-425e-a3c8-5b27bd551f5a,e0bfb108-9a82-46bb-a230-43cc69acf92a,2023-10-29 12:40:58,4994.31,GBP,deposit,mobile,Amazon,Electronics,United Kingdom,Manchester,False
+8a8f3e4d-7ae2-47f9-a951-ac50c36698ad,36f6c04d-8b64-4df7-b1a5-b0bf3296cc5e,2023-02-04 10:28:56,2519.18,GBP,purchase,ATM,Amazon,Miscellaneous,United Kingdom,London,False
+3fab98a3-7fe7-458f-82a4-5ab10182d1c4,f5372a2c-9fd9-4a34-81f5-39cbde6efd9d,2022-10-20 14:40:45,2137.97,GBP,transfer,online,Amazon,Electronics,United Kingdom,Manchester,False
+58aef0bc-1502-493d-b9dc-95f4cfb51ed5,136e6f93-0439-4b5f-8890-c8005bf319a5,2024-01-09 05:17:42,4739.94,JPY,deposit,in-branch,Best Buy,Retail,Japan,Sapporo,False
+21e9ecec-9f0a-4195-ad2e-ab43a29b1447,24f01859-150f-4d75-b1a0-afd0c6b7c00c,2023-08-27 12:36:32,319.84,GBP,deposit,in-branch,Costco,Electronics,United Kingdom,Birmingham,False
+201e5790-e182-404f-891e-48cfe2718d54,4f5ed46d-766c-43db-a5f4-7f7b67db7b1e,2022-08-24 12:02:18,6905.69,GBP,transfer,ATM,Amazon,Grocery,United Kingdom,Liverpool,False
+65a7d2b3-f065-42da-986d-bdf6169363aa,c67f2d98-abba-44ea-b347-32c5a848018a,2024-01-01 00:31:39,2546.82,GBP,deposit,mobile,Costco,Grocery,United Kingdom,London,False
+9347d087-bc76-4535-a798-af4fcb287cf4,baba38ce-a366-4b45-a837-17a3f180eb0d,2024-06-08 21:51:24,8881.61,GBP,purchase,in-branch,Amazon,Clothing,United Kingdom,Glasgow,False
+e9c34249-250c-472b-9ff7-601e0837e311,bd8857fa-8d4c-4de9-8400-8ca47c8349d7,2023-09-05 01:06:19,3437.25,USD,transfer,mobile,Target,Grocery,United States,Los Angeles,False
+a6908818-c289-4046-a91e-3ddfb52db367,25c5f908-60c4-40ce-9301-49acdc3eded8,2024-01-09 19:34:52,5684.31,USD,transfer,in-branch,Amazon,Retail,United States,Phoenix,False
+e0b4d6f9-00f7-450c-bf49-d8eda84fe068,58898b7d-3993-4990-8295-d6187e125a5a,2023-02-26 09:52:40,4196.75,JPY,transfer,ATM,Amazon,Retail,Japan,Nagoya,True
+b1ed3b39-ad9b-450e-a314-346040f4a20d,f8a8f2b5-e254-4fd5-80a8-c5d2a604ec9f,2023-03-19 02:15:10,8909.93,INR,transfer,mobile,Amazon,Retail,India,Mumbai,False
+bbd30597-af74-41a9-b773-067e725a0bd5,f4e47265-babe-423a-95ca-f28668c6ecbc,2022-12-29 09:21:25,3847.8,GBP,transfer,mobile,Target,Clothing,United Kingdom,Glasgow,False
+d04f696c-ff06-441d-bff5-4d4127113e88,43fab5af-a6a4-4f57-a2f2-43a797a162fb,2024-04-27 16:27:35,651.69,INR,purchase,ATM,Walmart,Grocery,India,Bangalore,False
+2c6765b4-ae1e-48d3-8e46-b03279501227,0843c73a-596d-49b5-bb80-47bf202b5e57,2024-03-07 00:34:43,5134.56,JPY,purchase,online,Best Buy,Miscellaneous,Japan,Tokyo,False
+82eac604-d76c-41d6-bb07-401781e32dc8,331ecc9f-e0ed-4b73-bd0c-ee846f05a9c5,2024-05-14 01:20:49,6682.93,USD,withdrawal,in-branch,Walmart,Miscellaneous,United States,Los Angeles,False
+f00acc0f-33a5-45b9-8528-cc1845525603,c9127eb9-209a-4354-86d9-aa187893297c,2022-10-16 11:12:33,679.91,INR,deposit,online,Amazon,Grocery,India,Mumbai,False
+a984baa9-3ce9-4f9b-814e-50c9141f4150,187133f8-b77b-4cb9-9e93-9d65d7eb3bb7,2023-05-15 21:29:42,7728.0,EUR,deposit,ATM,Walmart,Retail,Germany,Cologne,False
+a7426649-6b12-4395-8bd0-8ce7664f1d9a,2346d97c-2d93-49d7-bc9d-356e4506fac5,2023-05-07 03:32:30,5025.65,INR,withdrawal,online,Best Buy,Retail,India,Delhi,False
+6f23d39d-f27c-4092-b911-037dd40f34f7,791c194d-eab6-44fc-8401-69205e82524a,2024-03-11 16:12:09,5150.2,USD,transfer,ATM,Walmart,Miscellaneous,United States,Houston,False
+97899ca0-bbbc-457b-af63-a723adbc62bd,cea0888b-a800-46c6-86d7-a2c9f5124b1e,2023-11-12 01:49:35,3731.13,GBP,transfer,online,Target,Retail,United Kingdom,Liverpool,False
+cf8a7c39-d7f1-4a2c-b481-90096f89cd5a,b6d6c2ba-1c74-4d37-9ab9-90a97f5086e0,2022-09-10 05:45:00,9559.46,INR,withdrawal,ATM,Costco,Miscellaneous,India,Chennai,False
+00bc2f74-4d19-4876-a68c-1d395f2465ef,9f91facb-69c3-4a16-a23a-f8f0a1c89263,2024-01-27 05:08:42,2846.35,USD,deposit,ATM,Amazon,Retail,United States,Houston,False
+bfa6e20d-0104-4632-8ba8-29d83e06c14e,2ccfb152-e717-47fb-912e-5fe600ce152c,2023-11-14 01:51:51,1395.77,JPY,deposit,in-branch,Target,Miscellaneous,Japan,Fukuoka,False
+0ccfb77e-6c86-47b8-80d7-4da695ca880e,c992ae5b-4b20-4b42-b07e-a0a8cfb2fe54,2023-09-11 21:08:00,5753.39,JPY,deposit,mobile,Best Buy,Electronics,Japan,Tokyo,True
+44f0191f-b0fa-42e7-8eac-30b215ddda9b,6fca55c2-11c7-44ce-acba-61d3d626aed7,2022-10-02 01:49:59,3251.62,INR,purchase,in-branch,Walmart,Miscellaneous,India,Mumbai,True
+c298334e-5a64-4a75-acbb-4ac3854c3cfd,be72f9eb-4728-4cc6-a57f-f59690e95175,2023-01-16 12:01:39,2939.71,INR,deposit,mobile,Walmart,Clothing,India,Mumbai,False
+32b4bc30-9ccd-4744-b6fe-5093e786baab,983aaad2-b804-453a-bfbd-30fcda9e2cac,2023-04-09 15:57:40,2991.95,EUR,transfer,online,Best Buy,Grocery,Germany,Berlin,False
+21a49d2a-35fd-4c7e-aa06-efd0e511c356,c4362b5c-fc06-4954-b0e5-5b8d08d55ba8,2022-08-30 02:48:18,5382.69,USD,deposit,in-branch,Costco,Retail,United States,Chicago,False
+4385d93b-7961-4596-a5c1-7a9dd91672ab,d6990ae6-21af-4800-a42d-9cd91934690f,2024-07-18 03:08:03,2873.61,INR,deposit,online,Amazon,Retail,India,Chennai,False
+dc706606-c2da-44fb-8d66-42fc929d14bf,a24dfbe0-aae7-4768-9ba3-561333d684b5,2023-12-13 17:19:34,62.93,USD,transfer,mobile,Walmart,Retail,United States,Houston,False
+7ec6dd99-fbc6-4bae-8406-ebb0051edb6b,5981d7b5-d145-4575-96ad-a273e56310f3,2023-01-14 15:01:33,3569.98,EUR,withdrawal,online,Best Buy,Miscellaneous,Germany,Berlin,False
+0fc97af9-95f5-4b9c-b33e-258eb3ec260d,90480106-0697-4af7-b0cf-e95412d0de26,2023-08-29 07:58:58,706.47,USD,purchase,online,Best Buy,Grocery,United States,Houston,False
+9acbaa6c-97c7-4042-a624-1a16c36478a5,b3f4015f-a6a3-43c1-be4f-803c1a35d751,2024-04-22 21:26:19,3116.87,EUR,purchase,in-branch,Best Buy,Clothing,Germany,Munich,False
+7e071fa5-9fe0-44af-812b-17c2d04c427b,e54a8c6e-5391-4e07-b736-aab7d9c3fc34,2023-08-06 06:08:43,4457.98,EUR,deposit,mobile,Amazon,Electronics,Germany,Frankfurt,False
+940a62d0-9cb5-41a3-94ba-231cedf3007b,248c4913-24f8-406d-ba06-28ffa4e3e61a,2024-05-22 06:24:24,7444.92,GBP,transfer,online,Target,Clothing,United Kingdom,Birmingham,False
+50af9995-c6c8-4f0e-bf99-b950299de759,239fdd37-e7b1-451b-ae33-630abfedd280,2023-07-03 14:19:36,3535.98,GBP,transfer,mobile,Best Buy,Clothing,United Kingdom,Birmingham,False
+897271a7-4708-4091-a685-fafcc8c874da,d6b65d93-738f-4130-abec-54ab624db6f4,2024-05-15 12:20:53,9488.42,INR,purchase,in-branch,Best Buy,Grocery,India,Chennai,False
+03edaac9-4707-4418-b13f-b5af94deccde,46d87bb2-e0e4-4460-8fa9-3c6a6c60bd3b,2023-10-14 23:27:25,2564.96,GBP,transfer,mobile,Costco,Miscellaneous,United Kingdom,Birmingham,False
+7b9f0350-b80d-4f11-9c9b-6b1bbd07e5a9,831f8fec-3105-45bb-82d4-1eef5220ee85,2022-08-23 08:45:02,5847.09,GBP,purchase,in-branch,Walmart,Electronics,United Kingdom,Glasgow,False
+8e0759b1-8e23-4da9-8244-e4c4bd4f61d4,0bf9e15d-fccc-4106-928e-dd74b203e21b,2022-10-11 21:11:25,7235.16,USD,transfer,online,Walmart,Miscellaneous,United States,New York,False
+6ce25a2d-bd2c-4a4f-9272-f9556a80587c,3a148564-f00a-43c7-99ca-36c260d393cd,2022-12-28 01:50:57,2772.5,EUR,purchase,online,Target,Electronics,Germany,Berlin,True
+6f1ebbd5-97c2-4a80-9152-8501ee9e5beb,8cccb242-2230-4414-977c-5886ca273f2f,2023-04-05 02:01:05,2679.77,INR,transfer,mobile,Walmart,Retail,India,Mumbai,False
+728b44cd-774a-43ed-b799-56206deeabc9,b8302c57-d0c9-4c23-8462-f27b0441ae11,2023-01-30 19:11:09,2779.1,INR,deposit,ATM,Amazon,Electronics,India,Mumbai,False
+79f7405c-7ae7-4127-b010-cf9c6cc75738,c9dae2d0-22fb-43ee-84b1-a760cb424045,2022-09-20 02:36:35,2615.23,GBP,transfer,in-branch,Best Buy,Clothing,United Kingdom,Glasgow,False
+8b6218e3-27b9-4210-8334-a5d014d52b75,b51e3539-d080-4942-bbb0-28e202d5118b,2023-05-30 03:57:41,6527.06,INR,transfer,in-branch,Amazon,Clothing,India,Delhi,False
+5866692d-6e90-4004-9ac0-77625284d1ff,433bec77-28d4-41f0-954a-c60df0d6f478,2022-08-31 03:07:36,1716.2,JPY,transfer,online,Costco,Miscellaneous,Japan,Fukuoka,False
+596354a0-4c55-4c3c-9a2a-5bdd6fe25467,702e14b0-8d84-45eb-8a0d-5ebdd8b58245,2023-07-07 17:31:32,8916.86,INR,withdrawal,online,Target,Clothing,India,Delhi,False
+7ddd17ce-3c99-475a-af4d-011c70f3befe,0af92fba-93a1-4910-a43c-ae206aed44e6,2024-08-04 14:02:52,7542.82,GBP,withdrawal,mobile,Walmart,Clothing,United Kingdom,Manchester,False
+b76cec49-d906-4a24-84c6-37657e120430,16b06b8d-df9e-44a5-8821-0f7cc47d6683,2023-12-23 00:50:57,9607.07,INR,withdrawal,online,Costco,Retail,India,Bangalore,False
+826bf012-a414-4750-a83c-693219113246,80fca530-5a8c-437c-a4e4-948ff1568b63,2024-04-05 19:51:50,171.12,JPY,purchase,in-branch,Amazon,Grocery,Japan,Fukuoka,False
+2b1744e8-2a7d-4ece-a657-12446efdf10b,1a0685ae-1c1a-4362-ae7f-2297d383b194,2024-03-22 22:31:08,3814.51,USD,deposit,online,Best Buy,Clothing,United States,New York,True
+50e65445-dd06-4e83-81ae-89d6383096ba,861c61b6-0c60-4c2e-93ab-dc28aea231b5,2023-10-10 11:21:54,2333.75,USD,transfer,mobile,Target,Electronics,United States,Phoenix,False
+cac7c796-82a0-4b69-82a9-076cada7226e,1314bd50-f226-45f0-8817-cb1c6e083600,2022-12-13 04:07:23,3643.27,INR,transfer,in-branch,Costco,Retail,India,Bangalore,False
+9ccc6a68-9d3a-4761-8dda-98d589794fe5,45718beb-185c-461f-b678-634e9022f9f2,2023-02-08 07:33:30,4665.9,JPY,transfer,mobile,Target,Clothing,Japan,Nagoya,False
+3f75ce98-eaab-458e-8566-f95ebbf3aded,1b540f97-d02d-471f-bafa-3ad6d41ce44a,2024-06-15 23:16:13,7864.17,EUR,withdrawal,ATM,Amazon,Retail,Germany,Cologne,False
+a9fd1c06-8c55-4a8c-baff-80c86f709c22,1314bd50-f226-45f0-8817-cb1c6e083600,2024-02-09 01:45:45,8539.47,INR,deposit,online,Costco,Grocery,India,Mumbai,False
+b6305533-c633-405e-97ce-d7e958ea4f3e,cff0bceb-1d3e-4b99-860f-625d839e2a23,2024-04-26 11:05:46,645.42,USD,withdrawal,ATM,Walmart,Clothing,United States,Los Angeles,False
+942242bd-1c54-4d26-8da4-d5e2a74ee7f6,564dc648-5e1f-4bcf-9c9f-3ae4df977cc4,2022-11-08 02:12:23,5232.85,JPY,deposit,mobile,Best Buy,Retail,Japan,Fukuoka,False
+20690711-07ff-428f-8e6d-0443bf3fff4f,c3b0511c-0b59-41c4-9f2c-55ce908a93b8,2024-03-22 14:13:48,9761.28,GBP,purchase,ATM,Target,Clothing,United Kingdom,Birmingham,False
+de14763d-1231-41da-b2a6-79bb03647191,d609bcd7-914e-4a97-a651-2abd278dd5e2,2023-12-23 09:57:26,7390.9,JPY,withdrawal,ATM,Target,Grocery,Japan,Osaka,False
+7810067f-b007-4ba2-80d3-14dde2018b49,48448385-f779-4a06-8d37-869484e1ba2c,2022-09-15 09:08:22,2877.16,GBP,withdrawal,online,Best Buy,Miscellaneous,United Kingdom,Liverpool,False
+ecdc1d14-71db-49db-b396-2394cbabaecc,a9b10aad-4d43-426d-ae83-565b65b0f947,2023-05-27 21:31:04,5312.33,JPY,purchase,online,Best Buy,Clothing,Japan,Nagoya,False
+914dd34f-6efe-45fc-8c68-61bbae7be0f7,534c0fcb-1b50-48dc-bc4c-d694bf7d818d,2023-07-15 21:45:10,5906.39,INR,purchase,online,Target,Electronics,India,Delhi,True
+2898e74c-7e6c-421e-9dd1-aacccdd77901,d7f37845-a8b8-41aa-91ee-59b4885b7b8e,2023-11-26 23:31:39,4742.91,GBP,transfer,in-branch,Best Buy,Electronics,United Kingdom,Liverpool,True
+8a15dc42-8563-4928-a887-4e977d7892d6,9636ccfe-2186-4496-b341-2fef046d9cd5,2024-06-09 09:43:53,1069.25,EUR,transfer,ATM,Best Buy,Retail,Germany,Berlin,False
+6f265edf-6b70-48e2-943c-6dedde2707b0,b3f4015f-a6a3-43c1-be4f-803c1a35d751,2024-05-02 13:37:13,7840.8,EUR,withdrawal,ATM,Amazon,Grocery,Germany,Berlin,False
+d90cee6b-d17c-4ba1-baf9-a2a46db3e979,f1a66ae7-c99f-475c-bae4-7a20ad15283a,2023-08-31 16:42:03,6904.84,GBP,purchase,ATM,Walmart,Grocery,United Kingdom,Liverpool,False
+f46dce41-2cfc-4f4b-ba9f-ec3258a6c4d8,f62ded45-ad4a-43c8-8bb7-be31468ae91b,2023-09-02 18:42:17,108.42,EUR,deposit,online,Costco,Electronics,Germany,Frankfurt,False
+e32b76f8-44c1-410f-9820-f87ef4baf071,506dc939-61b1-4da5-8f86-8c6b35aa5ff4,2022-11-10 06:06:18,6096.84,INR,withdrawal,in-branch,Walmart,Retail,India,Bangalore,False
+74812a76-dc8e-4898-ab88-fb4e1a115be4,63b53d2e-d3d0-4779-80d0-b07c37e9516a,2022-11-29 07:28:47,7638.2,GBP,purchase,in-branch,Amazon,Miscellaneous,United Kingdom,Glasgow,False
+85d39e7a-0f64-4d22-bf07-0549fa0b5118,94409890-ab6e-43e2-8130-f5aaadcfe8b8,2024-07-14 16:27:49,4628.38,GBP,withdrawal,mobile,Target,Retail,United Kingdom,Glasgow,False
+fa745bf3-7550-4db4-b9fe-f0bdc56e2cf8,be092a99-c4c3-450e-b27a-f8b67e8c3756,2023-07-01 08:06:19,4710.05,JPY,deposit,mobile,Best Buy,Miscellaneous,Japan,Fukuoka,False
+45092c2d-559c-4ddc-b90d-4df9498fa64f,014630ed-f26f-4d38-9864-8de8f698b1c5,2023-01-10 08:58:50,6527.35,JPY,withdrawal,in-branch,Walmart,Grocery,Japan,Fukuoka,False
+0cdaf171-d069-40d4-b2e7-efe31228a745,16401df5-6951-4ad4-bc74-2b1f51b4820c,2023-01-15 22:55:32,8705.23,GBP,purchase,in-branch,Amazon,Clothing,United Kingdom,Birmingham,False
+a36c4da6-db2c-429e-8326-9ba2f3d9a1a4,6ab2f9af-f1d6-4545-81c0-2638a805587b,2023-06-24 13:32:57,8863.61,GBP,withdrawal,mobile,Costco,Retail,United Kingdom,Glasgow,False
+478685c3-6723-4718-8461-21df4976be03,35d82d8f-b42d-4fcf-8fe9-5dd1fe0e7e77,2023-06-15 00:40:07,7664.38,INR,transfer,ATM,Target,Grocery,India,Bangalore,False
+c95c7df5-30cf-4acc-a5b8-82dbea4cd4ed,3179a7da-99a6-4fa8-b0ef-93c7be9432d5,2023-03-22 18:19:39,2452.16,JPY,withdrawal,mobile,Costco,Clothing,Japan,Nagoya,False
+8d22b88b-194f-400a-8c05-1d0ee8406d6c,0282028e-70cc-4b1a-a20b-a349a6684e1b,2023-08-07 18:51:59,3402.15,JPY,withdrawal,in-branch,Walmart,Grocery,Japan,Fukuoka,False
+9553d6a0-735b-4f97-82d2-e88e7e94036a,12006b76-ba69-431d-86e2-cd3357538313,2023-12-09 07:23:42,6453.09,USD,withdrawal,ATM,Best Buy,Miscellaneous,United States,Phoenix,False
+fe00dea2-8516-49b2-a595-d570e91d35ae,b8666c36-265d-4d74-805b-af00b83d66eb,2024-04-27 23:17:14,7655.75,EUR,deposit,in-branch,Costco,Clothing,Germany,Hamburg,False
+3788d0b1-091f-43a3-a624-f75b19fc273f,82e13eb6-39ec-49e6-9a2b-aa6b41b2b8c3,2024-08-05 01:03:23,9669.86,INR,transfer,ATM,Costco,Grocery,India,Mumbai,False
+90b9afaf-4b8f-431a-a6ef-deb1020ee599,cb94a501-a7f4-48e8-8de8-f974c555b508,2023-10-08 02:11:58,4419.47,GBP,withdrawal,in-branch,Costco,Retail,United Kingdom,Manchester,False
+b8b257e9-5529-4fde-9b6f-918dad920f87,02f1ffdf-1dc3-4511-81de-fe61e8ce28b5,2024-03-24 14:11:22,6685.98,EUR,deposit,online,Target,Electronics,Germany,Hamburg,False
+6cd50190-1dc8-46bf-93c3-cc693777cbae,0f9b438a-4ab5-4072-a8f9-e1deccf93e71,2023-06-17 22:26:38,5715.41,INR,purchase,mobile,Best Buy,Miscellaneous,India,Chennai,False
+13d08415-ebe4-4e87-8af3-2d00b17d8084,60e2dbdb-1c62-4b69-a02f-62781104d656,2024-05-20 04:29:42,9781.96,EUR,deposit,in-branch,Amazon,Clothing,Germany,Berlin,False
+b517048b-4d76-4892-a578-38909949a4d2,49615379-b4e8-478d-9996-8b8febf0f96a,2023-05-11 14:06:58,5387.09,USD,purchase,mobile,Target,Miscellaneous,United States,Los Angeles,False
+24e21b0f-7125-4851-929f-04ca606f7db0,2f110a8b-24fa-4b71-89cb-42684870c74f,2023-10-19 14:07:03,4108.34,USD,withdrawal,mobile,Amazon,Clothing,United States,New York,False
+3541327f-7eb9-4c59-a1e4-4c58842ac0f8,2b828784-0993-44ec-8128-e5960d69df8e,2023-12-01 17:00:19,5820.79,EUR,purchase,mobile,Target,Clothing,Germany,Frankfurt,False
+4ea7c40c-0510-491f-b9be-6238132a3934,606982f5-e147-47d3-ae9d-53230bc52ca8,2023-04-03 19:38:27,762.15,INR,purchase,ATM,Target,Miscellaneous,India,Bangalore,False
+4e750377-15d9-4eac-877d-1e32b1911731,5648ce7c-ddc5-410c-9992-a77f04b8f233,2022-09-30 21:53:44,789.06,INR,transfer,mobile,Costco,Electronics,India,Chennai,False
+12a59b9d-48b0-453e-a4fd-ff3b99e3f89c,930e6b71-bb40-4868-b25a-b15d2daf178b,2024-03-08 00:24:53,4295.44,EUR,withdrawal,in-branch,Amazon,Clothing,Germany,Hamburg,False
+ab1e5673-4262-4900-83e0-40e018cfb7b2,f862eb23-7d85-402c-ad4e-248df535233d,2023-08-15 17:37:20,3518.3,EUR,withdrawal,online,Best Buy,Retail,Germany,Frankfurt,False
+f4ddd797-faf2-430e-8b25-c04a894c760c,a5a89695-cd7b-4e4d-81a1-111f991c835b,2023-10-16 15:17:46,5246.13,EUR,withdrawal,ATM,Amazon,Retail,Germany,Frankfurt,False
+f3e75523-0bc5-4ded-aa33-5ec0d2a30d95,776c4500-4a23-4225-bd1b-4d25e213e6b6,2024-06-29 11:10:19,6213.54,INR,deposit,in-branch,Costco,Grocery,India,Delhi,False
+e39067ff-6691-4b6f-b924-ed34c788352f,266e90fa-a81c-4005-9e52-5d2a19ff4178,2024-04-24 15:18:22,1102.16,USD,withdrawal,mobile,Target,Miscellaneous,United States,Phoenix,False
+4ed5a757-fd69-44fa-94e1-20b3948a1479,a2ac35a0-c9ac-4066-889a-6b64cbe9f894,2023-01-06 23:25:01,3294.57,USD,deposit,ATM,Best Buy,Grocery,United States,New York,False
+ad9668a4-cf6a-4c21-8d56-f8772eb144a3,b134c5b4-74db-4e8e-ab93-8da9544b6a33,2024-04-05 13:53:00,6169.4,EUR,transfer,ATM,Walmart,Clothing,Germany,Hamburg,False
+1c077dc1-aca6-4e25-ac9c-406ca70f16be,2f60b62e-a346-4415-b50f-0f58c0afef7f,2023-11-05 14:39:07,7263.24,GBP,deposit,ATM,Best Buy,Grocery,United Kingdom,Liverpool,False
+fcfa0615-4f7c-4c4a-aebd-14a3c10a5589,92d5bf0d-33b8-4541-93a5-0463271685c1,2023-09-13 01:01:10,5052.56,EUR,deposit,in-branch,Walmart,Clothing,Germany,Berlin,False
+90283cf8-c37b-4675-9cdb-d5899ab550b6,e34fb409-5712-4147-b7d8-8059c3e67efa,2023-11-24 04:06:16,7102.9,USD,purchase,ATM,Walmart,Clothing,United States,New York,False
+e29e93db-2c7f-40c3-b265-912716718323,e0bfb108-9a82-46bb-a230-43cc69acf92a,2024-05-29 06:54:05,4309.17,GBP,deposit,in-branch,Best Buy,Clothing,United Kingdom,Manchester,False
+cc96cc74-359f-4169-b4cc-7d015233605d,c259165c-131b-4edf-996e-367feb4f2b1d,2023-05-13 14:58:43,6199.71,USD,deposit,in-branch,Costco,Miscellaneous,United States,Los Angeles,False
+a033bd20-f9cb-41b2-abe9-1d1e0d38f2b7,3f7e9ac8-cb91-46eb-9a76-a5ac8b2e76a5,2024-03-11 23:04:13,5654.19,INR,deposit,ATM,Amazon,Electronics,India,Chennai,False
+0273f721-d36a-4688-9fbe-992d309ffdde,9c487d5a-c318-4d0e-97e0-e105a43869b5,2024-06-12 10:29:44,3710.78,USD,withdrawal,online,Best Buy,Electronics,United States,Chicago,False
+1ee91fcf-24d3-46c6-bc93-ebc4dd8dccdf,92bf6ba0-648e-4572-b8c7-e3ae8b852d9f,2023-12-13 10:07:06,213.26,USD,purchase,ATM,Walmart,Electronics,United States,Houston,False
+5b7a9b19-0f4f-47d1-a752-aa3d28de16fd,5e383f0a-05fd-465a-872c-1beea2381b8f,2022-12-23 03:21:11,3118.92,EUR,withdrawal,mobile,Costco,Clothing,Germany,Munich,False
+a0438223-46fd-4ebb-a95b-adbb980e51e8,4a9776e2-fb69-4a26-8875-5cdbc6b3d76f,2024-02-03 22:13:10,1775.52,USD,purchase,in-branch,Best Buy,Miscellaneous,United States,Houston,False
+d46156c2-a8c3-4dcf-8937-aa3654f20aba,f10a6b32-e991-4ffb-a44d-7f2e679baf4f,2024-04-14 10:06:14,7752.04,GBP,transfer,mobile,Best Buy,Miscellaneous,United Kingdom,Liverpool,False
+64e04750-bf97-4fdf-bf26-1fbed0da9696,84d05a47-e21c-4c40-8229-b0882a47539b,2023-07-01 18:08:53,9731.87,GBP,purchase,in-branch,Best Buy,Retail,United Kingdom,Manchester,False
+c034fc57-3318-4de3-8445-faf420c252ff,c259165c-131b-4edf-996e-367feb4f2b1d,2024-05-10 08:09:46,426.18,USD,purchase,online,Amazon,Electronics,United States,Phoenix,False
+f85211ba-221b-48af-9432-5d8aa3e17339,4bf515a7-9463-4b02-a99d-d83c41e27e51,2022-12-03 18:16:49,8206.92,JPY,withdrawal,ATM,Costco,Retail,Japan,Tokyo,False
+cfd0499f-e24d-4da2-bf31-6ee33f08caa8,81b924a5-2417-4592-9bfc-a88188a5abd9,2024-03-04 12:07:06,9710.87,INR,deposit,ATM,Best Buy,Retail,India,Chennai,False
+c6a6d1fd-9c5b-4c01-ad61-31393373d7af,f9213bb4-f94f-4dc5-bce1-0f2575358f24,2023-05-24 12:51:56,5333.14,INR,purchase,mobile,Walmart,Clothing,India,Hyderabad,False
+fd0bc084-7390-4c96-b69f-68b0dc5f7e81,c3fe8e30-32f5-41f8-8e5e-0c0d803fabbb,2024-05-04 17:26:06,3529.99,JPY,purchase,ATM,Walmart,Electronics,Japan,Tokyo,False
+4dbb805c-2401-427b-bf82-b31d2f14aaac,d8e60a6f-2420-4883-b18b-bfb5d165c897,2022-11-22 17:23:24,3815.05,JPY,deposit,ATM,Walmart,Electronics,Japan,Sapporo,False
+5fa59c02-deba-43a0-b6d1-3447e4f3a97a,93b5129e-5bd9-454f-ab04-7de0beafdf04,2024-06-13 19:55:27,6082.31,INR,purchase,ATM,Best Buy,Miscellaneous,India,Delhi,False
+71d7e1a5-3539-4d0c-9643-8b22dbdd0880,f7a01124-ae9c-47d3-a394-d7a6eca630a7,2024-04-29 10:43:49,7284.8,USD,transfer,online,Walmart,Retail,United States,New York,False
+2acb2b80-0bd3-40b6-984d-f75115148dee,6c52a887-92b5-4d27-8373-8899473a5907,2023-04-06 08:40:51,6895.12,JPY,transfer,ATM,Amazon,Electronics,Japan,Sapporo,False
+d6779083-783e-4e5f-bd42-fb00f6348c9d,6e7b03f3-4309-4b0f-bef1-84fc8cdd0ace,2023-08-16 03:20:06,9857.56,EUR,withdrawal,in-branch,Costco,Clothing,Germany,Berlin,False
+7ba33ea6-9624-43e2-8c21-1614cc30df59,5a11f912-acd7-4ce2-b778-3a3e239aff9e,2022-10-22 10:55:05,5253.92,USD,purchase,ATM,Costco,Grocery,United States,Phoenix,False
+b3a6f641-4413-4cc1-9aff-f9796fd4d82b,92521952-8725-485e-91d7-d99bb7e3f380,2024-05-21 20:23:45,5114.97,USD,purchase,in-branch,Walmart,Grocery,United States,Chicago,False
+da7c75de-37ba-40c0-a38f-ae02f29c9397,c67f2d98-abba-44ea-b347-32c5a848018a,2022-09-13 05:53:46,7450.6,GBP,withdrawal,in-branch,Walmart,Miscellaneous,United Kingdom,Liverpool,False
+585a795c-256a-4744-9dc6-3735d6aefef7,6a165d91-0df7-4b75-8aa0-5c1f8fcebfb6,2023-04-02 04:08:58,7283.7,INR,transfer,ATM,Best Buy,Grocery,India,Hyderabad,False
+ce39e38b-9f40-41ff-8cad-c111c70e5b3a,aae8c377-6d8e-4a09-97ba-263b1acec933,2023-02-05 18:50:41,6046.76,JPY,deposit,mobile,Target,Retail,Japan,Osaka,False
+c86fc98e-7d9b-42f1-9ed4-525a913abf73,a79c835e-5159-4cab-869c-8c3ed5ab2c63,2023-09-28 10:45:29,3441.15,USD,transfer,online,Walmart,Grocery,United States,Chicago,False
+a21d4c9f-2e79-4df7-b1b7-dba756f798b7,3a4f091e-6ba1-4d3d-8624-3e9dd5b60fa7,2024-03-20 06:02:38,1657.91,JPY,deposit,in-branch,Costco,Grocery,Japan,Fukuoka,False
+a7ffd4bc-c0a2-4c3c-a9c9-d4a41d6c2d3d,51f8712c-e38c-4eb5-a9ad-4d08d746f7a5,2023-12-15 05:09:24,3447.11,INR,deposit,mobile,Target,Electronics,India,Chennai,False
+a08e4bff-e4ec-4bd9-ba3d-7c0c1562bae5,5648ce7c-ddc5-410c-9992-a77f04b8f233,2023-09-30 14:58:13,8453.94,INR,transfer,mobile,Costco,Grocery,India,Mumbai,False
+da734f54-b74a-4246-a603-daf34b7b181a,c3b0511c-0b59-41c4-9f2c-55ce908a93b8,2024-01-05 09:02:40,6215.51,GBP,transfer,online,Walmart,Retail,United Kingdom,Liverpool,False
+0a34c978-9b99-4e6b-ab68-e7c4244b29e1,faa0472b-1110-4cce-8562-59bc5695ac29,2023-09-24 10:42:20,9857.72,JPY,purchase,mobile,Costco,Grocery,Japan,Osaka,False
+e9c847af-cfd8-4484-92cd-5712870dfd02,5d951529-178a-47a6-9337-e27ac657ecb3,2024-05-01 07:51:04,1441.2,USD,transfer,in-branch,Amazon,Clothing,United States,Phoenix,False
+38d778c4-02c1-445a-9fb8-274ec591bf31,736d9ab7-1458-4a8a-a5a6-741fd0e67aed,2023-10-12 22:30:54,9430.39,USD,purchase,in-branch,Target,Clothing,United States,Houston,False
+749a3ce5-7492-4da5-b72e-cee9a6fd636a,e161b935-744b-435d-a3fb-d031cac56dab,2024-04-18 08:31:27,530.85,INR,transfer,mobile,Best Buy,Retail,India,Delhi,False
+45be3330-8f92-4696-a518-30755e8ad936,82bd0cd2-e1cc-4cc5-b231-afcfe97c7e39,2023-01-30 13:51:35,2442.9,USD,transfer,in-branch,Best Buy,Grocery,United States,New York,False
+6bd52eb3-e205-43b3-af86-8ab59b67f0b6,394f944b-418e-4642-aa31-8441f0cb6809,2023-05-26 06:34:47,8709.64,USD,purchase,mobile,Walmart,Retail,United States,Houston,False
+28344e02-d212-4f6e-a935-4ce189e97d5c,233c8c00-f0c6-4609-941c-2b2bb3693056,2022-08-28 00:11:25,3698.81,JPY,transfer,online,Amazon,Electronics,Japan,Nagoya,False
+2670f936-6c52-4324-a58c-5be08002e656,c1daa51c-4b25-4c2c-a7b3-e3e81aa2eedc,2022-08-19 10:00:11,8967.89,GBP,transfer,mobile,Costco,Clothing,United Kingdom,Glasgow,False
+281d1869-044e-4f0a-addb-f1a2aa32bf24,32e09379-860b-4430-a576-b025935de16c,2023-08-29 01:28:17,8348.57,USD,withdrawal,in-branch,Walmart,Miscellaneous,United States,Chicago,False
+8e04115c-6975-4865-87d3-4b09ab7ef47c,3181c281-c9e6-4725-8947-6ff8f2da5a55,2022-10-10 16:49:25,2073.89,EUR,purchase,ATM,Best Buy,Electronics,Germany,Frankfurt,False
+38dbd1a9-dd8f-45bf-a3ee-97ceb833a884,819c2e41-df3f-4484-893d-a5539359dda1,2024-07-02 04:16:23,5716.64,EUR,purchase,online,Costco,Retail,Germany,Cologne,False
+3067ecda-cee1-4461-b025-bdf710becdfe,d59bfe0d-c04c-4b2a-a13b-6e98db2fde1b,2024-06-16 19:50:30,2411.58,INR,transfer,online,Target,Electronics,India,Chennai,False
+1ee0224a-8111-4613-aba1-d822d20cea49,4bb184a9-3451-4a4c-a83b-93858a4e9e50,2022-11-28 09:57:16,5716.08,EUR,deposit,in-branch,Walmart,Grocery,Germany,Hamburg,False
+7bd2afeb-dad9-41fc-a9a9-c85c3e2b2299,e13d540e-8453-4d8b-8ea4-4a1ef8fa8b72,2023-07-21 14:50:49,8126.97,EUR,purchase,mobile,Walmart,Electronics,Germany,Munich,False
+e31de7f8-1fb7-4f4a-a165-37ea3ffcef2f,07a22f43-047c-46ee-839a-57a3bcfb6599,2023-06-15 12:39:52,6345.48,INR,withdrawal,online,Walmart,Retail,India,Chennai,False
+c188ee92-5fd7-4a87-a5ee-351cd1b9b0ea,03abd1d2-ab43-4670-bd81-3f58ec2a9d12,2022-12-02 09:27:52,7486.69,INR,withdrawal,mobile,Best Buy,Clothing,India,Bangalore,False
+fed8df9b-2bd5-4f77-bce4-353d8200d25e,0c53c294-98d0-4526-a909-f61d968deaa0,2024-01-13 20:54:59,3830.69,GBP,deposit,mobile,Walmart,Clothing,United Kingdom,Manchester,False
+0c5a3bca-2d62-4812-9c8c-0f7f4fe7ca19,9cee0af8-c309-4119-8354-9a8f2aee7450,2023-10-07 12:08:26,6444.29,GBP,transfer,mobile,Amazon,Grocery,United Kingdom,London,False
+aaed25e6-8df5-437c-98c9-829439f1c5d2,7c26c1ff-8800-4f19-9a70-077f7a81ea40,2023-08-19 04:00:53,9457.35,INR,withdrawal,in-branch,Costco,Grocery,India,Bangalore,False
+1c461c62-d32b-4536-8fb5-95e956fb752d,510d801f-ddcf-4030-9d66-508bc0c339ed,2023-04-02 05:57:28,9192.88,JPY,transfer,in-branch,Target,Clothing,Japan,Fukuoka,False
+271cd16a-42eb-4dce-b860-71bd4cef0e4c,af4df2dd-9bb1-43bb-ab4c-8b7d5fc922fe,2023-05-05 03:46:58,9807.11,INR,transfer,in-branch,Target,Clothing,India,Delhi,True
+c641ebea-a393-4eca-b8c2-684e6ec67161,78cbabde-fc52-4105-b48a-12f3e2d76e47,2022-11-23 13:00:12,617.23,GBP,purchase,online,Costco,Clothing,United Kingdom,Manchester,False
+1efe569b-b7dc-40e9-a4e2-66956245b836,534c0fcb-1b50-48dc-bc4c-d694bf7d818d,2023-05-30 18:54:04,7903.37,INR,withdrawal,online,Costco,Miscellaneous,India,Mumbai,True
+8bf19428-fb21-4d72-a39c-d105fa529422,889345f9-653b-4f51-aa27-35fc74d1fec1,2022-11-26 07:33:50,4152.93,JPY,transfer,mobile,Target,Clothing,Japan,Sapporo,False
+bfdaf364-53cd-482a-8be6-a43bea29bcc4,39b21f6c-af03-45a9-98ac-ee5faa1c897a,2024-01-23 10:06:58,1249.62,GBP,withdrawal,in-branch,Target,Electronics,United Kingdom,Glasgow,False
+d1ad841e-d058-44e5-a94c-6e50798f5fab,70f6ac2e-908e-423d-845b-854da38c9965,2022-08-19 07:47:47,9971.56,USD,purchase,ATM,Target,Retail,United States,Los Angeles,False
+dd6cdd4b-cfdd-4066-b207-a78f748005d1,44f7f8be-f6dd-4b33-a6f3-f0a8d3652f26,2022-09-25 01:26:56,5741.09,GBP,transfer,in-branch,Amazon,Miscellaneous,United Kingdom,London,False
+3399706d-31c1-4627-8b5d-5fb258e239f1,f862eb23-7d85-402c-ad4e-248df535233d,2022-10-10 23:04:58,7115.04,EUR,deposit,mobile,Target,Electronics,Germany,Hamburg,False
+cef1f1bf-b8b2-4cc2-aa72-b011460b4539,47b83fd1-3f59-4890-a0e4-2172c433a32d,2024-04-19 12:40:53,1777.69,GBP,purchase,online,Costco,Grocery,United Kingdom,Glasgow,False
+86ef09f0-978b-407c-8f7c-0b99e481070c,25312ca0-a62c-4fe2-b06f-3bb019eb7857,2023-06-27 11:16:20,4797.5,INR,transfer,in-branch,Walmart,Retail,India,Bangalore,False
+d838379b-532f-4aa5-bde1-469c452acdac,af4df2dd-9bb1-43bb-ab4c-8b7d5fc922fe,2023-03-19 23:09:54,4403.35,INR,purchase,online,Target,Grocery,India,Mumbai,False
+f656266b-8b24-4934-a43b-c503e383dbd4,218c1d6a-6541-4a64-9cd6-69b5e178e6a8,2023-10-25 02:47:33,9187.78,INR,deposit,mobile,Target,Retail,India,Mumbai,False
+b91ce2ad-8024-479c-8fd9-01594d906dfb,b441488d-cc9a-477e-9e07-597c063ecb9b,2023-08-18 04:05:53,7296.82,JPY,deposit,mobile,Target,Clothing,Japan,Fukuoka,False
+1398a2e2-e183-49d2-9fba-baef18086d3b,2b6510f1-272e-4fdd-8d4d-a0778f5f11dd,2023-09-16 17:52:04,6180.37,GBP,transfer,mobile,Best Buy,Miscellaneous,United Kingdom,Liverpool,True
+31a6eabc-a59c-4836-b007-17e0719d2858,35a29ac8-8da4-48a6-bfd8-d4ddb2a069df,2023-07-07 16:01:32,9215.79,EUR,withdrawal,online,Amazon,Electronics,Germany,Frankfurt,False
+94d8e783-0d1e-4c0e-9009-3aa679b4129d,8a8ba386-9cf3-4bed-923e-2ab3e6fb5575,2023-07-25 16:57:05,9056.06,USD,deposit,ATM,Best Buy,Miscellaneous,United States,Phoenix,False
+3c8695d0-251f-4da1-8c86-fbbbbfbe7008,b933844c-c971-491d-912f-c7ca19e0e5ba,2023-12-02 21:04:23,8222.09,EUR,deposit,mobile,Target,Clothing,Germany,Munich,False
+e395e369-4135-4ebd-a34d-46f762d2b188,a6aa1343-15ac-4cd5-8c58-b9a5a58882b9,2024-06-25 13:35:30,6142.52,EUR,transfer,in-branch,Costco,Miscellaneous,Germany,Hamburg,False
+e22971e2-2646-4462-9ae4-81aceddbf0f1,9a391284-81eb-403a-9669-b8f8f2dbfc51,2024-05-06 16:38:23,3883.76,JPY,purchase,in-branch,Costco,Retail,Japan,Osaka,False
+7f766f37-10ef-4255-9578-49328d7471da,1ab256c1-b4c2-4e33-8365-3874c05f2313,2024-02-13 01:36:18,1117.09,USD,purchase,mobile,Walmart,Retail,United States,Chicago,False
+9fb816f6-e248-46dc-b6a0-50c2afd0dabd,ac368a77-22e0-4782-8d3a-52a81e138b9b,2024-07-28 04:21:14,8940.3,EUR,deposit,mobile,Best Buy,Miscellaneous,Germany,Munich,False
+6ef0bf91-cf6d-441e-ad13-dd27d1ef13ec,6a075c37-bd08-4654-ad3b-5fd9cdc2a0c5,2023-09-23 18:51:03,6046.02,EUR,transfer,mobile,Target,Miscellaneous,Germany,Frankfurt,False
+82412a6b-77b9-4446-b61a-1fe041f6078e,ef4a0f37-6469-4652-b1b3-393e66f6cecd,2023-10-05 18:15:10,5487.49,EUR,purchase,online,Best Buy,Clothing,Germany,Frankfurt,False
+cbffb147-e6b9-4c90-b39b-119b36f31873,025a1570-5216-47d8-add7-7302e75d84b7,2024-02-08 13:21:40,4494.65,GBP,transfer,ATM,Costco,Electronics,United Kingdom,London,False
+6e5fe916-3c3d-42e5-907a-db5a0a19d507,ec4cedc1-7220-433b-b8f3-e1318432333b,2023-11-12 18:14:46,3912.04,USD,transfer,mobile,Walmart,Grocery,United States,Chicago,False
+942ec556-c890-445c-bb9e-5f103aac6878,44c4434d-4bcf-4d73-b3fd-0c42318aba2d,2023-04-01 05:22:45,5053.34,GBP,deposit,mobile,Amazon,Clothing,United Kingdom,Birmingham,False
+396c8b3a-d507-4a84-b6ef-80f7574cbad1,b8666c36-265d-4d74-805b-af00b83d66eb,2024-06-22 09:17:41,805.91,EUR,transfer,mobile,Best Buy,Grocery,Germany,Berlin,False
+7fd28dc0-ded7-43f7-a915-ef433c40e45d,84acbe24-24ec-496f-accc-11b55ae78eec,2023-10-29 18:13:42,8304.74,INR,transfer,in-branch,Best Buy,Miscellaneous,India,Delhi,False
+045dff98-1a81-41da-b1f6-22d671505108,a1208c4d-4904-4a63-8dfe-1750cad8926f,2022-09-10 00:05:27,5899.97,JPY,purchase,mobile,Amazon,Clothing,Japan,Fukuoka,False
+7626ae86-5cec-41a7-a428-622fadd4b027,0438f5a0-9947-45b5-999d-76451dd413a3,2024-06-10 00:54:23,6930.86,GBP,purchase,ATM,Target,Clothing,United Kingdom,Manchester,False
+cf2b4ccf-d590-4b51-81d2-bb4ab34534b2,8ed6ece1-69f0-4249-9e1a-1bfcc47f59c7,2024-07-28 02:15:30,605.79,INR,deposit,ATM,Target,Grocery,India,Bangalore,True
+aabbdf53-f0b4-45ba-9140-de465c779faa,24f01859-150f-4d75-b1a0-afd0c6b7c00c,2023-08-18 05:27:14,7565.06,GBP,transfer,mobile,Best Buy,Grocery,United Kingdom,Glasgow,False
+457cebae-3ed4-47f3-958c-afe85fe90e7f,819c2e41-df3f-4484-893d-a5539359dda1,2024-06-15 07:32:35,4445.27,EUR,purchase,online,Target,Grocery,Germany,Berlin,False
+7745373f-9847-4236-a2e3-448ab0429e81,aba559c5-00f3-4383-800b-b351cc2fe88e,2022-12-25 17:31:12,5383.4,USD,transfer,in-branch,Target,Retail,United States,Chicago,False
+e4a376e7-ebba-4f7a-aed1-6002c595db5f,4ef6a4a9-6d47-4292-bc30-238cab198cd1,2023-02-18 01:26:48,7708.36,USD,purchase,in-branch,Best Buy,Miscellaneous,United States,New York,False
+c7366b8b-d309-40fb-b1ed-c7961cea3892,f8a8f2b5-e254-4fd5-80a8-c5d2a604ec9f,2023-07-20 10:17:40,9240.31,INR,deposit,mobile,Walmart,Miscellaneous,India,Mumbai,False
+4ea90a01-a0f9-4880-9ecd-9948908b1a4b,4bf515a7-9463-4b02-a99d-d83c41e27e51,2024-01-08 02:54:09,6588.48,JPY,transfer,online,Best Buy,Electronics,Japan,Sapporo,False
+90d03319-a559-4dea-ba14-501680d6410e,db9806df-b863-45c0-8ea8-91cc6766f24f,2023-03-17 02:17:10,9983.99,USD,purchase,online,Walmart,Clothing,United States,Chicago,False
+7f8f43d0-1c96-4ace-a8ff-51b6e4d05725,19869852-aced-4b01-8261-aa1657237953,2024-05-27 23:24:05,3173.9,EUR,deposit,mobile,Costco,Miscellaneous,Germany,Berlin,False
+14494bff-727e-42ae-b866-b3a68d7fc9ad,54cd3a42-2c3f-4a76-bc06-ed6df3577375,2024-02-06 23:17:46,3732.14,EUR,deposit,online,Amazon,Retail,Germany,Berlin,False
+0ee5ac3a-64e6-427e-9252-539f6dbf9468,f6a13390-4bd3-4d94-98db-253813d3f65e,2022-10-03 02:41:47,9143.23,INR,deposit,ATM,Best Buy,Clothing,India,Delhi,False
+4d56ab39-ea70-457f-8f8e-ae61376c53fc,3c8d396b-5b27-4b2f-bb93-1939efd40346,2022-10-29 07:49:19,3218.94,INR,transfer,mobile,Costco,Miscellaneous,India,Chennai,False
+69e6e54d-7738-44d1-9a87-0e89f746d4fe,e432e021-7980-4d64-88f8-998dccdc62f2,2024-03-29 12:17:48,3489.36,INR,deposit,online,Walmart,Electronics,India,Chennai,False
+c5daaeb9-361f-4a41-85d9-1284dd75838f,74a4a878-b7a8-4230-988b-372fe822fd90,2024-04-01 08:09:31,3535.37,EUR,deposit,online,Costco,Retail,Germany,Berlin,False
+50769f51-a8cb-4ac0-9d83-4d177ff5a23c,44a27fbc-4cd8-4355-865f-bc4ae3f02047,2022-09-11 22:46:47,5244.17,GBP,transfer,mobile,Amazon,Clothing,United Kingdom,Manchester,False
+f4a4157c-2493-4ffa-a8f0-fe02d43f5e74,cff0bceb-1d3e-4b99-860f-625d839e2a23,2023-05-03 15:50:21,3890.44,USD,purchase,ATM,Best Buy,Retail,United States,Houston,False
+1e578ac4-41a7-4465-b148-e8d6efe8949a,41dc694a-804f-4fc0-8a49-333ab22a70fe,2022-09-03 08:08:25,3377.39,INR,deposit,online,Target,Clothing,India,Delhi,False
+2f3839ed-5f96-4a34-9e03-6a91263ae030,2a34604e-a1dd-4710-8f0d-4c79d7d5ae12,2023-06-18 03:52:36,4865.38,GBP,withdrawal,in-branch,Walmart,Miscellaneous,United Kingdom,Glasgow,False
+a182711e-9920-49d5-9abb-24f8076a4199,233c8c00-f0c6-4609-941c-2b2bb3693056,2022-09-11 06:53:58,8798.35,JPY,transfer,in-branch,Walmart,Miscellaneous,Japan,Fukuoka,False
+48347fbb-69a6-4d58-b07f-aad14c7b4933,3ee1761c-5e50-41df-9304-3b9f2e745ea0,2024-07-24 00:15:38,6387.27,USD,purchase,ATM,Target,Retail,United States,Houston,False
+46fbd400-62ea-48b3-803e-0efee7a596c3,d622e7ea-b7b0-4138-97ed-b4fccaf4c5a1,2024-05-21 20:00:51,3019.77,JPY,deposit,online,Costco,Miscellaneous,Japan,Tokyo,True
+a8c8b523-c187-4c2e-b10e-97b352579d6d,22dc85c2-efb5-469e-9689-fc48c7e45aef,2024-02-29 06:28:52,7949.69,EUR,deposit,in-branch,Walmart,Clothing,Germany,Frankfurt,False
+6a40bd97-c815-4791-8831-cdddff901f0a,c997920b-3835-45a9-b6e0-ca97eed56bde,2022-09-24 16:13:25,9985.13,EUR,deposit,mobile,Best Buy,Miscellaneous,Germany,Cologne,False
+e7f2fef0-a287-4c3c-9c10-25cb7996a60c,7c4b1d25-6015-4e8a-9f20-a274907a4951,2023-10-14 22:45:59,1391.68,INR,withdrawal,mobile,Target,Electronics,India,Bangalore,False
+11694f24-7176-4db6-8346-17a2b6e144d7,51877c5d-dcaa-417f-a6d0-0c36e37caa8e,2023-07-09 01:15:38,9312.62,INR,deposit,ATM,Walmart,Electronics,India,Mumbai,False
+e57827fa-9533-4081-8a7e-86596038a2de,9d6def54-e9d8-4746-8e5c-f777d995324b,2023-05-27 15:35:09,5719.89,JPY,transfer,online,Target,Electronics,Japan,Osaka,False
+59712311-89f3-4505-9e87-fdd722387872,bcf7eb01-7129-4a02-aa77-e260636532f3,2023-04-18 14:09:52,2055.45,EUR,withdrawal,online,Target,Miscellaneous,Germany,Frankfurt,True
+7f10320d-050f-4f20-bb14-95e6a78b37fe,188ee2cc-e89a-429d-8785-2f001b32218f,2022-11-15 09:40:56,6611.34,JPY,deposit,mobile,Amazon,Retail,Japan,Sapporo,False
+cb40498b-9f74-421d-9779-c4898ac0c9ba,6ab2f9af-f1d6-4545-81c0-2638a805587b,2023-03-02 05:30:44,5498.29,GBP,deposit,ATM,Target,Retail,United Kingdom,Glasgow,False
+c3b29df3-bc9b-4a15-ae23-855c0b64298d,ad84beee-e65d-4cf0-a068-3ae8f0857e6b,2024-03-13 20:39:02,6333.28,INR,transfer,mobile,Best Buy,Retail,India,Bangalore,False
+b4b27b04-8afc-4c9f-93b9-1c8e3f0917ce,a1dd238a-e8f9-4e53-94d0-03a4003e1683,2023-07-14 19:50:17,729.35,EUR,withdrawal,online,Costco,Grocery,Germany,Frankfurt,False
+165ff0da-6500-4416-9c40-3e8cfa5ffd08,8a2e2fdf-109b-4ac0-80c7-f87b57afea75,2023-10-15 12:58:08,1797.15,JPY,purchase,in-branch,Target,Retail,Japan,Osaka,False
+bbf921a7-387e-4d4d-bcdb-03c38f99250c,3f27611d-4228-4644-b95f-4aa010ce01a7,2024-04-09 23:57:30,7796.28,GBP,withdrawal,ATM,Target,Electronics,United Kingdom,London,False
+566724ba-4e41-4236-9d73-8ea9e1518d54,2616f05a-d3b8-4251-8e9f-07c4f94fcbd6,2022-09-02 09:57:26,9612.78,JPY,withdrawal,in-branch,Costco,Retail,Japan,Tokyo,False
+1664d087-eb2c-4ad4-9a0e-34b3e35b8d28,45e66541-48c3-46d0-aa1d-acfaeecdb904,2022-12-19 03:01:07,512.09,INR,withdrawal,ATM,Walmart,Electronics,India,Hyderabad,False
+f0c82114-dff1-412b-9bc4-502a498f7a41,8d56b15a-6778-4d9b-84a3-33dc2d886fb2,2022-09-03 22:48:51,765.29,EUR,deposit,online,Target,Miscellaneous,Germany,Hamburg,True
+b169ed77-16d2-4130-bf28-7c39251d7d65,6c52a887-92b5-4d27-8373-8899473a5907,2024-07-18 19:19:41,298.43,JPY,transfer,in-branch,Costco,Electronics,Japan,Nagoya,False
+5a1560d0-7c26-4dd4-bc1b-e150541294bb,11f583b9-3535-4715-a7d3-429cf46a701e,2023-07-29 02:09:30,1242.78,INR,transfer,mobile,Walmart,Retail,India,Bangalore,False
+41f2a7c7-593f-4bf0-97c2-4c87ca49a6ad,b15636c6-978a-40b4-9b3f-b28180aa854f,2022-09-19 23:06:44,8312.23,USD,transfer,in-branch,Amazon,Miscellaneous,United States,Houston,False
+a6b10de1-59c1-41b8-a4b3-f0cdf8aabed1,98e221a6-80ce-4b4b-879d-b6272ff30382,2022-11-22 15:04:25,8909.9,USD,transfer,online,Walmart,Grocery,United States,New York,False
+54703519-5f6c-48d6-ab44-528c4290bdf9,6a165d91-0df7-4b75-8aa0-5c1f8fcebfb6,2023-08-02 01:06:29,1505.21,INR,deposit,online,Walmart,Retail,India,Hyderabad,False
+751aa8d7-23f5-4659-832e-85ac8db2f065,cff0bceb-1d3e-4b99-860f-625d839e2a23,2023-02-08 23:47:45,5281.07,USD,deposit,online,Costco,Miscellaneous,United States,Houston,False
+ef7f6aa9-2cc3-4d1d-bb76-0f03c604829c,af4df2dd-9bb1-43bb-ab4c-8b7d5fc922fe,2023-03-15 01:38:17,6790.29,INR,purchase,in-branch,Walmart,Miscellaneous,India,Chennai,False
+7112c437-308b-4014-be5f-d35c2b793075,f82c7ebf-253c-43fa-9c80-770fcb2fd72b,2024-02-04 12:05:53,8782.11,JPY,withdrawal,mobile,Best Buy,Miscellaneous,Japan,Nagoya,False
+6e78dc1d-b35c-4584-8d7b-973cc038f70f,f7a01124-ae9c-47d3-a394-d7a6eca630a7,2023-09-09 10:46:01,3343.98,USD,withdrawal,ATM,Amazon,Clothing,United States,Chicago,False
+48a1b5d4-bd5c-41e5-a94f-314dc4addfc8,cb7dc6da-9f03-4e81-a7b7-8d9b0be1ffc9,2022-09-30 00:37:39,6240.59,INR,deposit,mobile,Amazon,Miscellaneous,India,Mumbai,False
+89a5e716-5266-4340-bbd1-9eb0317417ee,510d801f-ddcf-4030-9d66-508bc0c339ed,2023-09-12 00:28:49,5866.89,JPY,purchase,online,Costco,Retail,Japan,Osaka,False
+d2846591-b9f0-4e96-ad6c-5b349d23ee00,cbd27609-da56-46b4-9adb-2839f5ebb56b,2023-07-04 10:52:37,1706.32,JPY,withdrawal,ATM,Walmart,Grocery,Japan,Nagoya,False
+68600553-ade3-41e3-81f3-0c59086a65cc,512822c9-0335-4df6-9ce5-0d4878a0c2f5,2023-03-25 18:00:19,2745.32,USD,purchase,in-branch,Walmart,Electronics,United States,Houston,False
+57cc7993-f394-452d-bb83-2f6579eb18d6,6c52a887-92b5-4d27-8373-8899473a5907,2024-05-24 12:52:34,6942.52,JPY,transfer,online,Amazon,Electronics,Japan,Fukuoka,False
+cdc676a9-bd72-4159-9243-ca912815ce98,6c2c6bd8-4235-417e-9791-6f1c6fa94687,2023-07-30 16:28:31,8944.03,GBP,transfer,ATM,Target,Clothing,United Kingdom,London,False
+8d8552c1-6914-4b09-9b58-370f9ec21801,172f5750-2f4e-416f-bd8b-e32f5a37bc21,2023-12-10 20:21:02,5463.89,JPY,deposit,ATM,Walmart,Retail,Japan,Tokyo,True
+54479254-b1ef-4669-a17f-11552ce0eaf0,da90afa8-3ae2-413f-8f4b-7d56059b1bd4,2023-09-09 03:27:55,5612.04,GBP,transfer,ATM,Costco,Electronics,United Kingdom,London,False
+b9b329b2-6cc3-4d5e-bf32-a1ca274de692,a9814266-0f90-4f87-b0b2-2a8aeec498cc,2023-01-07 22:29:46,6674.82,EUR,withdrawal,mobile,Amazon,Clothing,Germany,Cologne,False
+89ca7c55-5c32-40ab-869e-bd10d50ff2c4,70923b0c-ac18-4ebe-9919-c73a8f541bd8,2022-12-09 22:37:02,3961.68,EUR,withdrawal,mobile,Costco,Grocery,Germany,Frankfurt,False
+bb99cd13-763c-4862-828f-6c1f768139b3,39882dbb-cf36-4977-87ce-57c4f852448d,2022-12-28 09:00:45,4788.22,JPY,deposit,mobile,Amazon,Electronics,Japan,Nagoya,False
+d105cddc-f296-4757-8ab3-52ec01b85f36,62d1833a-95e7-4076-9f50-0899f5c8b051,2023-07-29 02:16:10,5989.61,EUR,purchase,online,Costco,Retail,Germany,Berlin,False
+584f5c77-21f2-4555-8a46-6cb51c32d03e,92289710-21c5-40ac-bc47-9ac772d1cfe4,2024-02-29 00:32:28,640.76,GBP,deposit,mobile,Amazon,Grocery,United Kingdom,Liverpool,False
+3f2c0a68-1fc0-4b08-9400-08f5e1aabcb1,3a148564-f00a-43c7-99ca-36c260d393cd,2023-02-05 23:42:58,3536.52,EUR,deposit,in-branch,Walmart,Retail,Germany,Hamburg,False
+1f1c9883-9f3a-4e74-9618-a20206c69161,1bb51464-a163-4d53-9538-956bc39d306b,2023-02-12 19:51:08,6289.35,USD,withdrawal,online,Amazon,Electronics,United States,Houston,False
+09486f51-7452-40ae-a9c7-f72d8e80adc4,ee6c3663-3538-4246-90dc-16d75a039ebc,2024-06-06 17:58:53,8708.82,INR,purchase,in-branch,Costco,Clothing,India,Hyderabad,False
+eceed5e4-bed5-46d0-a21d-6611d5adae65,e1807a54-00b6-4290-8248-e77cd603d97f,2022-08-30 15:14:28,4620.55,JPY,purchase,mobile,Target,Retail,Japan,Osaka,False
+ee9046a9-db50-45f1-8a7c-52422f7945b1,261c2337-a085-473e-9225-9b96bb7bca38,2023-10-31 00:03:42,3232.51,JPY,withdrawal,mobile,Best Buy,Grocery,Japan,Nagoya,False
+66caee92-6e78-40c3-9d65-2f5b69409b45,a9814266-0f90-4f87-b0b2-2a8aeec498cc,2023-07-03 03:04:36,6843.13,EUR,deposit,online,Amazon,Clothing,Germany,Cologne,False
+12d248d4-20a4-48bd-bff1-806a74b8a397,8d81c3a5-c8b3-47c7-9b36-c9f5d87e9aba,2023-03-31 08:59:46,6487.13,JPY,transfer,mobile,Amazon,Grocery,Japan,Sapporo,False
+2d65e699-6985-4966-a682-21830651966d,9068766f-848f-4678-9a65-a355164123a2,2024-02-19 12:57:38,7341.68,USD,purchase,mobile,Amazon,Electronics,United States,Los Angeles,False
+e791c3a7-6062-41a8-b1f7-c834c209aff0,3cd144f5-ec43-46dd-a46e-590d6acf582b,2022-10-08 04:12:41,7595.48,GBP,deposit,mobile,Best Buy,Electronics,United Kingdom,Birmingham,False
+52271d9f-4716-4019-b4f1-3f3b5e4fbb9f,4ab703f5-baac-4517-9080-550c251a2025,2022-12-15 06:51:52,2019.26,EUR,transfer,online,Target,Retail,Germany,Munich,False
+dc85c295-40a1-42c2-b8e2-6b2e1875d452,e1fb1fb4-0eaf-4508-9d3c-a4dfdd713122,2023-03-19 02:29:50,959.32,USD,purchase,ATM,Target,Clothing,United States,Phoenix,False
+cb134eb6-fe09-4ef7-bc2e-e226b193870d,47b83fd1-3f59-4890-a0e4-2172c433a32d,2023-08-31 20:12:01,5429.95,GBP,deposit,mobile,Costco,Clothing,United Kingdom,Liverpool,False
+4d5916f7-a60d-4aa0-ac5c-0c5932501b85,9f91facb-69c3-4a16-a23a-f8f0a1c89263,2024-04-20 04:18:04,1480.73,USD,deposit,mobile,Amazon,Retail,United States,Houston,False
+a0d1b1ab-5a9d-485e-8bfc-68eb89362372,831f8fec-3105-45bb-82d4-1eef5220ee85,2023-09-03 11:25:55,8007.9,GBP,withdrawal,ATM,Walmart,Miscellaneous,United Kingdom,Manchester,False
+376ccd22-ec58-46b4-8f23-57d5343c1cf3,1a0685ae-1c1a-4362-ae7f-2297d383b194,2023-06-30 10:55:07,2935.88,USD,purchase,in-branch,Best Buy,Miscellaneous,United States,Phoenix,False
+95ff4aaa-b958-48a3-9894-6b5ea924fc7e,f62ded45-ad4a-43c8-8bb7-be31468ae91b,2024-04-07 21:41:28,4713.51,EUR,purchase,mobile,Costco,Miscellaneous,Germany,Munich,False
+520072bd-bcfd-4480-9e9b-5e05dc2495eb,9f91facb-69c3-4a16-a23a-f8f0a1c89263,2023-03-02 14:09:24,8589.02,USD,deposit,ATM,Costco,Electronics,United States,Chicago,False
+a0ed2b7b-afde-4b3f-9ac5-1b40d8c62606,1f5a2b66-034e-4000-961b-5eb2b3a40bd3,2024-07-18 09:02:27,9842.11,USD,transfer,ATM,Target,Electronics,United States,Phoenix,False
+ce74b010-6010-4451-a480-70182e5c8fa3,e42e061e-fb49-4fb8-bfaa-faf27fbc118e,2023-05-15 18:58:24,5356.64,USD,deposit,online,Walmart,Clothing,United States,Los Angeles,False
+8314f437-2293-4061-9a11-85264c678137,59f10c05-95ad-4511-80be-4e93ca31360d,2024-06-02 03:09:19,4302.34,GBP,transfer,mobile,Costco,Clothing,United Kingdom,Birmingham,False
+63504925-a6cb-44a1-8cf1-01468ac86e3c,a4193457-ec6d-45d8-bf20-5fac6e06fbe2,2023-12-28 02:58:24,4559.86,EUR,purchase,mobile,Target,Clothing,Germany,Cologne,False
+ebffb8ee-c543-4a57-9d30-51817acfe31f,136e6f93-0439-4b5f-8890-c8005bf319a5,2024-05-12 06:41:12,4291.34,JPY,transfer,in-branch,Walmart,Electronics,Japan,Tokyo,False
+554ae4ba-5cf3-43c3-befa-a2d25d9f9bf8,6439b312-5790-4863-957c-79faa460ac7b,2023-09-16 06:49:03,5748.28,INR,withdrawal,in-branch,Walmart,Clothing,India,Mumbai,False
+03048ee9-00af-4b3f-8dc8-3e4eb28146a0,4e365409-0216-474e-87d2-4f70baefb8f6,2023-02-12 02:30:46,2489.13,INR,transfer,mobile,Best Buy,Miscellaneous,India,Mumbai,False
+ae15f534-046b-4423-8b59-3e8e9e59e81d,d469db9f-76dd-4937-ad5a-050b8f39312b,2024-03-30 13:28:48,3757.19,INR,withdrawal,ATM,Walmart,Electronics,India,Bangalore,False
+3e1dad6f-0ff6-4a82-bf4c-e85bc489f05b,5f671866-4823-4cda-9950-2cd8b6e4e755,2023-03-04 05:02:32,74.84,JPY,deposit,mobile,Costco,Clothing,Japan,Osaka,False
+36ade11a-4a9e-4723-b05c-7338a70bcfa5,7e7d372f-8583-44b1-8518-9cbc9528962c,2024-02-04 22:19:35,5420.36,INR,withdrawal,in-branch,Amazon,Grocery,India,Bangalore,False
+c6ab1630-5b6f-4d26-92f9-5cf7a4a538e7,ffd00e47-0343-4c6a-9190-cfb11e3b25de,2022-12-01 00:54:40,8280.37,JPY,deposit,in-branch,Amazon,Retail,Japan,Sapporo,False
+84b33193-91ce-42bf-a7ae-4e0c09f694ae,136e6f93-0439-4b5f-8890-c8005bf319a5,2024-02-12 23:27:53,8201.42,JPY,transfer,online,Costco,Grocery,Japan,Osaka,False
+81a0ba5c-aced-4cf0-970c-33ec148914b6,4aea2760-0649-47d3-91df-bc459925345c,2023-12-13 10:36:30,6315.83,EUR,withdrawal,in-branch,Walmart,Clothing,Germany,Frankfurt,False
+e7a2b494-0fa8-4f32-a049-b51b370d08e2,29897223-7bee-4ec5-be36-73b5a4f1204e,2023-10-17 08:38:38,3887.92,EUR,deposit,mobile,Best Buy,Retail,Germany,Hamburg,False
+79ca27fe-ff2a-432d-8434-2fbf8b8a5ac2,38ca0599-f9b8-4cb8-b7ba-e6a2303c075d,2023-10-08 18:27:42,8108.49,INR,purchase,ATM,Target,Electronics,India,Bangalore,False
+16cc8e36-4148-4f53-bbf2-deb6c500d63f,9df9ff00-4d6d-4aa3-a2fb-6ca3fc4551f6,2022-09-27 18:06:19,3771.02,EUR,withdrawal,mobile,Best Buy,Clothing,Germany,Munich,False
+7788ce78-d2d0-485d-bf37-ef845bebed97,b6e2057a-cc77-4c11-a23a-fcfd0abc72ff,2023-03-08 18:07:37,2240.47,USD,withdrawal,mobile,Costco,Retail,United States,Houston,True
+f3728f73-9429-43e7-9f38-6172f9cea7ae,08d0394d-0c30-4b54-906b-5bdf25883ee3,2022-12-19 09:03:38,8340.83,GBP,purchase,online,Walmart,Grocery,United Kingdom,Glasgow,False
+9cea9015-7251-4ffb-a2c1-11b79f6f5777,e12da618-0cba-462f-86a6-972610501c6b,2023-05-17 18:10:46,9867.07,GBP,purchase,mobile,Best Buy,Miscellaneous,United Kingdom,Birmingham,False
+ea01932f-e9e9-4cc9-96e6-892099ca1346,70923b0c-ac18-4ebe-9919-c73a8f541bd8,2022-09-08 02:17:12,1552.67,EUR,deposit,mobile,Best Buy,Miscellaneous,Germany,Hamburg,False
+261301ee-5e51-4e6f-aea5-05ea093fe7e0,5e1182c7-536c-4bd5-ba0d-85f586537b3b,2023-05-24 21:54:00,2363.12,EUR,withdrawal,mobile,Amazon,Clothing,Germany,Munich,False
+0adbfe2a-c4e9-4e81-8939-a430faba440d,2fceeddd-0843-43c4-9911-5e796e835ac0,2023-12-01 13:17:58,2208.8,JPY,transfer,mobile,Walmart,Electronics,Japan,Fukuoka,False
+f25765cc-d526-4f2d-93a2-05d14c48b1cf,188ee2cc-e89a-429d-8785-2f001b32218f,2023-10-21 15:45:23,6999.34,JPY,purchase,in-branch,Best Buy,Clothing,Japan,Osaka,False
+2ebd9e9b-0312-4cfe-81dd-9b8500f42249,44b685c6-2bf5-4fa5-95d6-65d01cddcd70,2023-09-22 10:09:16,5852.95,USD,withdrawal,online,Walmart,Clothing,United States,New York,False
+77d4e0da-2165-4f02-a4dc-55485bc3d7dc,95a31aad-f9eb-490c-adbe-cdf9d294bcc5,2024-08-07 15:47:45,9095.5,EUR,purchase,online,Target,Miscellaneous,Germany,Berlin,False
+3c92124c-873c-4f7f-a4b2-bc670771db40,a8ddbbda-ddec-451d-afb0-57a10de6f9f6,2023-12-24 18:58:18,8349.08,EUR,deposit,in-branch,Costco,Retail,Germany,Hamburg,False
+5a77b3ce-0239-4c0c-8c82-69af6eb56f9f,498391f8-9136-4d1e-886d-79f160d4a9ed,2024-03-03 03:46:33,8352.79,INR,withdrawal,in-branch,Walmart,Clothing,India,Mumbai,False
+2835e932-f461-4e27-a088-93ad692c23d6,6918b143-0b8d-442f-a2ae-d067dc929fee,2024-06-19 03:17:51,9209.85,GBP,withdrawal,mobile,Amazon,Clothing,United Kingdom,Manchester,False
+55a35f0b-66ba-4dea-8275-fd34401df8a1,27b4ae4c-50d5-419e-b167-92128b0885f3,2023-02-24 08:58:43,8948.24,GBP,withdrawal,online,Walmart,Miscellaneous,United Kingdom,Manchester,False
+09008a9d-cccc-46ab-bc3e-3d6fd5cb74e9,7080fea6-f28f-485d-836d-a2b5360ba961,2023-10-12 00:48:11,6381.7,GBP,withdrawal,online,Costco,Miscellaneous,United Kingdom,Birmingham,False
+af5e3ea9-22f8-4c43-bd04-c1bd0c7ccfec,8178b7a9-7c45-4000-908c-cbe4ca1492f7,2024-05-16 05:14:15,7611.21,GBP,purchase,mobile,Best Buy,Electronics,United Kingdom,Glasgow,False
+6af97e45-99a0-4d21-892c-8bec8e1faf53,b9232960-b8e9-4766-851d-fba62b5e52fe,2024-01-27 23:36:55,9093.77,JPY,deposit,in-branch,Walmart,Retail,Japan,Nagoya,False
+265a7c9c-9c6d-453b-af46-2d0f62e69120,f2506ba4-fc4e-46e3-9752-00b59a7c8c0d,2023-11-13 12:40:22,4082.15,EUR,purchase,ATM,Amazon,Grocery,Germany,Cologne,False
+7d881c53-eb47-4212-898a-c1087cd0d21c,01c4386d-bfc0-4ada-bea7-d382a628d7f9,2024-05-19 19:20:10,6720.91,EUR,transfer,ATM,Walmart,Clothing,Germany,Munich,False
+95ee16dd-f5ab-43c8-a813-19cc4681ee17,6d243a36-defe-4968-892a-d5b3e4424cd0,2023-07-29 06:44:05,8234.14,USD,purchase,online,Walmart,Clothing,United States,Phoenix,False
+98d6d3cb-8897-40e5-a1d3-2e024e687216,167d63ff-14e8-4ed0-ac28-0a440f52acb4,2022-11-30 18:25:50,2823.52,USD,withdrawal,mobile,Walmart,Retail,United States,Phoenix,False
+e9f5f431-fa5c-4058-ad5b-3b21b80afb6b,e1fb1fb4-0eaf-4508-9d3c-a4dfdd713122,2022-11-07 06:27:39,1074.33,USD,deposit,mobile,Walmart,Miscellaneous,United States,Phoenix,False
+0d32c999-b6f2-4a53-b889-68f9a7895525,a79c835e-5159-4cab-869c-8c3ed5ab2c63,2024-07-03 06:16:27,4586.3,USD,deposit,online,Amazon,Grocery,United States,Chicago,False
+f7539461-de68-4919-9dc6-e3045e8076dd,d50f8af8-e8a0-49c5-9c0b-46e514dfd965,2023-02-16 00:19:18,7064.67,INR,transfer,mobile,Target,Grocery,India,Hyderabad,False
+96515014-53b2-4797-b660-0539fcaacb31,9554936c-3c26-41aa-9288-5ac063aadae1,2023-12-21 17:02:53,9666.44,INR,deposit,mobile,Walmart,Grocery,India,Bangalore,False
+dfeb06fb-5e40-41d9-a499-5edfb85fe039,6a075c37-bd08-4654-ad3b-5fd9cdc2a0c5,2022-09-11 13:30:15,2313.42,EUR,purchase,in-branch,Target,Grocery,Germany,Hamburg,False
+cdb7f99d-6457-43a5-ad5d-afa27547c2a5,a24dfbe0-aae7-4768-9ba3-561333d684b5,2024-06-20 01:53:15,4711.82,USD,transfer,in-branch,Target,Electronics,United States,New York,False
+bb7bb425-7e94-4562-965b-9f6886c98941,097a3e27-9dc6-407a-abaf-aa9be8a29bad,2023-08-01 10:20:27,1883.23,JPY,transfer,in-branch,Costco,Grocery,Japan,Fukuoka,False
+93e37f95-7b0b-457b-8783-53c48c8c5e3a,07704dea-1647-4899-8bd6-1b40ea824960,2024-03-29 18:26:08,3828.38,EUR,transfer,in-branch,Best Buy,Clothing,Germany,Munich,False
+7e02eadc-95fb-462e-9e26-5d5256b15ac7,13cf1bd8-8d22-4f95-831b-60d545981f11,2024-08-03 18:07:25,7747.63,EUR,deposit,ATM,Target,Electronics,Germany,Munich,False
+ff90b208-826e-4849-86a2-d4d469f9edd0,942b908f-cb4c-47d7-b299-c1bccfdc9407,2022-12-09 19:26:37,9605.26,USD,transfer,online,Target,Clothing,United States,Houston,True
+b08eb491-70a7-4603-aeff-4e1be876ce4d,cbd27609-da56-46b4-9adb-2839f5ebb56b,2022-09-19 04:13:21,4490.18,JPY,transfer,in-branch,Walmart,Clothing,Japan,Fukuoka,False
+34781a61-a06a-471a-bfdb-fe16457fafc5,2193f18e-2cd1-4444-b6aa-8aefd9c9f9d9,2022-10-31 16:35:29,4288.61,INR,transfer,in-branch,Target,Electronics,India,Hyderabad,False
+cfb3121a-9124-4334-91ee-c9657c57412c,bf952ec8-8fd1-4c41-8715-adc9d2395ba4,2023-09-23 12:23:52,4418.25,JPY,purchase,in-branch,Walmart,Electronics,Japan,Tokyo,False
+a6c278df-70c4-41f6-ba69-27e47c14c8a4,baba38ce-a366-4b45-a837-17a3f180eb0d,2024-04-23 00:06:57,3137.42,GBP,deposit,in-branch,Target,Electronics,United Kingdom,Birmingham,False
+2672c200-fdae-43ab-bd70-b097e08b4f23,cbd27609-da56-46b4-9adb-2839f5ebb56b,2024-08-06 02:34:38,9244.02,JPY,deposit,online,Walmart,Clothing,Japan,Sapporo,False
+64b6790b-a0a3-4b82-89a3-8a0d60edd480,153cc4bb-b26c-41b7-a226-3c37c3999383,2022-12-27 00:29:37,4786.04,GBP,withdrawal,in-branch,Best Buy,Miscellaneous,United Kingdom,London,False
+00470b55-70ab-4502-9113-fc489498709a,990e214a-d0e2-4c23-ac8f-99b87d7676ab,2022-12-16 00:13:36,9967.06,USD,transfer,mobile,Costco,Electronics,United States,Phoenix,False
+f9cd04c0-7750-4191-978e-5b536616f5ae,861c61b6-0c60-4c2e-93ab-dc28aea231b5,2023-12-09 21:56:52,2513.77,USD,withdrawal,in-branch,Target,Retail,United States,Los Angeles,False
+2aa2d9fe-a7f4-4267-ad55-c430ce321a67,fe9d1125-b83a-447b-8736-2065ba06f68c,2024-03-01 15:37:12,9417.8,USD,purchase,mobile,Target,Miscellaneous,United States,New York,False
+145b68d9-12c3-4e71-a71d-ef96a3dd7a1c,90480106-0697-4af7-b0cf-e95412d0de26,2022-11-18 00:47:15,8488.94,USD,deposit,mobile,Walmart,Miscellaneous,United States,Chicago,False
+b4ebcf6f-1fd2-41db-a1d3-c3849682cbb4,b4b6d931-42e0-4060-b918-9ab86246faf1,2023-12-26 19:10:16,5823.23,JPY,deposit,online,Target,Retail,Japan,Fukuoka,False
+6e1592cd-5998-4efd-9251-89ce98ca33e0,90a2da9c-e4b7-44eb-8569-7d3528e297d7,2024-06-19 04:04:51,8116.86,GBP,withdrawal,in-branch,Walmart,Clothing,United Kingdom,Manchester,True
+3fa40cec-5454-41b3-b1d8-2eedfe9b2edc,9c7e18ee-06ce-4db9-8312-c6d5cff22e5b,2023-11-18 05:17:38,9321.19,GBP,purchase,mobile,Walmart,Miscellaneous,United Kingdom,London,False
+b7092f80-652c-48ed-be87-8a4dcc0da3b3,6be51750-931d-427f-8fac-84b4b26b2ad8,2023-03-05 14:15:24,4855.15,EUR,deposit,mobile,Target,Grocery,Germany,Munich,True
+e239d8e3-3544-4b5d-93eb-cf8f77b96e73,c1eb3484-f0fc-422e-adbe-ad2e35287d19,2022-12-03 19:37:49,1782.7,EUR,purchase,mobile,Amazon,Miscellaneous,Germany,Hamburg,False
+047ca9d1-c938-4d72-a8fb-02d8f0032579,4f7af242-a495-4220-8da5-391f07357cfc,2023-08-12 19:35:00,542.71,EUR,withdrawal,online,Best Buy,Electronics,Germany,Frankfurt,False
+900a811d-36a1-4ed4-83e1-0f9e67d61a83,85685b56-c150-446d-84ec-f78dab39f409,2024-01-15 23:40:55,8788.41,JPY,transfer,in-branch,Walmart,Miscellaneous,Japan,Tokyo,False
+b7dcd13b-e6d3-4918-9a14-e4f888438aa0,d8433464-855b-45df-bcd7-3a48c1f91d20,2023-10-11 02:17:40,6574.33,JPY,transfer,online,Amazon,Retail,Japan,Osaka,False
+9d5c27d2-4e04-40cf-a6bb-4362771beb74,66119e3f-6f16-4d5e-ba5d-971eacc50bcc,2023-07-28 21:47:07,9149.71,EUR,deposit,online,Costco,Electronics,Germany,Munich,False
+0f5c8422-29f5-42d2-8f1c-7409e5706653,40b38f90-df9e-4833-8edf-6a6d3801f73d,2022-11-24 09:17:35,8095.93,INR,deposit,online,Costco,Grocery,India,Mumbai,False
+e2b462f0-ce83-49e9-a407-91d74c395689,6587c22e-085a-47b4-aaf7-ab522ef161cf,2024-07-20 19:31:46,8084.06,INR,transfer,in-branch,Target,Miscellaneous,India,Hyderabad,False
+222efe5a-3a7d-4dfe-9a8c-98e383f5b05b,98e41857-2c40-48ee-a0ce-72cc7e35259f,2024-01-15 12:10:04,8515.41,USD,deposit,online,Best Buy,Retail,United States,New York,False
+d8479437-96dc-42b6-8604-8db04c0cb141,42bc16d9-bf80-4b6d-916e-7a8bf02fea2a,2024-07-29 08:38:29,8299.56,USD,deposit,in-branch,Costco,Clothing,United States,Phoenix,False
+0fb054d2-fc1b-4151-b0e4-2e064e358dd7,4ad5f70f-8de1-4ce3-8cad-6bce0c3af4b8,2024-01-22 11:08:06,390.61,EUR,withdrawal,in-branch,Costco,Electronics,Germany,Frankfurt,False
+a82375da-1ca0-4465-a226-5ce4bab0094b,71547b88-37b2-4361-b63c-c4d719524baf,2022-10-03 00:34:02,9818.44,USD,purchase,ATM,Costco,Clothing,United States,Chicago,False
+d1a8f495-eb8b-4671-956a-11b1ead3b9c0,6c52a887-92b5-4d27-8373-8899473a5907,2023-03-30 03:30:41,8776.08,JPY,deposit,ATM,Amazon,Clothing,Japan,Nagoya,False
+51758864-8f47-4735-a895-76f7f196a7ac,3e0b12b2-6742-455d-97fd-61ad8fa6f017,2022-10-01 12:19:23,3798.2,GBP,deposit,mobile,Amazon,Electronics,United Kingdom,Manchester,False
+6626b5a5-06eb-4e9f-afd1-7e64fa470c74,9df9ff00-4d6d-4aa3-a2fb-6ca3fc4551f6,2023-07-22 05:23:11,7281.48,EUR,transfer,mobile,Best Buy,Retail,Germany,Hamburg,False
+21fa923d-648b-4cb0-826b-e84eabae5cf8,dd3ca2f2-0bfe-4c67-b244-5010bf97fc64,2024-05-08 01:42:44,6329.64,INR,deposit,online,Walmart,Grocery,India,Hyderabad,False
+fd8e5f64-3ab2-4b48-905a-e5902336f231,5baae00b-cc27-4b41-8d43-73c0bf0cadf4,2023-03-23 12:21:42,4094.22,INR,withdrawal,in-branch,Best Buy,Retail,India,Mumbai,False
+b9a5d08f-9450-4c32-8605-e0dd7d081b63,11f583b9-3535-4715-a7d3-429cf46a701e,2023-05-16 21:07:13,8658.62,INR,purchase,mobile,Target,Miscellaneous,India,Chennai,False
+0b7ccb97-aa21-4125-9caf-bbc10196e777,a00e7746-799a-4ed6-92be-5b690f229b24,2023-03-15 06:59:44,472.78,JPY,withdrawal,ATM,Amazon,Clothing,Japan,Osaka,False
+db015aa0-4da6-48d7-b77c-160899d43c87,6a165d91-0df7-4b75-8aa0-5c1f8fcebfb6,2023-02-16 16:31:07,7240.34,INR,transfer,ATM,Best Buy,Grocery,India,Mumbai,False
+8e6d976d-6695-47a1-ba41-562ce4edb8df,baba38ce-a366-4b45-a837-17a3f180eb0d,2023-02-22 23:13:45,265.83,GBP,transfer,ATM,Amazon,Retail,United Kingdom,Manchester,False
+808058bb-a30c-4e06-8596-4a8f9173da19,033e88d6-3466-40c8-bb8a-61ecdbf9efe6,2022-12-29 14:44:37,1695.57,GBP,transfer,mobile,Costco,Electronics,United Kingdom,Liverpool,False
+dd3dfb42-0e59-44bb-ab32-f5aaa4f46078,b9232960-b8e9-4766-851d-fba62b5e52fe,2023-08-15 12:13:06,7562.38,JPY,withdrawal,mobile,Target,Retail,Japan,Nagoya,False
+f5271cc7-a56f-494a-b819-30a047f0b98e,85dca6df-1e8c-45a6-8b76-76d1aeb291e8,2024-01-28 23:13:45,3722.37,JPY,withdrawal,online,Best Buy,Miscellaneous,Japan,Osaka,False
+0975052a-f548-4d32-bf60-3d476a62fd43,4f7af242-a495-4220-8da5-391f07357cfc,2023-07-06 10:13:13,6721.44,EUR,transfer,online,Amazon,Clothing,Germany,Cologne,False
+7621d846-2555-4ec8-afbf-d0212c13485d,92bf6ba0-648e-4572-b8c7-e3ae8b852d9f,2023-11-13 16:59:26,369.71,USD,purchase,online,Walmart,Clothing,United States,Los Angeles,False
+42cc22df-ba73-4d1c-bde4-83fd74869b8c,da2b657d-e66f-44d3-8bba-1329ec637b5d,2023-12-12 04:52:10,628.7,JPY,transfer,online,Best Buy,Electronics,Japan,Tokyo,False
+4f588583-5535-49f5-84ff-059ac7a88f31,df62905e-5df7-4353-8fd9-4ab0b4202e08,2023-08-10 23:47:19,8787.45,EUR,transfer,in-branch,Best Buy,Clothing,Germany,Cologne,False
+013fa9d7-c93c-49ea-b994-56d3d8d55689,84d6beec-a4cb-49ea-9cfb-5cb450ff0211,2024-06-18 04:40:42,5404.59,USD,withdrawal,in-branch,Walmart,Electronics,United States,New York,False
+1e02a0ff-8949-4fe7-abd7-dc457428676a,82d13761-9c9f-49b6-9af1-1540e87dcfc6,2024-04-04 07:54:58,8809.76,GBP,withdrawal,online,Best Buy,Retail,United Kingdom,Birmingham,False
+04917830-65a7-4a14-b9ea-1c1f4764cd44,d5fba720-2d96-4e53-b107-3027adb98f28,2022-12-25 09:06:49,761.52,GBP,deposit,online,Costco,Electronics,United Kingdom,London,False
+bf148eb8-6286-4cdb-be8e-22e76bc42b0f,3f27611d-4228-4644-b95f-4aa010ce01a7,2023-04-03 16:50:43,8580.85,GBP,purchase,mobile,Walmart,Retail,United Kingdom,Liverpool,False
+76ee345c-e4c7-4592-952c-f002245b4b2d,cf138f92-b1ef-4090-91cb-45db60c6769d,2022-08-17 10:31:20,6626.85,INR,withdrawal,ATM,Amazon,Clothing,India,Bangalore,False
+c349d05f-75bc-4ab5-bf84-ad41f702733d,a79c835e-5159-4cab-869c-8c3ed5ab2c63,2023-03-17 11:00:20,6811.95,USD,purchase,ATM,Amazon,Grocery,United States,New York,False
+ed6c9977-3a95-4467-9b1f-c50c04f2b8b2,e12da618-0cba-462f-86a6-972610501c6b,2024-02-16 21:35:14,3087.28,GBP,withdrawal,ATM,Target,Miscellaneous,United Kingdom,Glasgow,True
+0111879d-4edc-4ef7-bb43-f58fadc96c04,8f009dbb-7215-470c-98ff-e0f16528ad08,2024-06-15 10:11:36,5364.26,JPY,deposit,in-branch,Target,Electronics,Japan,Fukuoka,False
+f869f8f2-fa38-41a9-ba47-1008ae2d3e56,aaa84b6b-3f77-4947-a9f9-c611610fbc9e,2024-07-06 08:00:04,8000.19,USD,withdrawal,mobile,Amazon,Miscellaneous,United States,Houston,False
+04b93a6f-ba99-4cc8-8a31-f7d09bfbf506,22716e08-5b1c-4df7-8eed-2bc3b9ab3f5c,2024-02-06 04:41:39,8394.73,USD,transfer,online,Best Buy,Grocery,United States,New York,False
+86ad5d03-b237-4b12-9a53-667f59a68170,06f3b73e-55d4-493a-913f-66a812298ef4,2023-02-26 05:48:05,289.02,JPY,purchase,in-branch,Target,Electronics,Japan,Fukuoka,False
+fafd1752-5e73-4007-9d1e-8d20877c60c6,93f6f3b9-282e-412f-b5e7-8f44f6c61ef9,2023-01-05 13:32:47,1180.87,INR,purchase,ATM,Amazon,Retail,India,Hyderabad,False
+04544616-c6d6-458a-a2b5-8d81b2311654,8deb0a69-4cd9-4e1f-af21-8e65ec656a36,2024-06-07 14:03:14,1752.19,GBP,deposit,ATM,Target,Grocery,United Kingdom,Manchester,False
+9cb3b9ba-d47b-4be0-b66f-ca87f65304c0,870b4286-a58e-46b4-890d-c357ee5ac034,2023-12-31 03:52:59,4021.12,EUR,withdrawal,mobile,Best Buy,Clothing,Germany,Berlin,False
+1ab4aea7-9fb2-42fd-aa5f-42fb651111a2,81f27ed6-200b-4072-b5e3-1297b870678a,2024-03-01 10:10:17,9712.39,USD,withdrawal,ATM,Amazon,Miscellaneous,United States,Phoenix,False
+3296b566-3ecb-4119-bf9f-7f4ccb556f2a,d5fba720-2d96-4e53-b107-3027adb98f28,2022-10-20 09:49:23,6704.98,GBP,withdrawal,online,Target,Retail,United Kingdom,London,False
+1fa4f79a-4614-41a1-9a19-5a0ae83a8cac,f8e37d14-fce4-4a81-87f2-67caa0a9c6cc,2023-09-02 08:13:52,81.47,EUR,withdrawal,in-branch,Costco,Clothing,Germany,Hamburg,False
+1b896203-fcb1-4fd1-8b9c-5d1d3d5ffe07,51877c5d-dcaa-417f-a6d0-0c36e37caa8e,2024-06-14 15:25:34,1598.24,INR,purchase,ATM,Best Buy,Grocery,India,Hyderabad,False
+a5906863-eb53-4d11-8d92-a10eb2579a9c,cd84bce4-05a3-4698-b70a-22c8d36d8e3f,2022-10-25 03:50:42,5374.15,INR,purchase,online,Target,Grocery,India,Bangalore,False
+13db4b1a-509a-4e18-b377-b0c19a7fb479,1bc665fe-8d31-4681-a85d-d091f0bedd8d,2022-11-28 20:09:55,1561.68,EUR,withdrawal,ATM,Costco,Clothing,Germany,Berlin,False
+30e33f54-4168-412e-8bbd-0c78d97ae20b,0ae7b5ae-fc8b-4605-9948-05893ecb7282,2023-05-01 20:09:33,2783.3,INR,purchase,in-branch,Costco,Retail,India,Bangalore,False
+eeaf8f06-9ef3-46c7-a8e3-3c8c87b8d014,a77a161d-7d73-491f-bfa9-02b74fbe4f29,2023-04-21 02:39:59,5877.4,JPY,deposit,mobile,Target,Electronics,Japan,Fukuoka,False
+cbf3b9e3-3b83-4496-ad70-28a0a707f4ba,5bbb8028-fdfb-4b0f-8e9c-9f6148342cc9,2022-09-07 07:39:17,6841.47,EUR,purchase,online,Costco,Grocery,Germany,Frankfurt,False
+e4ce86bf-8413-45b0-a371-5f2250ea8763,2616f05a-d3b8-4251-8e9f-07c4f94fcbd6,2024-05-07 08:31:17,8129.37,JPY,deposit,online,Amazon,Electronics,Japan,Osaka,False
+a73b7df8-1f0b-4620-a228-1d88d81abc34,f8acf8d9-dcbc-42a3-ae6e-0d0f634189ac,2024-03-10 22:41:33,482.56,INR,transfer,ATM,Best Buy,Miscellaneous,India,Hyderabad,False
+136f1424-aa9e-4fcd-a5b2-19277a8f296c,11c6902b-8d0e-4aae-91bf-7f8ec45d9b3a,2024-04-11 23:50:40,6158.03,JPY,transfer,online,Amazon,Grocery,Japan,Nagoya,False
+838e3064-48ca-4ee0-82d9-6b6983441ffe,bf8f87a1-19a0-481f-a745-9203b23fe0d8,2023-06-17 20:21:51,5153.34,EUR,withdrawal,online,Costco,Clothing,Germany,Hamburg,True
+82e07d22-d29e-4753-9a6c-16ba6fb94854,b44b685c-40c3-42da-a886-fb9a256735a0,2023-11-05 09:43:25,2541.63,INR,transfer,in-branch,Walmart,Electronics,India,Mumbai,False
+fa97018a-ee79-4abb-959d-6842087ac944,f8bf80ee-8f8e-4431-9c18-a1c858387d53,2022-08-18 09:50:56,8663.66,USD,withdrawal,mobile,Target,Miscellaneous,United States,Houston,False
+8c57cc16-0a3e-4233-b504-578daf7d7d6d,b119a6c9-430e-4052-98b4-cd127e6389c0,2024-07-27 05:28:40,5442.67,EUR,withdrawal,ATM,Costco,Electronics,Germany,Berlin,False
+8fe192c6-5d46-4961-ace9-9f691a66ab64,5833ac30-bea3-48ad-839d-165eae598000,2024-08-01 08:59:22,2867.57,GBP,purchase,online,Costco,Miscellaneous,United Kingdom,London,True
+dfc0f3ea-6221-42a8-9273-6cee78119e28,92bf6ba0-648e-4572-b8c7-e3ae8b852d9f,2023-12-22 16:51:14,1372.95,USD,transfer,in-branch,Target,Clothing,United States,Phoenix,False
+47be8958-573b-43a4-a25b-b0aee8003370,24f01859-150f-4d75-b1a0-afd0c6b7c00c,2024-06-07 02:40:05,5097.73,GBP,deposit,ATM,Amazon,Miscellaneous,United Kingdom,Manchester,False
+3d4cb402-db76-4c25-b0f8-663a87443db1,c432c210-4f46-4829-8768-866a2b42b061,2024-03-20 09:40:22,1667.69,GBP,transfer,ATM,Amazon,Electronics,United Kingdom,Manchester,False
+3584ffb7-ae09-47f0-84c3-1f19292ce154,81f27ed6-200b-4072-b5e3-1297b870678a,2023-10-02 04:29:33,5237.71,USD,transfer,mobile,Amazon,Clothing,United States,Houston,False
+8539fd20-c37b-4f19-9686-d7a688ee7ad8,e34fb409-5712-4147-b7d8-8059c3e67efa,2023-02-11 13:23:49,5519.27,USD,transfer,in-branch,Target,Grocery,United States,New York,False
+c0a04862-5172-4147-8887-b0e12c027789,a79c835e-5159-4cab-869c-8c3ed5ab2c63,2024-04-01 19:38:04,8161.25,USD,purchase,ATM,Walmart,Clothing,United States,Phoenix,False
+657031f8-f118-4c9f-b676-a13c5091dc20,77074be6-dc02-40b0-93b4-59069784416e,2023-09-03 01:31:31,5577.91,INR,deposit,mobile,Costco,Miscellaneous,India,Chennai,False
+4e4a8787-986b-4845-a0e9-7a142b0251b3,3945876e-9573-4d5b-acac-9d62c92d43cc,2024-01-01 20:21:53,9720.09,GBP,withdrawal,mobile,Costco,Retail,United Kingdom,Manchester,False
+0962bbf9-193a-4f34-9795-6c6e534a0ab4,51877c5d-dcaa-417f-a6d0-0c36e37caa8e,2024-06-16 08:10:35,609.37,INR,deposit,online,Costco,Miscellaneous,India,Hyderabad,False
+dc7b209c-d58b-48be-b0d9-98a131347d63,74a4a878-b7a8-4230-988b-372fe822fd90,2023-09-18 09:09:36,1748.51,EUR,transfer,ATM,Amazon,Miscellaneous,Germany,Munich,False
+3e00bbea-632d-4e7e-9a64-44b1b648ee67,11a8b2ed-6224-4d9e-8c81-48f586307af8,2023-10-02 07:57:31,3972.78,JPY,transfer,online,Costco,Miscellaneous,Japan,Fukuoka,False
+1c703c33-5903-40b2-a222-d6a5f60cfc58,6e7b03f3-4309-4b0f-bef1-84fc8cdd0ace,2023-02-24 15:43:47,2697.21,EUR,purchase,online,Costco,Electronics,Germany,Frankfurt,False
+9d6cbe27-9130-4d46-841e-cda7f1d57e88,f0a4e20b-7d78-400f-b524-aa9153a4ecca,2022-11-10 01:46:48,9025.69,USD,deposit,online,Amazon,Miscellaneous,United States,Phoenix,False
+aee42f90-12c2-4cc8-91a0-8bcf641264d9,2bb30145-e743-4220-bd1a-fa4b41a7bcd0,2023-07-20 15:35:27,581.66,USD,deposit,online,Walmart,Retail,United States,Houston,False
+24dac206-4171-46bb-a94d-f822d2c4c9ef,fc3b2754-1ae9-4522-b5f9-e1adb76d299b,2022-12-07 08:12:46,4783.19,USD,withdrawal,ATM,Target,Clothing,United States,Houston,False
+2f579cd5-73a4-4418-a23d-1a7cde112d79,6918b143-0b8d-442f-a2ae-d067dc929fee,2022-12-31 15:51:19,5119.3,GBP,deposit,mobile,Best Buy,Clothing,United Kingdom,Manchester,False
+781eeba1-6f2b-4cb3-82b6-9f357b4a5850,701cd1d7-dec4-491e-8a1e-e55834e7f456,2024-05-12 18:10:28,2379.49,EUR,transfer,mobile,Best Buy,Retail,Germany,Munich,False
+d02d52de-558a-4013-bd75-e60a3058a130,5e383f0a-05fd-465a-872c-1beea2381b8f,2024-07-09 15:46:42,9885.28,EUR,withdrawal,mobile,Amazon,Grocery,Germany,Cologne,False
+ba4d7aef-fa37-4def-b304-c783ae2e04cb,6a075c37-bd08-4654-ad3b-5fd9cdc2a0c5,2022-12-31 15:34:53,7112.56,EUR,deposit,ATM,Best Buy,Miscellaneous,Germany,Frankfurt,False
+08efb52c-1681-46c8-9d49-3115d868272a,ac1334cd-82fb-4d12-80f5-8744c1be6283,2023-04-01 05:47:13,7193.82,GBP,transfer,ATM,Target,Retail,United Kingdom,Liverpool,False
+070ead12-d2dc-4eda-bf50-33544fb25d46,261c2337-a085-473e-9225-9b96bb7bca38,2023-10-09 22:42:20,6595.47,JPY,purchase,online,Walmart,Clothing,Japan,Fukuoka,False
+9eef99fc-baf1-4606-a6c8-4ee9fd84d7b6,98e221a6-80ce-4b4b-879d-b6272ff30382,2023-11-30 18:35:06,3866.75,USD,deposit,mobile,Amazon,Grocery,United States,Chicago,False
+6416f7ba-0707-4fda-b0db-e364555dcdc6,0fd0c226-0bcd-4a20-b9c7-eac19d5afbf2,2024-08-16 10:54:37,4643.81,JPY,withdrawal,ATM,Target,Grocery,Japan,Sapporo,False
+1a2e531b-b199-489b-800d-660140506398,239fdd37-e7b1-451b-ae33-630abfedd280,2024-04-12 16:40:41,3747.7,GBP,deposit,mobile,Walmart,Grocery,United Kingdom,London,False
+c4bbcfac-6edb-4881-879e-da0cb4876d2f,ee6c3663-3538-4246-90dc-16d75a039ebc,2023-07-07 16:56:22,3527.87,INR,transfer,in-branch,Target,Grocery,India,Mumbai,True
+566a9438-e3ed-4e93-836e-02f3432fb6ac,0b427658-2bd1-45e7-9f2b-c14e592807ad,2024-05-30 21:05:48,7478.16,GBP,transfer,online,Best Buy,Retail,United Kingdom,London,False
+982c5ef1-58e2-4a31-80c7-7c4dc66a7c11,1bf1a201-1060-4a7f-8f71-6796e6166fdd,2023-11-24 02:49:30,7613.36,JPY,deposit,in-branch,Walmart,Electronics,Japan,Fukuoka,False
+d87615a3-0aca-4d7e-80d2-40daecaf49ae,6114be2a-fe18-49db-8d85-43d0e8b59cca,2023-04-02 03:59:32,7420.36,GBP,deposit,mobile,Target,Miscellaneous,United Kingdom,Glasgow,False
+50944333-e1ab-48ff-aa31-68add9696d57,f494d48f-817c-4682-8efe-08e0a095c7ef,2022-10-21 13:51:52,4851.5,EUR,transfer,in-branch,Best Buy,Miscellaneous,Germany,Hamburg,False
+cf3d4bbe-db9b-406d-ba9b-cb6a1eca461d,f70c3f2a-c817-4b59-b2be-75d4d91add9f,2024-03-24 16:54:59,7893.47,USD,purchase,online,Best Buy,Retail,United States,Phoenix,False
+7747c031-07a4-45a1-a548-ac130ff7643e,e2b1fa49-9e20-42a1-bd80-661dfbf6b07a,2023-11-08 16:32:50,2089.95,JPY,withdrawal,in-branch,Walmart,Clothing,Japan,Osaka,False
+7efd79b6-d93c-4a85-a292-c851aa3e6dd9,b6d6c2ba-1c74-4d37-9ab9-90a97f5086e0,2023-12-17 07:35:22,5365.5,INR,withdrawal,in-branch,Best Buy,Grocery,India,Chennai,False
+04ec6b12-7dc3-42bd-8a1f-8c31f45dd619,60e2dbdb-1c62-4b69-a02f-62781104d656,2023-11-28 12:14:16,8019.13,EUR,withdrawal,mobile,Costco,Grocery,Germany,Munich,False
+77851c31-e42e-4a1e-87af-f656d474061a,a888de3b-7364-40e4-a101-6c4534c830cc,2022-11-03 17:24:47,2803.22,EUR,purchase,ATM,Amazon,Clothing,Germany,Cologne,False
+2a247742-c28a-433a-8619-607b5368e098,e5230586-11b2-482d-9198-621469a48f94,2022-12-14 23:09:31,1087.77,USD,deposit,online,Best Buy,Grocery,United States,Chicago,False
+a3d85e63-638a-47f5-96b9-eb59bda274da,9bd0aaa5-5224-4e53-8708-d542a1c2a93d,2022-10-09 23:53:31,5931.3,JPY,deposit,mobile,Costco,Clothing,Japan,Tokyo,False
+6185fd50-b938-49ab-a62c-8ee612f80624,11fc5847-52d8-4b19-9515-3680b2396a98,2023-10-21 12:09:39,7602.53,JPY,transfer,mobile,Best Buy,Retail,Japan,Tokyo,False
+8f8f5822-3fc2-451b-9a3f-de0d7c694526,8fe4d832-e648-43ef-8a30-bd429a463b96,2022-11-05 21:58:41,6102.55,EUR,withdrawal,in-branch,Best Buy,Miscellaneous,Germany,Berlin,False
+8da906b3-56b8-4f9a-94ec-6bf71b44cc1c,13cf1bd8-8d22-4f95-831b-60d545981f11,2023-07-26 08:10:07,9310.12,EUR,transfer,ATM,Best Buy,Grocery,Germany,Berlin,False
+fe9db3d2-287e-41cf-8c2c-75d95f9bd7b7,2f60b62e-a346-4415-b50f-0f58c0afef7f,2024-07-07 17:34:06,7884.15,GBP,purchase,mobile,Amazon,Miscellaneous,United Kingdom,Liverpool,False
+6420587e-9526-4f1b-b2fb-6da4bb5ae632,b011c768-5be4-404d-9264-dbaa6c8d8744,2024-01-05 02:36:00,5348.13,EUR,deposit,in-branch,Amazon,Miscellaneous,Germany,Cologne,False
+f721301b-6110-4327-83c3-1a33403e2b67,65a2b145-b704-4658-ab9f-01c5237758eb,2024-01-04 23:38:59,5777.17,GBP,purchase,ATM,Target,Miscellaneous,United Kingdom,Manchester,False
+5e329276-28fd-426b-be8f-4366e811fe74,498391f8-9136-4d1e-886d-79f160d4a9ed,2024-01-10 23:29:40,6377.24,INR,deposit,ATM,Walmart,Electronics,India,Chennai,False
+7f53af2b-d608-4e65-b023-14306e2a56bb,f1da91e5-b70f-409b-a898-21d8a6042def,2024-01-16 11:43:24,855.51,USD,purchase,ATM,Best Buy,Grocery,United States,New York,False
+3fe6e2ed-6a03-4d53-b2e6-8b416b78fb2b,92d5bf0d-33b8-4541-93a5-0463271685c1,2024-01-15 05:59:05,1589.78,EUR,purchase,in-branch,Best Buy,Grocery,Germany,Cologne,True
+7c7ec148-f7ba-4cfd-b631-57ca8d8375f1,93f6f3b9-282e-412f-b5e7-8f44f6c61ef9,2022-11-03 08:36:03,4133.21,INR,deposit,in-branch,Walmart,Retail,India,Chennai,False
+9eff7ec8-cb88-4b38-8824-4dd427f75a4f,11eb811d-f6d5-4fe1-a5ce-4680335aa286,2024-07-20 00:25:30,3893.74,USD,purchase,ATM,Walmart,Clothing,United States,Houston,True
+c4e5f8c4-5297-47ee-9439-91a8b97e5495,e4c66a0f-0d13-4c57-8a65-01434fde73ac,2023-12-03 18:04:40,2527.65,EUR,deposit,online,Costco,Clothing,Germany,Berlin,True
+c7f169be-9fb2-44fc-9316-ea07b8ed729c,ecb4d48e-90d6-4b6c-9d63-5326c36b1fdb,2024-06-14 20:40:12,8331.28,JPY,withdrawal,mobile,Costco,Retail,Japan,Nagoya,True
+9414a56a-590a-4abf-b724-2b56d47c2dc7,bcd2bc4c-9add-4228-bcc7-5b014321eb7e,2024-06-30 07:55:22,9712.93,USD,transfer,mobile,Walmart,Clothing,United States,New York,False
+f06fb7e4-8e88-49a3-b5e3-cdb8cc6e0c16,5f671866-4823-4cda-9950-2cd8b6e4e755,2024-07-02 05:37:47,5296.69,JPY,transfer,online,Target,Grocery,Japan,Fukuoka,False
+71a0f68a-943f-4255-a814-64d19d0782d1,0f4b4e4b-8ed2-436c-b3dd-af1a2eba77b3,2023-07-02 12:07:12,2883.7,INR,deposit,mobile,Costco,Miscellaneous,India,Chennai,False
+425917a6-266e-4d42-846c-2c55504657a8,80fca530-5a8c-437c-a4e4-948ff1568b63,2023-09-22 10:25:11,8538.12,JPY,purchase,ATM,Target,Clothing,Japan,Nagoya,False
+d8e28457-f7d9-4275-89dd-cea310099c60,31fd929f-1e1b-4d70-b98e-658eaac49fba,2022-09-17 19:59:15,3763.67,USD,purchase,in-branch,Amazon,Electronics,United States,New York,False
+90854cb7-1edf-410f-9376-47409de612aa,c0fcd527-8143-4325-a3b8-5202b14a05e5,2023-04-03 18:34:57,4089.52,JPY,deposit,mobile,Target,Miscellaneous,Japan,Nagoya,False
+e2cad103-5f1a-434e-9b9f-7cc539afc115,9eedd333-c478-4138-9547-0a2f1362113b,2024-01-01 12:46:51,3622.8,GBP,purchase,mobile,Amazon,Electronics,United Kingdom,Birmingham,False
+1bc38162-927e-4a5b-8c4c-50ec6a28f382,c0270258-6d18-4fdc-beba-8693d4a46ebe,2022-12-13 23:04:28,9439.08,JPY,deposit,in-branch,Amazon,Miscellaneous,Japan,Osaka,False
+7ecbde17-74b2-49cf-b0de-b81c0251f05a,889345f9-653b-4f51-aa27-35fc74d1fec1,2023-07-22 08:57:57,6206.75,JPY,withdrawal,in-branch,Target,Grocery,Japan,Fukuoka,True
+68d4376d-9ed4-4283-823b-a4f98c55e2a1,160b688c-9010-4b98-86d6-c6787dcb131f,2023-07-09 16:40:53,2385.8,EUR,purchase,in-branch,Costco,Retail,Germany,Munich,False
+39463c24-5418-4552-8626-bc43452e6cca,6f9cc0a3-720a-4ef3-b704-ed8b513a9e4c,2024-04-03 21:32:48,6504.42,INR,transfer,ATM,Amazon,Clothing,India,Chennai,False
+69b4430d-dd68-4edc-ba9a-7f87fee4b7f1,e74dc923-d784-45b2-a16a-be66bff153be,2024-07-11 18:50:44,1585.81,JPY,transfer,in-branch,Best Buy,Grocery,Japan,Sapporo,False
+2098f64b-8242-448a-a20c-9135a1d95216,871119dd-bc39-472c-8d4f-eb615f16ca23,2023-05-18 11:49:22,9483.51,JPY,withdrawal,in-branch,Costco,Miscellaneous,Japan,Sapporo,False
+59d0791d-1a6e-4c16-b855-ba3a50091473,f5803484-bf95-46f8-8a9b-d224f8c642cd,2023-07-05 23:45:29,1780.69,INR,withdrawal,online,Amazon,Retail,India,Bangalore,False
+f85e2317-0771-4d1e-a1fd-165750a00ef3,4a358620-076b-40db-8cc4-f63c2737236f,2023-08-09 15:04:48,4717.8,EUR,transfer,in-branch,Walmart,Electronics,Germany,Hamburg,False
+266a31fe-5083-40f6-a421-9ca273cea77a,9def69c6-5604-4fed-afed-383accfb5491,2023-02-27 20:59:10,6120.44,JPY,transfer,mobile,Target,Grocery,Japan,Osaka,False
+27ec1616-5c89-4ed4-b9bf-a2587f1a7964,71547b88-37b2-4361-b63c-c4d719524baf,2022-08-30 11:11:54,1884.2,USD,transfer,ATM,Amazon,Miscellaneous,United States,Chicago,False
+ade7db95-432d-41fb-851e-8369637dbe70,b3917d79-6526-4e49-b62c-fc69dc22eac5,2023-03-23 20:45:15,3451.76,GBP,purchase,online,Costco,Clothing,United Kingdom,Birmingham,True
+503a3058-eb65-4cdd-8d22-03eb31f8c87c,d68093e7-5ee7-4a83-9440-f4a7c3fa3cd8,2024-01-25 21:48:42,1149.26,USD,withdrawal,in-branch,Amazon,Miscellaneous,United States,Los Angeles,False
+70ad069b-ac44-4864-accd-a38d718b0538,59b4916e-05bf-440d-90b7-8f136482a91a,2023-03-18 17:29:19,2403.52,USD,transfer,mobile,Best Buy,Miscellaneous,United States,New York,False
+68bd188c-0820-44f2-8a77-874d2b6d57e6,a8ddbbda-ddec-451d-afb0-57a10de6f9f6,2024-05-28 06:16:09,2757.08,EUR,withdrawal,mobile,Best Buy,Grocery,Germany,Berlin,False
+3580b194-b269-4142-a7c1-9452f3bcc6a8,a1da1697-903a-4b0b-882d-db6f88c0bd14,2023-09-12 15:31:37,4153.96,EUR,purchase,mobile,Target,Miscellaneous,Germany,Munich,False
+69ef5661-9863-40c5-b06e-97671d49c218,6062d229-ce7c-4d86-b339-846e8019c176,2023-06-18 22:59:22,8315.09,JPY,withdrawal,online,Costco,Clothing,Japan,Osaka,False
+a749320a-c885-4793-a452-9e309464cfd6,0b427658-2bd1-45e7-9f2b-c14e592807ad,2022-12-17 15:16:09,2206.5,GBP,purchase,online,Amazon,Miscellaneous,United Kingdom,Birmingham,False
+da2a5712-5978-4e81-8da1-53dbf9cd31d6,e54a8c6e-5391-4e07-b736-aab7d9c3fc34,2024-07-11 03:53:57,5161.31,EUR,purchase,online,Amazon,Retail,Germany,Munich,False
+4c40c92e-c39a-4954-a492-e3532c64b9bb,b144e8ee-9aad-4c2a-897c-df08166f182d,2023-07-09 06:28:12,1130.74,EUR,purchase,ATM,Target,Miscellaneous,Germany,Frankfurt,False
+80d807ac-bca0-43ea-9853-926ab85dfd39,bcf7eb01-7129-4a02-aa77-e260636532f3,2023-07-21 15:20:58,201.07,EUR,withdrawal,online,Best Buy,Electronics,Germany,Cologne,False
+49d3c64f-aeb1-476a-8fde-948e7968a9f4,7c7a394c-2116-4274-9a3e-e8ea7719872d,2023-10-28 22:13:45,1523.7,EUR,transfer,mobile,Target,Retail,Germany,Berlin,False
+beef3849-874b-4645-8d6c-3ccba0797611,cc026236-20b5-4a38-8f12-59f42d7c3ee1,2023-07-06 20:12:19,7283.99,GBP,deposit,mobile,Amazon,Electronics,United Kingdom,Liverpool,False
+fb261adc-4bde-43b6-b5bc-c74a9b8ee521,2f6bc4aa-5077-440f-8060-414eb1cfb0d7,2023-08-04 12:59:23,1290.33,USD,withdrawal,mobile,Amazon,Clothing,United States,Chicago,False
+bbda4096-66d7-40a7-bb3e-b986531d8ce7,7de7465c-d4c3-469a-b0ea-621eef1b72b1,2023-09-14 01:25:44,8303.93,USD,purchase,mobile,Best Buy,Clothing,United States,New York,False
+69061613-0149-4c8a-a9e9-ce286a5a1058,30c71036-ab5a-41ba-9f62-d174733140bd,2023-04-05 07:27:21,7337.97,JPY,deposit,ATM,Walmart,Clothing,Japan,Osaka,False
+24cb6d93-e968-4d65-a815-34836f0ee110,49673358-945e-4b18-bf13-d8be12420c46,2024-04-07 08:43:23,7147.13,EUR,withdrawal,online,Amazon,Retail,Germany,Berlin,False
+d7782f2a-e8e4-425c-acaf-05b7987edf5a,48448385-f779-4a06-8d37-869484e1ba2c,2024-08-04 01:34:03,736.9,GBP,deposit,in-branch,Costco,Electronics,United Kingdom,Manchester,False
+c9115189-ebf2-4c89-9699-ca7dbef22c97,189e2d53-f607-4d24-8075-e63aeee67d86,2024-06-30 20:30:44,5437.79,GBP,deposit,ATM,Walmart,Electronics,United Kingdom,Liverpool,False
+9fe7ebb1-3605-417a-9a3f-91f87b7eb93c,3cd144f5-ec43-46dd-a46e-590d6acf582b,2023-04-17 19:08:49,2981.76,GBP,withdrawal,ATM,Best Buy,Electronics,United Kingdom,Liverpool,False
+5fcd9c23-d30f-4de8-bf38-e25f129aec8d,9636ccfe-2186-4496-b341-2fef046d9cd5,2024-04-04 14:12:24,4373.85,EUR,deposit,mobile,Best Buy,Electronics,Germany,Munich,False
+630086c0-ba96-4c57-92cd-83b16a767afa,07704dea-1647-4899-8bd6-1b40ea824960,2024-06-21 21:28:04,4605.97,EUR,deposit,online,Amazon,Retail,Germany,Munich,False
+b9e9ea36-4281-4209-8bcb-113863679e98,261c2337-a085-473e-9225-9b96bb7bca38,2023-03-14 23:19:10,6055.96,JPY,deposit,ATM,Target,Retail,Japan,Sapporo,False
+4bffb320-34ed-4587-abcb-05b5d70d0b92,736d9ab7-1458-4a8a-a5a6-741fd0e67aed,2024-06-19 08:08:23,279.76,USD,purchase,mobile,Target,Clothing,United States,New York,False
+f3e6923e-fed4-41a8-ace8-d1b7ac9f0aa2,0dd3391b-f9f1-4876-9ecf-4420db3b73eb,2023-11-05 04:59:50,8644.3,USD,deposit,mobile,Costco,Clothing,United States,New York,False
+52b41a08-e8ba-45fc-94d1-a6e056484121,d6990ae6-21af-4800-a42d-9cd91934690f,2022-11-02 18:23:29,9526.36,INR,deposit,mobile,Walmart,Retail,India,Hyderabad,False
+aa955418-1201-4b0e-b401-1859007be919,c2d9e258-343f-458a-b68c-00ca50e00ca8,2024-06-05 16:37:20,1429.39,EUR,deposit,online,Target,Grocery,Germany,Frankfurt,False
+015a7932-9b57-4d05-ac4e-510501551dde,d4b63b9c-6d28-463f-8e62-a227de63a972,2024-05-08 23:37:31,7082.41,JPY,withdrawal,in-branch,Walmart,Electronics,Japan,Nagoya,False
+5af7b3ed-80f0-4c47-ae7e-fb4570ce2d98,4a358620-076b-40db-8cc4-f63c2737236f,2024-02-18 01:38:27,427.03,EUR,transfer,mobile,Walmart,Retail,Germany,Hamburg,False
+d9f1ca98-bcf6-4498-a496-e9bc0d08ec4c,4acc5901-ed63-492e-9dd9-210c8c173a03,2023-08-17 00:24:56,6166.41,JPY,purchase,mobile,Target,Clothing,Japan,Tokyo,False
+67159986-f18f-45cf-83fc-eaa77255ac9f,34f87451-94b9-4ba1-b4f1-c4c47bb8b5e3,2024-01-12 01:34:36,9220.04,JPY,withdrawal,mobile,Amazon,Grocery,Japan,Sapporo,False
+a74d3b4d-9092-43ec-9658-b6607e9ed583,6c2c6bd8-4235-417e-9791-6f1c6fa94687,2024-01-20 02:23:15,2812.51,GBP,purchase,online,Best Buy,Clothing,United Kingdom,London,False
+60a191c7-ed3e-4996-a727-6b78825a1425,d8f61c44-a3a2-4859-b4d3-84f36f76747d,2023-04-17 14:38:11,6669.04,JPY,transfer,ATM,Best Buy,Retail,Japan,Osaka,False
+93de68c4-b390-4164-8c40-5066671a5aea,01c4386d-bfc0-4ada-bea7-d382a628d7f9,2022-10-17 20:06:22,1377.35,EUR,deposit,ATM,Walmart,Grocery,Germany,Munich,False
+0b080e29-db64-4efa-9943-32b5e15a1269,35a29ac8-8da4-48a6-bfd8-d4ddb2a069df,2023-10-29 20:17:32,9322.55,EUR,purchase,ATM,Costco,Retail,Germany,Cologne,False
+8c45d4a6-da3f-4d49-9f02-1ab62013f4a3,479a8b5c-b83a-48da-91e8-76e471b5c519,2024-02-27 18:59:04,7821.26,JPY,withdrawal,mobile,Target,Grocery,Japan,Osaka,False
+e732a14a-3336-4b9c-bd1f-5bf63db99171,70ae58e9-c5bf-4616-9824-ae8752134bff,2022-10-06 19:10:29,1526.53,INR,withdrawal,in-branch,Best Buy,Clothing,India,Mumbai,False
+233a51ad-8013-4033-bd8f-b931a61ea7c4,b08531c7-047f-46dc-a899-111cabf34ad6,2022-12-23 16:51:46,8749.33,EUR,purchase,in-branch,Target,Clothing,Germany,Hamburg,False
+58dcf623-cec6-4359-9276-2d9822d34dd4,e4a87ab9-f803-4cb7-9a23-842d370c0e53,2023-01-02 04:30:40,2362.0,GBP,deposit,mobile,Amazon,Retail,United Kingdom,Birmingham,False
+e022f51e-3300-4748-bc23-f7cb331d54ee,be60c450-25e0-485b-9ddc-b754fff14e4a,2023-09-15 16:25:50,8314.12,GBP,deposit,mobile,Walmart,Grocery,United Kingdom,London,False
+c1767bf1-ddfd-4c86-9bb6-b6da3e029b58,cb45c4f9-275c-4309-976b-3c3f19c36cbd,2023-02-22 01:29:39,7629.12,INR,withdrawal,mobile,Walmart,Retail,India,Bangalore,False
+8763908b-b3c0-46ca-a813-f160ccacfaaa,3c13f4f5-93e8-49ab-8d9c-1258a9e743b7,2023-05-21 22:32:59,9236.37,JPY,purchase,ATM,Costco,Miscellaneous,Japan,Nagoya,True
+8b483783-654b-4b78-978c-2be899575e7f,1b540f97-d02d-471f-bafa-3ad6d41ce44a,2022-11-05 22:19:13,8039.45,EUR,purchase,online,Walmart,Retail,Germany,Frankfurt,False
+7e3ada1f-24cf-45e6-a584-1fb13da855bb,48448385-f779-4a06-8d37-869484e1ba2c,2024-03-25 08:07:16,7464.21,GBP,withdrawal,in-branch,Walmart,Clothing,United Kingdom,Manchester,False
+4155e1f8-6f17-4ed0-9778-7c1afb33dd82,db28a327-db94-4bda-ae07-135b274370df,2024-07-21 17:22:49,9450.06,GBP,transfer,in-branch,Walmart,Miscellaneous,United Kingdom,London,False
+d30bdf0b-a439-42e0-afe9-9235fa800ab6,cd3c889f-6969-4378-a076-b679b95a7ecf,2022-09-30 19:04:40,9143.94,USD,transfer,online,Amazon,Electronics,United States,Houston,False
+f93fc735-3aa5-45ee-b67f-d23e4356daf2,7f0edba6-6982-4fdc-a6df-7dbd82327527,2023-08-15 02:21:54,3493.77,JPY,transfer,mobile,Target,Grocery,Japan,Sapporo,False
+f5d0bf73-eded-42e6-a6b2-e74a4ccd1f86,d8e60a6f-2420-4883-b18b-bfb5d165c897,2022-11-16 20:10:07,2831.65,JPY,deposit,in-branch,Costco,Miscellaneous,Japan,Nagoya,False
+3513785d-fed5-4fa9-9117-c07989a973e8,9732d9d2-87e6-4ddd-98b6-78efd1d8d551,2024-05-06 11:30:09,9392.25,INR,transfer,ATM,Target,Electronics,India,Bangalore,False
+def0040f-d119-4be9-9e77-811015a2115b,bac60412-ac3a-4399-a574-04eec6205d34,2024-04-26 15:52:58,6204.09,USD,withdrawal,mobile,Target,Electronics,United States,Houston,False
+13ae5353-cac6-4df4-9b64-5eee2e99d5f4,b14318f4-de6e-43ad-b145-5f3dea84920d,2024-04-29 10:59:18,2400.37,GBP,transfer,mobile,Walmart,Electronics,United Kingdom,London,False
+d070f12b-9aed-4382-b0d0-d0bd1e78c54f,e1776dc6-49bc-4190-9c20-384ea7f0f6ec,2023-03-05 05:59:03,9502.82,EUR,deposit,mobile,Target,Grocery,Germany,Hamburg,False
+b9360a57-74c6-4992-8ba9-bf696868aa6e,a1da1697-903a-4b0b-882d-db6f88c0bd14,2023-10-29 14:08:06,6617.51,EUR,transfer,mobile,Amazon,Miscellaneous,Germany,Cologne,False
+fa52823f-6f84-4872-85f0-5a085951d12a,3181c281-c9e6-4725-8947-6ff8f2da5a55,2024-02-07 21:31:57,1802.01,EUR,withdrawal,in-branch,Best Buy,Miscellaneous,Germany,Berlin,False
+eeab85a3-99b8-4b6a-8824-156522efe170,a2c6155b-7a85-4b80-9144-31b98d91e83f,2022-11-05 09:08:45,6760.62,EUR,deposit,online,Best Buy,Retail,Germany,Hamburg,False
+b92b2264-3d57-4739-99e2-5a37b92788f8,d68093e7-5ee7-4a83-9440-f4a7c3fa3cd8,2024-06-25 02:08:01,7708.28,USD,purchase,in-branch,Target,Electronics,United States,Chicago,False
+ebc4695b-f552-47ec-ad50-14a19ac277df,ff7fbf62-7d73-4362-a22b-6441506e02a3,2023-02-05 21:07:02,272.62,GBP,withdrawal,online,Best Buy,Electronics,United Kingdom,London,False
+92f4bca6-675a-4b74-9e27-14bb0b328dd2,dc398ac4-947a-4549-a9a9-e4f7ba6899d1,2024-06-12 16:16:58,7602.71,INR,withdrawal,mobile,Walmart,Retail,India,Hyderabad,False
+caba5719-e6c7-4bad-a575-1d1551633f14,ddaea5ea-ee56-4077-95ec-6132754b12d0,2023-03-27 21:21:42,6788.16,GBP,purchase,ATM,Best Buy,Retail,United Kingdom,Liverpool,False
+f2919715-243f-4576-82c2-58e4d493677d,98e221a6-80ce-4b4b-879d-b6272ff30382,2022-08-24 18:56:10,6683.1,USD,deposit,ATM,Walmart,Miscellaneous,United States,New York,False
+b728ff52-778d-4051-bb68-cda09371bd5b,ffced631-3c81-4bba-bd9f-7eeff92a6ea1,2022-09-21 00:46:13,4423.35,GBP,deposit,online,Best Buy,Clothing,United Kingdom,Glasgow,False
+7e00050c-4480-4e08-acf4-f892bb351506,3e0b12b2-6742-455d-97fd-61ad8fa6f017,2023-05-27 21:26:46,8311.67,GBP,purchase,online,Best Buy,Retail,United Kingdom,Birmingham,False
+87df5362-6a9f-4398-90b0-e914b052ed35,e074f553-4466-4f27-b47f-760199a6ac6b,2024-07-23 09:43:49,793.67,EUR,deposit,ATM,Costco,Miscellaneous,Germany,Cologne,False
+88051110-44c2-4f58-962f-91be87ce7277,1792ef71-fd70-4a71-bf62-1d8cad974a8b,2023-05-08 22:24:40,3206.71,JPY,deposit,ATM,Amazon,Retail,Japan,Tokyo,False
+871e5a59-787e-4255-80aa-a0fe0a9e293c,21e7fd12-aca6-418e-9582-283e2f363c5a,2023-10-23 15:03:57,7655.77,GBP,withdrawal,mobile,Costco,Grocery,United Kingdom,Glasgow,True
+8e04b807-87b6-49fa-ab2e-f5d6279c2833,5f70faf5-db0a-434f-b9a7-31bf2dd106d9,2023-03-31 20:37:19,2603.77,INR,transfer,mobile,Amazon,Miscellaneous,India,Chennai,False
+e8399859-c7b3-4a4b-bbdd-460b78731622,2f473be8-3a55-4ae9-a497-74dcc8b2cdcc,2023-04-24 02:24:05,854.06,EUR,purchase,in-branch,Best Buy,Clothing,Germany,Hamburg,False
+61c971c7-1551-4760-a263-f1955776c695,cda86158-3617-47eb-847a-0d0ceea66f5b,2023-11-21 06:50:44,4761.47,USD,deposit,in-branch,Best Buy,Clothing,United States,Chicago,False
+c6d65776-9e52-4ea9-9d86-7bbf7a52c2e1,00438310-e819-4aac-a93e-ad801f5ecbfd,2024-05-19 04:34:19,4442.86,JPY,deposit,ATM,Best Buy,Electronics,Japan,Tokyo,False
+ea3a75fa-c9ef-42f6-867f-21a49857f863,cd84bce4-05a3-4698-b70a-22c8d36d8e3f,2022-09-27 04:24:53,2171.15,INR,withdrawal,mobile,Walmart,Electronics,India,Delhi,False
+25288858-0184-4501-a7e0-8911030b0cfd,b1ed61ae-6916-45f7-9b97-81bb8b384134,2024-04-11 14:39:16,7204.64,EUR,deposit,mobile,Target,Clothing,Germany,Berlin,False
+0e7e9411-ceef-41a6-b74d-0e9fc6b84b47,314ccb0e-c250-449f-b94d-f547e46e55aa,2024-02-17 12:17:55,6216.03,GBP,purchase,in-branch,Walmart,Miscellaneous,United Kingdom,London,False
+c00d4c95-6862-4eea-afe0-949aad04d382,e0ba604f-527d-4709-a57a-c93c7a60533a,2024-05-28 07:13:38,5265.19,INR,withdrawal,mobile,Costco,Retail,India,Delhi,False
+7a8c8b46-82e5-4c9d-ba3d-68b379a4c0ae,7e7d372f-8583-44b1-8518-9cbc9528962c,2023-03-13 02:00:23,4724.29,INR,transfer,in-branch,Walmart,Clothing,India,Delhi,False
+362078ea-0e17-4b51-8f75-033b0c55d09c,d622e7ea-b7b0-4138-97ed-b4fccaf4c5a1,2023-02-17 13:16:27,7924.41,JPY,transfer,mobile,Best Buy,Clothing,Japan,Fukuoka,False
+96ddffeb-9236-4e6d-b533-cf9eb27a57f9,3a148564-f00a-43c7-99ca-36c260d393cd,2023-03-16 07:33:06,2214.01,EUR,transfer,ATM,Amazon,Retail,Germany,Munich,False
+401bae37-0c3f-4056-abdd-b9876f34da84,86c13870-9f25-4eea-8d99-c3a17a31a10b,2022-08-26 07:41:06,1657.11,INR,withdrawal,online,Costco,Miscellaneous,India,Delhi,False
+206988c3-dedc-4ee4-a390-da52eab6c162,fe9d1125-b83a-447b-8736-2065ba06f68c,2023-10-17 03:41:35,3982.15,USD,deposit,online,Walmart,Electronics,United States,New York,False
+9b69a30f-9b58-49ec-bfd5-ea2cf4f9a1b5,eb2b0862-23bf-479a-981c-c668e10b8f4e,2023-08-05 10:57:36,1251.71,JPY,deposit,mobile,Amazon,Clothing,Japan,Nagoya,False
+f28519d9-a4ca-4f11-9b24-10de65c0a681,92d5bf0d-33b8-4541-93a5-0463271685c1,2023-05-24 16:54:38,8341.39,EUR,withdrawal,mobile,Target,Miscellaneous,Germany,Munich,False
+93f3e7be-0573-4aa6-bd54-cfed2214295b,bcf7eb01-7129-4a02-aa77-e260636532f3,2023-07-28 10:47:36,3906.71,EUR,withdrawal,ATM,Target,Miscellaneous,Germany,Hamburg,False
+30a070fc-8422-4ec8-94d0-4351a7c85f3a,bafc29ed-b5c4-4046-b619-bdd151232d51,2023-01-11 06:00:46,1768.14,JPY,withdrawal,in-branch,Best Buy,Electronics,Japan,Nagoya,True
+367af926-7be2-4cbf-be57-35e394297d06,1ab256c1-b4c2-4e33-8365-3874c05f2313,2022-10-23 10:15:04,9436.79,USD,withdrawal,in-branch,Target,Retail,United States,Chicago,False
+f02c73b8-6d8c-4761-bf62-fa44c781b60e,cbc3ff95-16fa-44b4-ac43-1d94e39d7cbb,2023-02-05 01:30:37,8840.24,INR,deposit,online,Costco,Clothing,India,Hyderabad,False
+1e996b88-29ca-4a05-8bf9-da11cebeb021,ad5a5be8-2e2a-473d-b1b2-eeaf7c5a57e2,2024-07-29 14:40:17,5173.89,JPY,deposit,mobile,Best Buy,Retail,Japan,Fukuoka,False
+a8c67da1-5ef3-409d-91c8-334002f8bea9,3e89ba84-bf05-42a3-84e1-51bbd17a5065,2022-12-13 00:07:04,7415.84,JPY,transfer,online,Amazon,Grocery,Japan,Sapporo,False
+8d8855f8-2981-4eaf-81c2-53f0c19e1b47,eb2b0862-23bf-479a-981c-c668e10b8f4e,2023-03-20 11:45:28,4214.77,JPY,deposit,ATM,Target,Clothing,Japan,Osaka,False
+bf15c29a-6cb6-4457-8484-d6495e5d267a,bc8955b0-d7b0-4438-91ba-7b05ab1427f4,2022-11-16 00:20:23,4605.74,JPY,withdrawal,in-branch,Best Buy,Electronics,Japan,Tokyo,False
+f8a55ab6-7a62-4864-a7e5-fa24f1c903bf,0c3d3aba-5358-408e-b71e-84fcd74e8db5,2022-12-28 20:38:05,1410.93,EUR,transfer,mobile,Costco,Grocery,Germany,Frankfurt,False
+7640e804-70b0-45b0-9b1a-6902baa7e7bd,82e13eb6-39ec-49e6-9a2b-aa6b41b2b8c3,2022-11-12 08:01:24,9563.22,INR,transfer,online,Costco,Miscellaneous,India,Chennai,True
+cd8205ff-1dc8-45cb-8b83-87480d203119,082f04dc-e85e-486b-a860-4587dc203462,2024-01-15 04:22:23,7908.85,GBP,deposit,in-branch,Amazon,Electronics,United Kingdom,Glasgow,False
+ad7ceaa7-2225-4083-9e7f-b5b02564c6da,c3fe8e30-32f5-41f8-8e5e-0c0d803fabbb,2024-03-20 09:23:15,5106.21,JPY,deposit,mobile,Walmart,Electronics,Japan,Nagoya,False
+70fd910e-f19b-48a1-ae95-935e74524d3e,fa896094-b2d7-42e6-84a3-c2653eec433c,2023-11-10 10:15:08,5861.68,EUR,transfer,online,Walmart,Retail,Germany,Munich,False
+d797cff3-da27-4f58-b33b-43a61491eb50,77074be6-dc02-40b0-93b4-59069784416e,2023-08-31 01:30:25,8912.88,INR,deposit,online,Target,Electronics,India,Mumbai,False
+f4f6d0fa-046d-4ea6-819b-7169c76dc6b2,6a489351-d7f8-48dd-92f4-fde858c43d14,2023-10-28 09:28:22,631.79,GBP,deposit,ATM,Best Buy,Grocery,United Kingdom,London,False
+2293d990-47f0-46f3-ade4-cc059b2a5c9a,51877c5d-dcaa-417f-a6d0-0c36e37caa8e,2024-03-02 23:18:37,4771.38,INR,transfer,online,Target,Clothing,India,Chennai,False
+482dc3a3-dc81-4727-bcc9-b3eda8504cab,c2d9e258-343f-458a-b68c-00ca50e00ca8,2022-10-03 20:56:19,2099.94,EUR,transfer,in-branch,Target,Retail,Germany,Cologne,False
+9006dc0b-e649-4211-8bd5-d4ee0deafd02,a30979df-a55a-47fb-b281-a998064ed550,2023-03-01 02:57:04,4842.0,GBP,transfer,ATM,Amazon,Clothing,United Kingdom,London,False
+3f130af6-40f0-4cff-9a4b-2e78a133b8a0,a4e4fb4a-20e2-44cf-a3a1-71ea32ba2632,2023-05-28 03:08:21,2886.44,USD,deposit,online,Best Buy,Retail,United States,Phoenix,False
+304f1e1e-d5f2-4528-97a3-e91fcf6d0f14,a1a02e4c-416b-460c-a194-9fa1a6533d57,2023-12-09 08:10:43,217.79,EUR,purchase,mobile,Target,Clothing,Germany,Cologne,False
+3f476d93-e47c-4657-9e81-7d305f6774d6,416151ef-5514-4f34-b23c-c53a021e5c06,2023-08-23 19:43:24,1182.86,USD,transfer,in-branch,Costco,Retail,United States,Los Angeles,False
+501bbd60-0ffc-424c-8b1d-9a25a698bf44,251655a7-a4b8-4c35-95c5-4d27a0757296,2024-04-24 03:55:30,1082.6,EUR,transfer,online,Amazon,Clothing,Germany,Frankfurt,False
+f375f4af-b6dc-429f-b3bf-1a8d550f98bd,59b4916e-05bf-440d-90b7-8f136482a91a,2023-09-27 14:17:50,3178.15,USD,deposit,online,Amazon,Grocery,United States,Phoenix,False
+e0b09b41-ced9-47b7-865a-0bd7c7ec3356,6cbe1d73-0c80-4aaa-86ef-22f6934402b0,2023-09-05 04:27:11,1963.63,JPY,withdrawal,ATM,Costco,Miscellaneous,Japan,Osaka,False
+ddf1cd9c-680d-4577-a261-eed0c54e4f2e,b119a6c9-430e-4052-98b4-cd127e6389c0,2022-11-17 23:41:18,6275.67,EUR,purchase,in-branch,Best Buy,Electronics,Germany,Munich,False
+040e2199-ed83-4710-b796-850831532787,d8e60a6f-2420-4883-b18b-bfb5d165c897,2024-06-25 19:11:17,1138.88,JPY,deposit,in-branch,Amazon,Miscellaneous,Japan,Fukuoka,False
+0b4e2f7d-5c80-4bf5-8244-b19779e551f9,ca419770-5ff2-43ca-94b9-9b7ca1f863f8,2024-04-30 16:37:55,1764.16,USD,withdrawal,mobile,Walmart,Retail,United States,Los Angeles,False
+514cd275-4855-4dc2-ab49-f834ac276994,d68093e7-5ee7-4a83-9440-f4a7c3fa3cd8,2023-02-28 23:34:02,7615.54,USD,purchase,ATM,Best Buy,Retail,United States,Los Angeles,False
+53df7257-4f79-4f26-a55e-573728a21b84,6ddd907b-5a7d-40fb-8a44-21c3867943e1,2023-08-11 00:44:32,7757.38,JPY,deposit,mobile,Best Buy,Grocery,Japan,Nagoya,False
+2f581e82-bb54-45a2-9dd0-755b6d69bce8,db3b247f-2436-491d-8c18-44c68bdbd73b,2022-12-26 15:35:47,7481.82,INR,purchase,online,Walmart,Grocery,India,Hyderabad,False
+40f99c20-d58c-4457-8cd5-a34d98c808de,d68093e7-5ee7-4a83-9440-f4a7c3fa3cd8,2023-07-16 07:16:17,1480.07,USD,purchase,online,Walmart,Clothing,United States,Houston,True
+2573d8f5-01d1-44be-9904-f8bae61d514f,1ba99f29-822c-4459-bb2b-fd4d8c20e31e,2023-06-14 07:08:26,6813.33,GBP,transfer,mobile,Target,Grocery,United Kingdom,London,False
+fbe7d37f-ed13-4882-a020-7f00563bd797,659ffe86-5e6b-4234-892e-b9a7a3cdbd29,2022-10-17 08:21:55,1330.51,GBP,deposit,online,Walmart,Electronics,United Kingdom,Birmingham,False
+38a3c0a6-8c78-44b5-a46b-33a1d01945f8,9cee0af8-c309-4119-8354-9a8f2aee7450,2022-10-06 10:42:43,113.46,GBP,deposit,online,Walmart,Miscellaneous,United Kingdom,Glasgow,False
+6bce8e67-115e-4b6b-be44-86bf339c288b,dbc77062-cc6e-462d-94a7-c59ef28c39c9,2023-01-30 08:04:32,8903.69,INR,withdrawal,in-branch,Best Buy,Retail,India,Delhi,False
+2ff9a3ba-d976-48dd-b5a4-ffa712942101,9899fabc-9092-461f-bcea-db8a42b0a7cb,2024-05-09 05:27:07,6820.33,USD,deposit,online,Costco,Grocery,United States,New York,False
+b88403a7-2279-4ef0-90f2-6cdc8a5491a2,02f1ffdf-1dc3-4511-81de-fe61e8ce28b5,2023-11-28 13:27:38,7729.46,EUR,purchase,mobile,Costco,Grocery,Germany,Cologne,False
+ba0501d2-1660-4bb0-b414-dd09e60bf42b,909626b3-f41e-40bf-bae3-4e7bf85a2536,2023-02-07 23:20:27,2702.85,GBP,withdrawal,in-branch,Amazon,Grocery,United Kingdom,Glasgow,False
+f65efd93-faee-4df4-82eb-23fcbc3a5c47,1ac3f2fe-8cdc-4d25-aa34-af37a8809313,2023-11-12 23:05:14,9471.21,USD,withdrawal,ATM,Amazon,Electronics,United States,Los Angeles,True
+47479d5e-14df-4bf8-9755-cd3cbc3d493b,9cee0af8-c309-4119-8354-9a8f2aee7450,2022-11-22 23:31:22,2367.27,GBP,withdrawal,online,Target,Electronics,United Kingdom,Glasgow,False
+0caaad42-0257-4ebb-868d-c96e508c8968,8ce73b4b-05ae-413e-8f69-6536a066b177,2023-08-02 05:05:10,2551.56,JPY,transfer,online,Best Buy,Grocery,Japan,Osaka,False
+11756006-e694-4acf-8058-08bf171d414f,28d00a0b-4f8f-42cb-8ba6-25f1381110ff,2024-07-22 08:31:02,5174.23,INR,transfer,in-branch,Target,Retail,India,Chennai,False
+f51a0593-1e14-4002-b4b0-0d152b7b1916,0f9b438a-4ab5-4072-a8f9-e1deccf93e71,2023-12-14 08:48:27,6676.73,INR,purchase,in-branch,Amazon,Electronics,India,Chennai,False
+696cc179-1649-473e-baf3-18b83b05fad2,4fb4567b-cb75-4e96-8595-7dc28b3725fa,2024-03-30 00:53:51,7427.71,JPY,transfer,online,Walmart,Retail,Japan,Tokyo,False
+66606da8-984f-45db-8131-98f7c866c261,74967ca6-298d-46f8-860c-e710490b5875,2023-05-04 14:15:29,6166.11,INR,purchase,online,Walmart,Electronics,India,Chennai,False
+d1e04141-1176-447b-a91a-677be9e24537,3181c281-c9e6-4725-8947-6ff8f2da5a55,2024-02-24 09:29:16,807.16,EUR,purchase,ATM,Best Buy,Electronics,Germany,Munich,False
+a5046a2b-a9ca-4f0c-bd51-ba59ac70da59,cb11568f-9a27-4944-aed5-a8b6c5c067a8,2023-08-20 16:12:58,516.11,JPY,deposit,mobile,Walmart,Grocery,Japan,Fukuoka,False
+de438e9d-2a18-4945-8ce5-dfa164a8f709,571a69c0-bd4f-435c-b841-ddf30cd1d4a8,2023-09-25 14:07:22,6950.26,USD,transfer,mobile,Amazon,Electronics,United States,Los Angeles,False
+ed71f448-3098-44bf-b2cf-eda2085dc3c0,a4193457-ec6d-45d8-bf20-5fac6e06fbe2,2022-12-12 06:11:33,9777.46,EUR,withdrawal,in-branch,Costco,Electronics,Germany,Frankfurt,True
+75664d45-c644-4748-9769-72a6b6426e83,da9981b9-424f-4919-a766-5a4a7ea14219,2022-12-25 04:40:16,7590.93,USD,withdrawal,online,Costco,Miscellaneous,United States,Los Angeles,False
+4130e19e-311f-4536-bf6e-859ef13c888d,512822c9-0335-4df6-9ce5-0d4878a0c2f5,2023-03-12 16:54:09,5905.36,USD,purchase,online,Walmart,Grocery,United States,Los Angeles,False
+82d4b21c-ee9c-4e67-bb97-fbf597d235e9,b9bdc57e-4552-4fe0-9201-8c863484e4c0,2023-09-21 10:31:44,5181.67,INR,deposit,in-branch,Costco,Grocery,India,Chennai,False
+f94c9b19-4b29-4f89-ac95-a8b6b4c27d2a,6c2c6bd8-4235-417e-9791-6f1c6fa94687,2022-09-10 17:57:03,6962.51,GBP,deposit,in-branch,Target,Grocery,United Kingdom,Liverpool,False
+88358744-922e-4e90-bb9d-a7226cf891c7,4ab703f5-baac-4517-9080-550c251a2025,2022-12-25 21:55:00,987.77,EUR,transfer,online,Costco,Miscellaneous,Germany,Cologne,False
+be097aab-bfbb-45a3-8c32-4ff75839a3f4,49673358-945e-4b18-bf13-d8be12420c46,2024-03-12 18:39:23,4452.67,EUR,transfer,online,Target,Miscellaneous,Germany,Cologne,False
+f9fcb6f9-6716-4598-839f-e1b08466b9d3,f0e39b0f-a757-4d25-b0ff-40eb84a7a369,2023-03-06 13:06:09,3615.15,USD,deposit,online,Walmart,Electronics,United States,Phoenix,False
+74b44e56-755a-4e5f-b879-875acfd79d98,d34385c1-25da-4f68-b69a-0b6f05048a51,2023-09-13 10:20:30,2543.75,GBP,deposit,mobile,Walmart,Miscellaneous,United Kingdom,London,False
+1f3ad4e8-2ab4-4f06-b40e-51f799705745,219d5c81-8c9d-4147-8714-12a039bf2185,2023-07-30 04:31:08,3348.38,INR,transfer,in-branch,Target,Grocery,India,Bangalore,False
+a9e71f05-f7ba-4425-8f1b-602013dc9eef,4f6f661c-2fe9-4ed9-9021-639eb059d029,2024-02-27 23:56:29,5342.26,GBP,deposit,ATM,Best Buy,Grocery,United Kingdom,Liverpool,False
+bd42a81a-5ed5-45b9-89a6-2bd2fd78d041,8ca9d66e-f915-499c-8cb6-2b3377144df4,2024-08-16 07:13:19,3871.5,INR,purchase,ATM,Target,Electronics,India,Delhi,False
+858d68f7-fbef-431b-9a62-1645dda6ed59,cc026236-20b5-4a38-8f12-59f42d7c3ee1,2024-04-28 17:29:46,3652.51,GBP,withdrawal,mobile,Walmart,Retail,United Kingdom,London,False
+c21a9b65-f5e9-4031-9bd1-a2b145c872be,008f7916-9ff2-46b1-91df-83df42ce1e72,2024-07-21 09:25:41,6080.12,GBP,purchase,mobile,Best Buy,Miscellaneous,United Kingdom,Glasgow,True
+d16c4158-bd88-44a9-97d8-a649ed67acbd,f92decb2-8f92-4060-a3e2-15e27eef29a7,2024-07-10 03:00:07,4711.97,JPY,deposit,online,Costco,Miscellaneous,Japan,Sapporo,False
+0440b7fa-69e2-47b9-b83f-153df556004c,e18e8b4d-ad4b-46c9-affa-d07763ac3a0e,2022-11-06 09:20:22,9924.49,INR,withdrawal,in-branch,Amazon,Retail,India,Chennai,False
+0c09c437-0e63-4f3f-9d59-f7438dfa8a2a,81f27ed6-200b-4072-b5e3-1297b870678a,2023-05-21 07:26:04,2751.95,USD,deposit,online,Costco,Clothing,United States,Chicago,False
+19f62f3c-6ad1-42cf-b796-f05ffea56847,44a27fbc-4cd8-4355-865f-bc4ae3f02047,2024-04-21 11:41:36,2580.53,GBP,transfer,in-branch,Amazon,Miscellaneous,United Kingdom,Liverpool,False
+bf6cb9c5-b173-4400-aa49-2c349764b65e,1e8b1e4b-daf3-464c-92d6-c5bd9b25f826,2023-11-12 02:18:10,7749.0,EUR,transfer,online,Walmart,Miscellaneous,Germany,Berlin,False
+d0fdf742-b26b-4314-8334-0c7c5b7149f1,486ff5a1-7f22-4d5a-a4f1-64a13c1fd837,2024-07-06 17:17:21,3734.26,EUR,purchase,in-branch,Target,Clothing,Germany,Hamburg,False
+6dd6a1b4-9a26-4368-97de-dabe6fa1ff51,d6990ae6-21af-4800-a42d-9cd91934690f,2023-09-01 16:22:07,1586.99,INR,purchase,in-branch,Amazon,Retail,India,Hyderabad,False
+29445e7f-3995-4de7-80a4-b38e129ebd92,dea4b1d6-41b1-4703-b0f6-895fe10b4170,2024-04-09 14:12:39,6633.96,GBP,deposit,ATM,Best Buy,Retail,United Kingdom,Liverpool,False
+15548526-6e6a-4a69-8a9f-c32a8f142ce6,a79c835e-5159-4cab-869c-8c3ed5ab2c63,2023-07-19 18:17:54,2173.59,USD,transfer,mobile,Target,Electronics,United States,Houston,False
+8de0094d-39a3-4ffc-8cd6-6c2f2038fe25,c3ea146c-dbde-4b7b-bd7b-61001e63b682,2024-06-09 02:04:06,4992.8,EUR,withdrawal,mobile,Best Buy,Retail,Germany,Cologne,False
+0c167f4e-ddb7-4715-b039-9d8fb9b80011,eb405633-c12a-4bb9-818a-99ccede5db89,2023-11-09 12:24:44,9433.7,INR,transfer,ATM,Walmart,Clothing,India,Bangalore,False
+236641af-11af-4322-9fa2-1fee4f1c0b4f,5bbb8028-fdfb-4b0f-8e9c-9f6148342cc9,2023-10-16 06:49:56,2916.94,EUR,purchase,mobile,Best Buy,Miscellaneous,Germany,Munich,False
+f6c0c2ef-1929-4f2c-899b-cbdf7081e452,e4c65054-bdca-4d6a-aafe-e4a255a9a1d2,2024-04-01 09:31:36,6071.41,INR,withdrawal,in-branch,Target,Grocery,India,Chennai,False
+670f2dca-f025-43d3-91bc-0af8a25fc1af,e2bf2f6f-d2ab-4f72-aa91-efdc64a5262e,2024-02-27 21:55:28,9934.88,USD,transfer,online,Costco,Retail,United States,Chicago,False
+5f7d5ff6-19d9-419c-8693-2314d8126c95,55121b31-2fd5-4059-a47b-988a71d9fb7e,2023-07-24 02:59:27,6443.07,EUR,transfer,ATM,Costco,Miscellaneous,Germany,Hamburg,False
+ce08ddaa-8bd2-48c3-85a2-6d901b2ce49b,f10a6b32-e991-4ffb-a44d-7f2e679baf4f,2024-02-10 05:15:15,2861.8,GBP,deposit,in-branch,Best Buy,Electronics,United Kingdom,Birmingham,False
+1d1a3e2d-349f-404e-aafb-9a0629c40228,8bc098fc-35b6-4326-9a3d-2b8b16066c6b,2024-04-10 09:58:52,6259.7,INR,transfer,mobile,Best Buy,Clothing,India,Delhi,False
+263537de-cba8-40ab-9751-4da396bf8d93,dd8a2d4c-c75b-4393-9718-fbe7422e7a16,2023-08-08 08:06:37,2911.36,JPY,transfer,ATM,Walmart,Retail,Japan,Fukuoka,False
+e7176911-0057-4771-aab4-4adcee47e8cb,34fa1584-27a0-44ed-aebd-6d130fea4f1a,2023-11-10 05:04:17,8900.58,GBP,transfer,ATM,Best Buy,Electronics,United Kingdom,Birmingham,False
+37177eb1-b8f8-4351-b0be-d8327fb8bf85,983aaad2-b804-453a-bfbd-30fcda9e2cac,2023-06-16 18:22:44,7311.51,EUR,purchase,in-branch,Target,Electronics,Germany,Cologne,False
+998b369a-2dd5-4c5f-a738-f12ab0f20694,188ee2cc-e89a-429d-8785-2f001b32218f,2024-02-10 09:06:24,5352.07,JPY,purchase,in-branch,Walmart,Miscellaneous,Japan,Fukuoka,False
+b926e9b0-6732-4ee2-9027-01432e514cb6,8fb77ba5-5daf-481e-8894-be619bfbe1a8,2024-06-11 07:19:51,6690.88,INR,transfer,in-branch,Walmart,Clothing,India,Delhi,False
+a77797f0-0227-4927-9eaf-0d9067df2342,c9be8b92-1c1a-4441-b596-87d007f9a83c,2023-02-06 02:43:31,2604.94,JPY,deposit,in-branch,Best Buy,Miscellaneous,Japan,Sapporo,False
+6d5f5d22-dac2-4751-858f-77e8fef48489,baba38ce-a366-4b45-a837-17a3f180eb0d,2024-03-11 15:46:02,4081.83,GBP,withdrawal,mobile,Best Buy,Clothing,United Kingdom,Birmingham,False
+d3c7a04b-d14b-4913-89a0-88216a2323ba,2a34604e-a1dd-4710-8f0d-4c79d7d5ae12,2024-03-31 09:44:57,6519.91,GBP,purchase,online,Best Buy,Miscellaneous,United Kingdom,Birmingham,True
+90fb80b4-bf27-4c0c-8872-ce7e76f84658,2b85b570-5478-47cd-aa8c-1de03015ff71,2023-12-30 04:09:38,3864.42,JPY,deposit,online,Amazon,Electronics,Japan,Osaka,False
+5e045209-04d7-4edc-ade3-0e8e9a1ac9ad,e34fb409-5712-4147-b7d8-8059c3e67efa,2023-11-21 22:07:06,3074.41,USD,withdrawal,in-branch,Target,Clothing,United States,Chicago,False
+d2d9a490-8b1b-4945-9e08-8972fa40c851,6fca55c2-11c7-44ce-acba-61d3d626aed7,2023-11-10 07:06:27,6361.42,INR,deposit,ATM,Best Buy,Clothing,India,Mumbai,False
+d855061f-b9f0-4ec9-a909-92574e9b3ab2,188ee2cc-e89a-429d-8785-2f001b32218f,2024-02-29 13:36:21,2392.4,JPY,deposit,mobile,Amazon,Grocery,Japan,Nagoya,False
+4d7fa4c9-a74a-467c-8cf4-a4c6f1d74c81,47dc2682-7655-4bb1-9c95-bb5eb04d5d5d,2024-05-07 11:05:32,6005.66,GBP,withdrawal,in-branch,Best Buy,Grocery,United Kingdom,Manchester,False
+b71d5d7c-7118-4210-80d4-10466b01397e,8e5d22f5-5512-40fb-b9a2-fc82ab4dbcda,2023-10-20 15:04:01,9680.59,GBP,deposit,in-branch,Costco,Electronics,United Kingdom,Manchester,False
+41f497e7-7d8a-42fc-bbb3-ee06b1dc034f,24d536c1-4614-4aba-8108-964c4060b096,2023-10-30 04:26:52,5639.6,USD,deposit,in-branch,Target,Retail,United States,Chicago,False
+4891a740-6dd8-4aea-b3eb-6d1f80aa7ebc,a7d47ef4-10c3-4712-bf7f-654cf9cfb132,2022-08-20 06:16:51,88.56,EUR,deposit,in-branch,Walmart,Electronics,Germany,Frankfurt,False
+6a64adcf-40fe-4ed5-b366-4d8d5d924e7a,e61dae1d-a5bd-46b8-8e97-d102abf0a783,2023-12-30 10:02:56,9761.98,GBP,deposit,in-branch,Walmart,Electronics,United Kingdom,London,False
+a69cd40e-a857-4aba-9c48-bb97abd58f08,8cccb242-2230-4414-977c-5886ca273f2f,2024-02-04 09:08:32,7386.21,INR,withdrawal,ATM,Best Buy,Miscellaneous,India,Delhi,False
+a0a5f233-e5e0-4986-8488-b78c25e743b9,dbbb0370-4517-4515-9565-f5d7f222ca1f,2023-07-01 13:25:59,1103.83,USD,deposit,mobile,Amazon,Clothing,United States,Los Angeles,False
+8f1f2c58-c82a-49b5-af05-7bdb0f8053dd,3a4f091e-6ba1-4d3d-8624-3e9dd5b60fa7,2023-10-28 04:34:09,2350.75,JPY,transfer,online,Walmart,Miscellaneous,Japan,Nagoya,False
+71d8f15d-9fd6-4577-b132-edb93e9158ca,331ecc9f-e0ed-4b73-bd0c-ee846f05a9c5,2023-10-13 14:10:15,6548.66,USD,transfer,mobile,Walmart,Grocery,United States,New York,False
+35d099d0-0ca5-4c7c-9576-d9022bd059b3,b8666c36-265d-4d74-805b-af00b83d66eb,2023-11-27 23:44:40,2456.25,EUR,transfer,ATM,Target,Retail,Germany,Cologne,False
+b16ad0e3-5dc9-4b72-94a4-a2cc9b4f59ce,723d2250-b2a3-4cd3-99bd-82e7f8d42acb,2023-02-28 16:24:09,9005.57,USD,withdrawal,mobile,Costco,Retail,United States,Houston,False
+ec25f2b6-8fc9-471c-8b6d-7a9708ab25ad,12e87174-6332-4e10-9304-872f3460e833,2024-04-02 04:23:43,5658.14,USD,deposit,online,Costco,Grocery,United States,Los Angeles,False
+4f3d58f4-f15d-4133-89d2-22408ac1e7dd,8f0c0445-bce6-4aa6-b701-a978049e4216,2022-09-21 20:24:23,5494.2,JPY,transfer,ATM,Walmart,Retail,Japan,Tokyo,True
+981e41b9-f0ca-475b-af92-f50f137139be,a4193457-ec6d-45d8-bf20-5fac6e06fbe2,2022-10-02 13:29:10,8369.91,EUR,withdrawal,in-branch,Walmart,Grocery,Germany,Munich,False
+4aa04eed-0fcd-4399-8750-0b15dbac3004,d622e7ea-b7b0-4138-97ed-b4fccaf4c5a1,2023-12-09 08:04:29,5964.02,JPY,deposit,ATM,Costco,Grocery,Japan,Nagoya,False
+caca8efb-5bc7-4e00-8882-b19081d62e02,aaa84b6b-3f77-4947-a9f9-c611610fbc9e,2023-04-08 05:21:13,1375.72,USD,transfer,mobile,Amazon,Clothing,United States,Chicago,False
+d2d182b0-e5c8-41d3-8f97-ba1553a20a0c,9e41331d-ed8e-47df-ba9a-4e4af1fcd606,2023-05-15 10:32:31,7361.91,GBP,withdrawal,online,Target,Clothing,United Kingdom,Manchester,False
+714abca9-6769-4c40-8c31-244e930f2801,c6a4b6cc-bfb8-424c-bf30-0c507c22bf8f,2024-06-13 01:31:14,7745.33,USD,transfer,in-branch,Walmart,Electronics,United States,Chicago,False
+b60c80c0-884c-4517-8ba5-d414360217c1,03abd1d2-ab43-4670-bd81-3f58ec2a9d12,2023-04-29 08:44:41,3619.57,INR,transfer,online,Best Buy,Clothing,India,Chennai,False
+80140929-eda1-4077-8eed-c67f5bee1893,6ad61ca3-e27c-4fe1-8a2d-3a0d1557b819,2022-11-29 12:36:57,611.13,EUR,purchase,mobile,Costco,Clothing,Germany,Hamburg,False
+bc31e795-3792-440a-9f6a-6f5350929071,d2cec7de-2661-40ce-9736-0333cb6e39f2,2023-01-06 11:52:41,486.83,JPY,purchase,ATM,Amazon,Clothing,Japan,Tokyo,False
+39a04fa4-21f9-4b31-93b8-e050c7036e52,3f7e9ac8-cb91-46eb-9a76-a5ac8b2e76a5,2024-04-20 15:39:05,6200.2,INR,purchase,online,Best Buy,Miscellaneous,India,Hyderabad,False
+4fe102af-fb63-4f3e-a364-17a32edf57ef,b4c0e471-0780-44b1-8805-9433772e17b3,2023-12-20 20:01:27,1452.63,USD,transfer,in-branch,Amazon,Clothing,United States,New York,False
+2ad6785c-3143-41f6-b24a-ef440baa3eef,23899793-70ed-4e3f-8ace-aa4e44607bf9,2023-12-06 13:17:20,3963.19,GBP,deposit,online,Target,Electronics,United Kingdom,Manchester,False
+96352061-e8f9-45ee-b341-2b00c2aab45a,6a489351-d7f8-48dd-92f4-fde858c43d14,2023-10-27 23:06:13,4931.14,GBP,deposit,online,Amazon,Electronics,United Kingdom,Manchester,False
+675a525a-293a-45fb-99d8-7ba7fdce3219,93a962a0-76bc-46d1-ab24-0417de4270d3,2023-11-19 21:56:39,2867.5,GBP,purchase,online,Costco,Electronics,United Kingdom,Manchester,True
+106c1430-613f-4301-bbfa-c681587d00e2,438df16e-1505-43ca-9b6b-0af2e1e9bb7f,2022-10-08 05:26:19,584.19,GBP,withdrawal,ATM,Walmart,Grocery,United Kingdom,Birmingham,False
+5a0a44e2-512c-4dac-8997-6dd5d891bb28,cc2fb5a5-878d-48d1-bb73-b256e53a453b,2023-04-16 00:21:47,9858.48,EUR,deposit,ATM,Walmart,Retail,Germany,Hamburg,True
+8e87688d-ab0f-440f-93b4-ce90a2cb55f4,93b5129e-5bd9-454f-ab04-7de0beafdf04,2024-02-24 17:57:17,3587.62,INR,transfer,ATM,Amazon,Clothing,India,Bangalore,False
+84bc6cb7-6444-4f88-9e83-4fa936fe134e,7c262bc5-d386-485a-95c6-ca40994ea2d3,2022-12-29 08:09:17,5101.19,EUR,withdrawal,online,Amazon,Miscellaneous,Germany,Munich,False
+d503ea7a-d7f1-4034-a08f-8ddb6fe49e24,12006b76-ba69-431d-86e2-cd3357538313,2023-01-03 15:40:11,7780.93,USD,transfer,in-branch,Target,Retail,United States,Phoenix,False
+437d3f3d-68f3-4003-a58c-28be1b9ccf41,8ba08b29-afc4-4e89-9fb6-9e2e456caee7,2024-01-15 08:12:45,7730.47,GBP,transfer,in-branch,Walmart,Grocery,United Kingdom,Birmingham,False
+a22b0c54-3b1c-41f9-b1b4-38fd054543fe,c0d60a4e-485f-4f73-96fe-fb76af506f20,2022-11-24 17:07:39,1337.63,JPY,withdrawal,mobile,Amazon,Electronics,Japan,Nagoya,False
+28479668-c039-4e36-8e0a-ae8f9a72c98d,be667b07-0ed3-4960-8eda-dcf776948b17,2022-11-27 14:33:06,9076.69,JPY,withdrawal,ATM,Walmart,Electronics,Japan,Fukuoka,False
+b9a72272-5cdc-4fd0-8171-5e5002aba461,22282ae2-fc2a-4b72-8bac-0b50831fa475,2024-02-08 10:21:43,8772.94,EUR,withdrawal,mobile,Target,Clothing,Germany,Frankfurt,False
+1ca82db3-8654-4473-bf28-ed072a4c3f7c,c39cf5c8-31a0-42af-9321-186db23b97d3,2023-02-15 18:59:32,2939.07,GBP,transfer,in-branch,Best Buy,Retail,United Kingdom,Manchester,False
+6216f951-9db4-4f97-bb71-7ea2505856e9,83950687-7582-4996-9bcc-83aff83b6705,2023-11-29 05:30:18,1128.88,JPY,withdrawal,in-branch,Costco,Grocery,Japan,Osaka,False
+c584950b-e2e2-4d63-a494-48c742317440,0f4b4e4b-8ed2-436c-b3dd-af1a2eba77b3,2024-02-26 08:10:19,8912.15,INR,withdrawal,mobile,Walmart,Grocery,India,Hyderabad,False
+953bb8ee-5b15-4fad-ab3a-d1ce474db252,6a165d91-0df7-4b75-8aa0-5c1f8fcebfb6,2023-03-22 21:36:21,8925.93,INR,transfer,in-branch,Amazon,Clothing,India,Bangalore,False
+38176e67-79c3-45e7-9cbf-d159dd3940cf,eb71e7ef-0f49-471d-a68a-f6068ba861d0,2022-12-10 17:55:57,7410.26,INR,deposit,in-branch,Amazon,Clothing,India,Delhi,False
+8e8136ed-ad13-4aec-9e02-50908d6cff89,c0d60a4e-485f-4f73-96fe-fb76af506f20,2023-04-12 07:14:26,4060.64,JPY,deposit,ATM,Best Buy,Miscellaneous,Japan,Tokyo,False
+7024d895-1b21-4ef4-8349-9fe95a39b9df,297848e3-9a7b-492b-ac32-af02129c6749,2023-11-21 14:29:49,1787.58,EUR,deposit,in-branch,Costco,Miscellaneous,Germany,Berlin,False
+91b9d2ac-c497-4486-b533-c48ffff168a4,36f6c04d-8b64-4df7-b1a5-b0bf3296cc5e,2023-02-21 03:46:12,1453.47,GBP,transfer,online,Costco,Miscellaneous,United Kingdom,Birmingham,False
+b20003b6-9802-48e3-83f3-91f817fb345a,92d5bf0d-33b8-4541-93a5-0463271685c1,2023-09-04 08:06:19,8639.41,EUR,transfer,in-branch,Walmart,Electronics,Germany,Berlin,False
+b32551d6-5f09-42e6-bffc-8a31d80fdab2,6c67e00a-f2c0-4da2-aad8-a04cbf7efc89,2023-01-25 17:19:37,664.54,GBP,deposit,mobile,Target,Retail,United Kingdom,Liverpool,False
+ab052fc1-c926-4c21-8b27-527cd3ebd158,c53d2c50-2f53-4747-a7cd-dde3150f4bfa,2023-06-07 12:42:41,1286.46,EUR,purchase,online,Best Buy,Miscellaneous,Germany,Frankfurt,False
+8269942f-0274-4dbe-aef4-f76314ea9c50,fc8c3458-2633-4d6f-a8f0-219f4f35f720,2024-01-20 21:04:23,1159.38,JPY,purchase,online,Target,Grocery,Japan,Nagoya,False
+ce2cd5b0-8e45-4da9-965d-b7dedfd5b38d,f4a78c8e-d4e5-49ac-b682-1c75db5cb7b4,2023-01-10 12:18:07,871.22,EUR,transfer,mobile,Target,Clothing,Germany,Berlin,False
+1c19cee2-b355-4d93-b785-5e12bf102f9f,32e09379-860b-4430-a576-b025935de16c,2022-10-05 17:48:24,9180.56,USD,purchase,ATM,Walmart,Grocery,United States,Houston,False
+52e8f5e9-33d0-46a8-859c-eb98a448437d,d7f0a33d-e417-4056-aed0-57ede47ee282,2024-06-04 11:54:35,4879.9,JPY,purchase,mobile,Amazon,Grocery,Japan,Nagoya,True
+9d15a763-f7ae-4782-888b-d9f6e3a9c7e1,55121b31-2fd5-4059-a47b-988a71d9fb7e,2024-05-02 04:17:42,4394.13,EUR,purchase,ATM,Costco,Miscellaneous,Germany,Berlin,False
+3191aca8-9c06-4e59-95f2-85db75edd180,a1b3744b-9604-4512-94e8-e03f9b285065,2023-05-12 17:10:03,1534.24,USD,withdrawal,ATM,Target,Grocery,United States,Phoenix,False
+137c4749-2673-426c-ad08-6356d5eb264a,783b1a2c-d27a-4c09-b459-9e6caab25347,2022-12-05 05:27:57,7870.84,EUR,deposit,ATM,Walmart,Clothing,Germany,Berlin,False
+1a475849-d9cf-446e-a49d-ba616bf48965,43666a20-e918-4042-a18f-14abff855f85,2023-05-20 02:27:15,5452.75,JPY,deposit,in-branch,Costco,Clothing,Japan,Fukuoka,False
+6a1a10b7-c449-4a75-a096-3614c2026c0b,d8433464-855b-45df-bcd7-3a48c1f91d20,2022-10-04 19:32:09,1939.34,JPY,purchase,mobile,Best Buy,Miscellaneous,Japan,Osaka,False
+e3f64876-da49-4034-bbec-302f82a43339,b2d87fb4-0022-49d5-be35-690a50373087,2023-07-25 21:43:25,7581.99,EUR,deposit,in-branch,Target,Miscellaneous,Germany,Cologne,False
+ef508b39-1300-4b5d-9f05-9d0fdeabd52f,5fd29df2-1027-4c5a-9f2c-a94cfb3aa45c,2022-08-24 17:32:09,5087.72,EUR,withdrawal,mobile,Amazon,Electronics,Germany,Munich,False
+8ca10aba-dabb-4e0a-8df5-fca29207e618,bf5577dc-5d0c-4528-bae6-34675799f65c,2023-09-21 23:37:10,5155.77,EUR,withdrawal,mobile,Walmart,Grocery,Germany,Cologne,False
+6fc301fb-d59d-497e-a19a-8915be4854c9,d4b63b9c-6d28-463f-8e62-a227de63a972,2024-06-05 00:18:53,1466.85,JPY,purchase,mobile,Costco,Retail,Japan,Tokyo,False
+f82547b5-dff3-4989-8ede-da6a963c09d0,638bd0e3-c7a8-427e-88ff-402e71e60abd,2023-08-14 23:03:56,6886.04,GBP,transfer,in-branch,Target,Retail,United Kingdom,Liverpool,False
+b3897e6b-9d4e-40c7-8ce6-409a4318e07a,695dd4f0-463d-4d0d-8f77-947babfc4b0b,2022-09-18 02:49:10,5838.95,INR,deposit,ATM,Target,Retail,India,Delhi,False
+d32290b0-0ae5-4e38-8358-acbafa6c3cdd,e7cf739b-b4eb-4e18-ab87-29caff4ddd5c,2022-08-31 16:21:09,4593.39,INR,deposit,ATM,Walmart,Retail,India,Hyderabad,False
+638aa38e-4c8c-42f0-9f19-d5fc16fe51ec,1c293fa0-15fe-4cae-92ff-6ed2a0ced5f1,2023-06-05 19:24:33,3708.24,USD,withdrawal,online,Best Buy,Retail,United States,New York,False
+ba33a2c9-4358-4459-bd2e-a624363d6966,06dc8997-979f-4174-8504-346f74730873,2023-10-13 09:47:53,2620.12,JPY,transfer,online,Amazon,Miscellaneous,Japan,Nagoya,False
+37eb66c5-d405-41d8-8914-eb42877f0055,70ae58e9-c5bf-4616-9824-ae8752134bff,2023-07-07 14:13:36,7043.43,INR,deposit,ATM,Amazon,Grocery,India,Chennai,False
+d97bae5e-00fe-4647-9855-697a97cc4206,41dc694a-804f-4fc0-8a49-333ab22a70fe,2023-10-02 14:44:32,5447.61,INR,withdrawal,ATM,Amazon,Clothing,India,Bangalore,False
+0326c380-46b2-494e-88dd-0b615a2d660c,c0fcd527-8143-4325-a3b8-5202b14a05e5,2023-05-27 14:10:54,6842.77,JPY,transfer,ATM,Target,Miscellaneous,Japan,Fukuoka,False
+fb2a9f29-8952-4f8b-a19c-c64f0901dbc6,d34385c1-25da-4f68-b69a-0b6f05048a51,2024-05-22 22:50:09,9051.34,GBP,deposit,in-branch,Costco,Clothing,United Kingdom,Glasgow,False
+d46f169e-264c-4226-887b-feb81315f0d7,653a55ba-bdfd-4083-8d19-6fa1019d14a3,2024-07-10 04:23:07,2722.3,USD,purchase,ATM,Costco,Grocery,United States,Los Angeles,False
+58703a30-edb1-4d54-9808-a056b23450d6,b11f7eb0-4719-4fa3-90b3-c06f080a2201,2024-04-23 04:37:54,6374.2,EUR,deposit,in-branch,Target,Clothing,Germany,Berlin,False
+e5049102-2001-4983-bad7-615b15b78b2a,22dc85c2-efb5-469e-9689-fc48c7e45aef,2022-11-13 11:01:36,4951.39,EUR,deposit,in-branch,Best Buy,Miscellaneous,Germany,Berlin,False
+75df587d-41b7-4d30-921e-458d84863354,439f0cc5-2a0e-433c-acad-9a5ef1878c7c,2023-09-03 08:43:26,1668.35,USD,transfer,in-branch,Costco,Clothing,United States,Los Angeles,False
+5800afab-a62c-477c-a4e8-4947962de0c5,189e2d53-f607-4d24-8075-e63aeee67d86,2024-05-10 07:25:46,9077.98,GBP,withdrawal,mobile,Target,Miscellaneous,United Kingdom,Glasgow,False
+e0092e53-4c3b-4f73-b2c8-031ee0dc0cc2,08d0394d-0c30-4b54-906b-5bdf25883ee3,2022-09-21 04:58:49,112.43,GBP,purchase,in-branch,Costco,Retail,United Kingdom,London,False
+e68abc6f-cbd1-444d-9946-93c7707bfc10,55121b31-2fd5-4059-a47b-988a71d9fb7e,2023-10-12 17:42:29,6480.33,EUR,transfer,online,Walmart,Miscellaneous,Germany,Cologne,False
+e502f157-887e-4f5d-8158-d971486d1ec0,4ab703f5-baac-4517-9080-550c251a2025,2022-12-14 10:22:23,7588.17,EUR,purchase,ATM,Walmart,Electronics,Germany,Munich,False
+1da79dc8-24ed-4aa8-bc1e-62a7af197cc5,bcd2bc4c-9add-4228-bcc7-5b014321eb7e,2023-07-22 20:37:33,1275.17,USD,deposit,mobile,Walmart,Clothing,United States,Chicago,False
+979ddc06-27fa-419b-a87f-eb5368970498,cc026236-20b5-4a38-8f12-59f42d7c3ee1,2022-11-03 01:37:01,6367.52,GBP,deposit,mobile,Walmart,Retail,United Kingdom,Liverpool,False
+ff3cf45c-3953-452a-b4c1-26e1005cd537,84d6beec-a4cb-49ea-9cfb-5cb450ff0211,2022-09-26 23:30:44,7664.36,USD,deposit,online,Target,Clothing,United States,New York,False
+9bad276d-05d1-48b8-a3c9-09213c7525c2,be60c450-25e0-485b-9ddc-b754fff14e4a,2023-04-27 23:19:30,4458.74,GBP,transfer,in-branch,Costco,Miscellaneous,United Kingdom,London,False
+90b8b93b-e421-4fb8-8690-dd5154efbf27,a1dd238a-e8f9-4e53-94d0-03a4003e1683,2024-07-11 15:56:23,9485.34,EUR,deposit,online,Walmart,Electronics,Germany,Cologne,False
+86beca7d-f0ce-41a6-aebf-843c8eabc672,a871ce28-e5f8-444d-affe-bc07a28ff266,2022-11-08 18:02:17,6079.0,GBP,withdrawal,ATM,Best Buy,Clothing,United Kingdom,Liverpool,False
+5a80737c-f54d-4adf-9275-dee83c2371e5,0573a6ff-d418-4ca3-a175-1c1b85a5974d,2022-10-06 20:07:33,1728.43,USD,purchase,in-branch,Best Buy,Miscellaneous,United States,New York,False
+d357aaf5-e100-47a5-af40-8656de6660bc,ed45ac3f-f40e-4bf9-9193-b5f5da58bbae,2024-02-18 14:22:25,5576.74,INR,deposit,mobile,Target,Miscellaneous,India,Bangalore,False
+0c6dc365-f67e-47bb-aa54-b79732f477a6,9a391284-81eb-403a-9669-b8f8f2dbfc51,2023-04-20 07:05:20,8573.59,JPY,transfer,online,Target,Clothing,Japan,Tokyo,False
+fd91c3b0-1753-4d87-babf-bb89183df2a7,bf5e1d9f-1aa1-42ea-bcf4-6e6d3654686c,2024-07-14 05:38:10,9874.54,GBP,withdrawal,ATM,Target,Electronics,United Kingdom,Glasgow,False
+de48f24e-e849-4de0-947e-311069def4ac,bf952ec8-8fd1-4c41-8715-adc9d2395ba4,2023-11-10 08:58:37,3523.86,JPY,withdrawal,ATM,Amazon,Miscellaneous,Japan,Nagoya,False
+3a300b04-3120-44a7-8703-cf63013b51d8,be667b07-0ed3-4960-8eda-dcf776948b17,2023-02-20 20:38:26,9303.15,JPY,purchase,in-branch,Walmart,Retail,Japan,Osaka,False
+00a70875-fb62-49f4-bce3-6ef6336de6c8,5bbb8028-fdfb-4b0f-8e9c-9f6148342cc9,2024-05-04 07:46:46,3886.41,EUR,transfer,in-branch,Costco,Clothing,Germany,Berlin,False
+f308ccdc-b221-4fa0-a8b0-9f36376bcb30,23899793-70ed-4e3f-8ace-aa4e44607bf9,2024-06-03 20:32:43,2051.75,GBP,withdrawal,mobile,Amazon,Miscellaneous,United Kingdom,Manchester,False
+5ea8423a-60f1-4e70-b44e-b9c8e0f60c1b,bd8857fa-8d4c-4de9-8400-8ca47c8349d7,2024-01-30 23:54:54,3637.87,USD,transfer,mobile,Amazon,Clothing,United States,Chicago,False
+d57b561f-4a12-4a3d-8f73-2e17704ce2d4,55121b31-2fd5-4059-a47b-988a71d9fb7e,2023-08-17 07:39:45,9768.28,EUR,transfer,online,Costco,Miscellaneous,Germany,Munich,False
+38954657-466e-4b1e-a227-3c3d75e55a05,f39b5fe5-7b56-4b32-8718-d46da80b358b,2024-07-05 02:52:20,3564.59,EUR,transfer,in-branch,Costco,Electronics,Germany,Frankfurt,False
+108ac19f-4cac-4d07-a2c2-21b225bfd05f,8c91b86f-ca1a-47ad-9475-962fc4f4e753,2024-01-01 03:52:52,6347.06,GBP,purchase,online,Walmart,Miscellaneous,United Kingdom,Glasgow,False
+9d210df6-9230-4a50-9598-0cb7bd8b3a88,283c3e15-48d7-4d21-9a73-07bc69350b43,2023-09-04 14:27:16,2363.98,INR,purchase,ATM,Best Buy,Clothing,India,Mumbai,False
+cfd4edfd-6dff-4a71-bf39-f946d5e7467b,ee72532f-2b71-4094-94f2-052bcbe67de2,2024-03-28 05:35:51,181.0,EUR,transfer,ATM,Walmart,Miscellaneous,Germany,Frankfurt,False
+a7930015-08e9-4bc7-9ee6-b6ded62b1275,dbbb0370-4517-4515-9565-f5d7f222ca1f,2024-03-29 02:30:07,5569.0,USD,transfer,ATM,Walmart,Clothing,United States,Houston,True
+b356611e-f30d-446c-aa54-18db87b04e9d,5fd29df2-1027-4c5a-9f2c-a94cfb3aa45c,2024-03-01 06:29:33,4928.27,EUR,withdrawal,in-branch,Amazon,Miscellaneous,Germany,Berlin,False
+ed1ab648-be73-4fee-9c2d-bcacf05f5b57,c0270258-6d18-4fdc-beba-8693d4a46ebe,2022-11-12 11:14:54,1248.67,JPY,deposit,in-branch,Walmart,Clothing,Japan,Osaka,False
+d2281111-1cdd-400e-b367-5f7e7e6657ef,b6e2057a-cc77-4c11-a23a-fcfd0abc72ff,2024-01-28 23:39:11,582.85,USD,withdrawal,ATM,Target,Miscellaneous,United States,Los Angeles,False
+b1813b36-12a3-473c-8b06-f8894df93748,af3cea22-0249-48a3-9c47-3b4ef613d355,2024-06-16 23:55:00,7546.71,GBP,withdrawal,ATM,Amazon,Miscellaneous,United Kingdom,Liverpool,False
+11bc46ce-aa17-498b-aec2-7c480fbeec07,323b0c41-7a95-4fc5-9a4c-bd8451c7bc16,2023-03-01 04:19:39,4735.21,EUR,transfer,online,Target,Miscellaneous,Germany,Frankfurt,False
+d5e79e93-749c-4543-a5ac-8581256de5f7,fcc88d31-604c-41e8-8b4a-46f88c6f0720,2023-02-16 14:39:50,1257.95,INR,withdrawal,ATM,Walmart,Electronics,India,Delhi,False
+4be9e80c-0a26-440d-98f7-a5704dc3f29f,c9127eb9-209a-4354-86d9-aa187893297c,2023-04-15 14:54:51,8954.79,INR,purchase,in-branch,Target,Miscellaneous,India,Delhi,False
+a1c68128-d29f-4f2b-90ab-b3f12fef3d22,e351aa7c-5174-427b-971c-6feee0f33a81,2024-06-08 12:46:00,4018.01,JPY,withdrawal,in-branch,Costco,Miscellaneous,Japan,Fukuoka,False
+4ff41093-9bd6-4c2c-9c66-bb55523d9642,cb7dc6da-9f03-4e81-a7b7-8d9b0be1ffc9,2024-05-10 21:30:41,6842.41,INR,deposit,in-branch,Walmart,Miscellaneous,India,Mumbai,False
+4e185919-62f4-4e92-8bb3-b911432e90a0,433bec77-28d4-41f0-954a-c60df0d6f478,2024-08-14 11:56:14,9019.55,JPY,purchase,ATM,Best Buy,Electronics,Japan,Osaka,False
+67fa8e49-cdd5-44d9-bb2f-74ddaecba98f,6cc58d07-0c29-4a16-8bdf-d635349e466d,2023-01-07 06:17:30,1380.78,INR,purchase,mobile,Target,Electronics,India,Delhi,True
+a5c656da-b977-4218-b85f-71edd5dd1c75,c0270258-6d18-4fdc-beba-8693d4a46ebe,2024-05-10 16:56:34,5220.19,JPY,purchase,ATM,Best Buy,Retail,Japan,Tokyo,False
+a0ac935c-f68f-43dd-8555-5e1752f4f5cb,46d87bb2-e0e4-4460-8fa9-3c6a6c60bd3b,2023-09-24 19:03:04,2705.94,GBP,deposit,in-branch,Walmart,Electronics,United Kingdom,London,False
+40795d80-2598-4429-bc61-784d85a9a438,51c14b3e-e628-41ce-b579-d54103426be4,2023-10-05 02:39:29,9315.35,GBP,purchase,ATM,Target,Electronics,United Kingdom,Glasgow,False
+ddf83958-8dc1-41bf-baa2-999e5a91ccb3,2a211375-041c-4971-9f75-e14422b22aae,2023-07-13 10:31:27,3074.53,JPY,transfer,in-branch,Costco,Retail,Japan,Nagoya,False
+ac10ab12-d418-41e2-bef8-6e3ab764f1cc,8024a77e-8dce-424b-99c6-89c5fca98ab1,2024-04-13 05:21:29,5659.17,EUR,transfer,ATM,Target,Miscellaneous,Germany,Frankfurt,True
+b5363b1e-81ac-482d-bf88-5061d2cc356c,e12da618-0cba-462f-86a6-972610501c6b,2023-02-02 21:00:41,1232.29,GBP,deposit,mobile,Amazon,Miscellaneous,United Kingdom,London,False
+cb5ecf36-a431-4b48-9386-d9b99b07877d,45cabbe9-4621-45b2-bd92-ffae34199398,2023-08-04 12:18:38,7695.83,USD,deposit,in-branch,Target,Retail,United States,Los Angeles,False
+0cd0b453-36b7-4810-b2da-5c6831a329fc,7080fea6-f28f-485d-836d-a2b5360ba961,2024-03-03 09:35:24,1007.24,GBP,deposit,online,Walmart,Retail,United Kingdom,Birmingham,False
+802b807f-ca44-4472-9853-678a151136ac,791c194d-eab6-44fc-8401-69205e82524a,2022-08-20 16:27:46,4520.75,USD,withdrawal,mobile,Target,Electronics,United States,Phoenix,False
+43172c00-8def-4727-b6cb-e9540a8f2c29,e3cd41d6-24bb-438c-9046-a0efc692f421,2024-05-03 07:56:57,3928.16,GBP,transfer,ATM,Best Buy,Miscellaneous,United Kingdom,Manchester,False
+b3a5edf7-4f8f-423b-ad2e-0ee43aa27245,a6aa1343-15ac-4cd5-8c58-b9a5a58882b9,2023-04-14 22:38:26,747.8,EUR,purchase,ATM,Best Buy,Electronics,Germany,Cologne,False
+02d2daf4-e359-4c60-a76f-8d77941db98c,a2dc2161-5fc2-4ce0-af93-d20e07d608e9,2024-03-29 04:10:21,1779.71,EUR,transfer,in-branch,Costco,Electronics,Germany,Munich,False
+51d7d002-d094-4e77-a9ce-15a1bbdc0ea0,a1dd238a-e8f9-4e53-94d0-03a4003e1683,2022-09-09 03:41:24,7851.42,EUR,withdrawal,in-branch,Costco,Grocery,Germany,Munich,False
+969a3f00-b329-4153-a22b-b22bb1dfefe1,25c5f908-60c4-40ce-9301-49acdc3eded8,2023-05-06 02:36:42,6740.96,USD,transfer,ATM,Walmart,Grocery,United States,New York,False
+6a1332b1-68a8-4c04-9724-d18123512eed,7fd62cca-47f7-4891-bbe1-278f3f67271f,2023-11-06 02:19:00,6398.83,GBP,transfer,in-branch,Walmart,Electronics,United Kingdom,Glasgow,False
+e9e7bfe4-3328-48c6-af10-ccd6edcfbea5,22716e08-5b1c-4df7-8eed-2bc3b9ab3f5c,2024-04-06 13:12:07,300.23,USD,deposit,ATM,Costco,Grocery,United States,Houston,False
+5c2ddb6a-480e-4375-b959-ddb1a966fa92,5fdb489f-97fc-4d75-a60d-07751a990bd6,2024-03-23 12:03:15,3686.04,JPY,withdrawal,in-branch,Amazon,Retail,Japan,Nagoya,False
+00f211d8-ce9d-48d9-8009-cc821e229c84,81aaf577-cd76-40dd-ba68-c6728fbfff3e,2024-05-19 21:29:45,3060.33,USD,deposit,ATM,Costco,Clothing,United States,Phoenix,True
+f90344fe-ab61-4760-b296-9dbedf346d53,e54a8c6e-5391-4e07-b736-aab7d9c3fc34,2022-12-10 20:50:54,2006.68,EUR,transfer,in-branch,Costco,Grocery,Germany,Cologne,False
+1e8384da-5c09-476d-a91c-7f9ca516610c,45718beb-185c-461f-b678-634e9022f9f2,2024-02-20 06:18:43,5956.37,JPY,purchase,in-branch,Costco,Retail,Japan,Osaka,False
+079108f5-fa21-4b49-b2f9-fb0aae4c23eb,3adb3243-7629-479a-afdb-fe6689f285cd,2023-01-13 22:10:28,2417.18,GBP,purchase,mobile,Amazon,Miscellaneous,United Kingdom,Glasgow,False
+84651731-1393-47b2-8c62-5a012d6bffbe,ec42269a-4ada-4362-9b1b-1ecd44b73007,2023-12-23 12:19:18,1232.97,USD,withdrawal,in-branch,Amazon,Miscellaneous,United States,Los Angeles,False
+b13d986f-6f94-4c85-a72e-c8a39788a64a,4bb184a9-3451-4a4c-a83b-93858a4e9e50,2023-10-10 05:44:51,3461.16,EUR,deposit,online,Best Buy,Grocery,Germany,Cologne,False
+a3572fa5-a905-4f89-9699-1b621e649831,ee345eee-0267-44a7-895f-6b2570cfabc1,2023-05-02 13:14:14,8807.23,EUR,deposit,online,Amazon,Miscellaneous,Germany,Frankfurt,False
+ab1e2729-f713-484c-a85b-c5101b28cbd6,a9191563-460a-4285-821c-8fe0f95212f2,2024-03-20 23:01:45,1309.42,USD,withdrawal,online,Best Buy,Miscellaneous,United States,Houston,False
+adf316e8-9a6f-4731-b0c8-43d05e2443ba,9af7ea2b-a851-4000-ab52-1660dcaecce0,2024-02-04 04:56:41,698.56,GBP,deposit,ATM,Target,Miscellaneous,United Kingdom,Manchester,False
+88865195-affe-46fe-a5dd-018e12779c48,e1807a54-00b6-4290-8248-e77cd603d97f,2023-04-14 03:56:34,5360.89,JPY,transfer,mobile,Walmart,Electronics,Japan,Nagoya,False
+2e969560-5d99-46a9-aa7f-3f8ae95354d7,4acc5901-ed63-492e-9dd9-210c8c173a03,2024-08-11 03:56:37,9436.45,JPY,purchase,online,Best Buy,Retail,Japan,Tokyo,False
+48f07260-80fb-4cf9-93cd-c5db39a9f07f,1ac3f2fe-8cdc-4d25-aa34-af37a8809313,2024-03-28 08:09:35,417.53,USD,deposit,mobile,Best Buy,Electronics,United States,New York,False
+f5c8d82f-5e93-4762-aa77-0ec6665b4531,72831ed0-85bd-45b1-9882-36d1ad168b6b,2022-11-04 05:59:10,9695.49,JPY,withdrawal,mobile,Costco,Electronics,Japan,Tokyo,False
+03bb8d04-a21c-4f99-9de0-ddf7ce398e6c,27dfff83-16f7-4d54-9bbe-608b94cd5bd6,2024-07-31 16:14:43,7215.61,EUR,transfer,in-branch,Costco,Electronics,Germany,Berlin,False
+718431f5-c8db-46cb-b185-bad0d42b00d6,e12da618-0cba-462f-86a6-972610501c6b,2024-07-27 21:22:16,381.13,GBP,transfer,mobile,Amazon,Retail,United Kingdom,Liverpool,False
+aab0d810-5a78-49c5-89d3-190a20369468,cda515d6-b0bb-47fb-8663-8d163304c0fe,2023-03-12 20:54:04,5303.49,USD,purchase,online,Best Buy,Grocery,United States,New York,False
+89fe0d11-2feb-4655-8733-50785a3f1b8b,d2e6459b-9798-493f-9b9d-bbb3f2a1ea18,2022-12-28 23:39:43,31.98,USD,purchase,online,Walmart,Retail,United States,New York,False
+fa13828d-0f93-435e-88c4-2fd95ffa86a7,361e3df9-3cb9-45e8-b3b2-d91b1ebad71a,2023-02-10 11:42:14,6557.33,JPY,withdrawal,ATM,Target,Clothing,Japan,Fukuoka,False
+51517fca-84b9-4d86-bc8b-bbc9a557c2d7,95a31aad-f9eb-490c-adbe-cdf9d294bcc5,2024-07-23 15:08:48,3350.37,EUR,purchase,online,Costco,Grocery,Germany,Berlin,False
+29fdba7d-9ecb-450b-acd2-7fec6552fa71,8678a00a-1fed-4fd1-afe0-bc8e3416901b,2023-02-03 05:42:56,4305.71,GBP,withdrawal,mobile,Costco,Miscellaneous,United Kingdom,Manchester,True
+74cddd52-6e3a-47b4-af54-1b1e8bef90c1,87641d92-b23a-4ed4-a906-2874da8947bc,2024-03-02 07:04:10,5950.06,INR,withdrawal,online,Best Buy,Grocery,India,Delhi,False
+0d0366db-75d9-4d7c-b108-fbdab26d965a,7c26c1ff-8800-4f19-9a70-077f7a81ea40,2023-08-23 15:42:23,4269.82,INR,deposit,mobile,Amazon,Miscellaneous,India,Bangalore,False
+7c8d8fab-a4b2-4547-a1a6-373a473fa159,723d2250-b2a3-4cd3-99bd-82e7f8d42acb,2022-11-07 12:07:26,7746.38,USD,purchase,ATM,Costco,Clothing,United States,Los Angeles,False
+21e8ed5c-d253-4e84-9704-fca96c2ffa23,c63267b3-507c-45e8-b4dd-7dbde6e6821c,2023-09-18 10:39:50,5678.39,USD,deposit,online,Best Buy,Miscellaneous,United States,Los Angeles,False
+41215fa8-abb8-47de-8df5-d8b02ee4c014,bf8f87a1-19a0-481f-a745-9203b23fe0d8,2022-12-10 12:29:26,5150.96,EUR,transfer,in-branch,Walmart,Grocery,Germany,Munich,False
+2c15aeac-4643-4079-ac7f-a38d474d66ad,8f009dbb-7215-470c-98ff-e0f16528ad08,2024-07-29 17:00:41,4981.63,JPY,withdrawal,ATM,Best Buy,Clothing,Japan,Nagoya,False
+5c498319-512f-453d-a557-f39476492229,4a358620-076b-40db-8cc4-f63c2737236f,2023-11-21 13:43:50,5462.18,EUR,withdrawal,in-branch,Costco,Electronics,Germany,Cologne,False
+49ee963f-a1bb-4649-95d6-3465d778b6aa,f9046ab1-ae97-45db-bb2a-fdc8632f7b27,2024-01-18 18:30:56,4833.57,INR,deposit,ATM,Amazon,Grocery,India,Mumbai,False
+10044551-171a-41a8-a388-20f342129391,e7415f27-7238-462f-9949-132c33406ff6,2023-04-24 01:24:42,437.29,USD,transfer,in-branch,Amazon,Clothing,United States,New York,False
+62604b5b-54eb-46ad-982b-0efe2a908f65,f39b5fe5-7b56-4b32-8718-d46da80b358b,2023-03-27 10:05:44,9102.37,EUR,withdrawal,ATM,Amazon,Grocery,Germany,Frankfurt,False
+72f67853-37e1-4ee9-86f2-e1a2ebd52373,e3ca4953-91bf-418c-aa48-c8fa8b2eca67,2023-05-05 10:48:27,1954.64,INR,purchase,ATM,Costco,Miscellaneous,India,Bangalore,False
+7a5e1d2d-adb0-45e2-9718-73a4a6489a1d,1545fdfc-54a0-4bc9-9f70-088944c59aff,2024-01-10 02:27:29,3805.21,EUR,withdrawal,online,Best Buy,Retail,Germany,Frankfurt,False
+6887b48d-46e5-49c6-816c-39b618637b8d,f4e47265-babe-423a-95ca-f28668c6ecbc,2023-02-08 18:27:27,1237.35,GBP,purchase,ATM,Costco,Miscellaneous,United Kingdom,Glasgow,False
+1b77d6f3-7ae6-4baa-bfad-a0d6f9851782,433bec77-28d4-41f0-954a-c60df0d6f478,2022-09-16 19:12:35,8236.53,JPY,deposit,ATM,Costco,Miscellaneous,Japan,Osaka,False
+b08059a0-59e7-4996-a8c6-62aefe065f9c,43fab5af-a6a4-4f57-a2f2-43a797a162fb,2023-05-26 15:42:57,616.11,INR,transfer,online,Best Buy,Electronics,India,Chennai,False
+1320ff8a-9a69-48bb-a943-b279242b22b3,5379170b-95b1-43f8-97fa-d77b85300094,2022-12-26 08:39:15,1702.19,USD,purchase,mobile,Target,Grocery,United States,Los Angeles,False
+20b26c86-01c1-48fa-9dd5-5d928e8ed860,e4a87ab9-f803-4cb7-9a23-842d370c0e53,2024-01-12 22:16:17,2771.7,GBP,purchase,ATM,Best Buy,Miscellaneous,United Kingdom,London,False
+8133c05b-d091-43ac-be08-4f716f675b2f,90a2da9c-e4b7-44eb-8569-7d3528e297d7,2022-10-26 10:05:45,6746.97,GBP,purchase,in-branch,Best Buy,Clothing,United Kingdom,Manchester,False
+0358d778-1ae8-4dcd-a4d2-1c36634344f8,bf5e1d9f-1aa1-42ea-bcf4-6e6d3654686c,2023-12-18 20:52:36,6841.46,GBP,withdrawal,mobile,Amazon,Electronics,United Kingdom,London,False
+5a4aedd7-7065-4d4a-9e7d-4dfaffcff169,6ddd907b-5a7d-40fb-8a44-21c3867943e1,2023-09-01 23:01:16,2371.92,JPY,purchase,ATM,Walmart,Miscellaneous,Japan,Osaka,False
+1ec60cd6-b614-47b3-9e08-593b244aa016,bf5577dc-5d0c-4528-bae6-34675799f65c,2022-11-21 05:48:11,9506.12,EUR,purchase,ATM,Amazon,Clothing,Germany,Frankfurt,False
+d495478e-9c2f-46f9-b6e1-ac8ae5b1c63b,18b502f2-600a-4f14-b31f-a8b65f205b53,2023-10-19 03:32:48,4060.76,GBP,deposit,online,Costco,Electronics,United Kingdom,Birmingham,False
+9f3ecd11-b575-4c85-b445-cc935d04830d,331ecc9f-e0ed-4b73-bd0c-ee846f05a9c5,2024-04-10 13:57:09,4931.36,USD,purchase,in-branch,Amazon,Grocery,United States,Chicago,False
+935b215f-7844-4a29-9d08-0cbdc2f518db,0f9b438a-4ab5-4072-a8f9-e1deccf93e71,2024-06-20 11:15:09,8703.93,INR,deposit,online,Walmart,Retail,India,Chennai,False
+0f53090c-4b3b-488a-a11f-3fa0ad659e59,faa0472b-1110-4cce-8562-59bc5695ac29,2024-05-08 11:42:59,465.62,JPY,withdrawal,ATM,Target,Clothing,Japan,Nagoya,False
+052b3d17-5c13-480f-ad06-b6eaffb77c4e,0af92fba-93a1-4910-a43c-ae206aed44e6,2024-02-09 11:04:00,1189.29,GBP,transfer,online,Target,Clothing,United Kingdom,Glasgow,False
+191e8da9-c2d5-4ede-8493-ec38de8f0144,c0270258-6d18-4fdc-beba-8693d4a46ebe,2023-12-04 21:08:05,9406.29,JPY,transfer,online,Target,Electronics,Japan,Nagoya,False
+8c370c6c-8d96-4818-badf-f7e926c99685,bac60412-ac3a-4399-a574-04eec6205d34,2022-09-14 09:41:39,4405.19,USD,purchase,ATM,Target,Miscellaneous,United States,Los Angeles,False
+17c3672d-7ff5-4ef0-988a-5458550b81ff,12e87174-6332-4e10-9304-872f3460e833,2023-07-10 15:18:48,2209.4,USD,transfer,ATM,Costco,Electronics,United States,Phoenix,False
+b043379e-f926-449f-9f8c-da4146c09b12,7ce53041-5f4a-40de-a4b9-3c3b77b056fd,2022-11-25 00:12:54,8159.85,GBP,withdrawal,online,Walmart,Retail,United Kingdom,Glasgow,False
+429bf199-ac83-4b8a-a2c6-dff9aaf2af5b,9fd61270-5aaa-4f53-8cbe-ff2d15b1dccb,2024-03-21 06:33:10,4251.74,INR,withdrawal,online,Costco,Miscellaneous,India,Mumbai,False
+2cc555a9-7b27-45d2-a1b5-db2c77785813,0c70936e-a44d-48fe-ac75-9d4ac7738006,2023-11-21 07:46:45,1516.43,EUR,deposit,ATM,Target,Clothing,Germany,Hamburg,False
+f2857392-0532-4508-830b-557c144b50b9,d2cec7de-2661-40ce-9736-0333cb6e39f2,2023-06-03 17:12:44,2124.55,JPY,transfer,online,Target,Grocery,Japan,Osaka,False
+3ba3f2f5-eba2-4ef5-b099-b6b577d5764b,b1ed61ae-6916-45f7-9b97-81bb8b384134,2023-12-22 17:52:32,5004.15,EUR,transfer,ATM,Costco,Retail,Germany,Hamburg,False
+93aa8fce-df0c-4177-86c6-db5a023210d1,c1daa51c-4b25-4c2c-a7b3-e3e81aa2eedc,2024-06-27 18:10:09,1142.67,GBP,purchase,online,Best Buy,Miscellaneous,United Kingdom,Liverpool,True
+cf9194db-ae31-4b92-b665-d387fad0d0a2,a764f1e6-62f7-42d4-89fb-06b7ca41dd9f,2023-01-08 01:05:48,9917.05,JPY,transfer,mobile,Costco,Retail,Japan,Nagoya,False
+e061b709-98c1-4b90-9655-e24e6acb0373,e42e061e-fb49-4fb8-bfaa-faf27fbc118e,2024-05-17 19:26:49,2770.74,USD,transfer,mobile,Target,Miscellaneous,United States,Phoenix,False
+66c24adf-7182-4ee6-b598-e3b40fec960f,b011c768-5be4-404d-9264-dbaa6c8d8744,2022-12-01 09:50:14,8686.6,EUR,purchase,in-branch,Target,Retail,Germany,Cologne,False
+c1c9d3f9-5db4-4448-be03-7da3d697c913,a99ed770-bcf6-464d-8cfe-efaf25f6ce78,2022-10-20 08:31:29,1480.34,JPY,transfer,ATM,Best Buy,Retail,Japan,Tokyo,False
+b430ebd2-f90f-4367-804c-bd8c9d1a0687,2b828784-0993-44ec-8128-e5960d69df8e,2023-10-16 05:28:29,4.99,EUR,transfer,mobile,Costco,Electronics,Germany,Hamburg,False
+b20e1f9a-b1ff-427f-8591-a1266a6651f9,323b0c41-7a95-4fc5-9a4c-bd8451c7bc16,2023-07-23 09:18:30,5186.88,EUR,purchase,in-branch,Costco,Retail,Germany,Hamburg,False
+14b04718-cf6b-4de8-b1e1-0da1ae6855c6,25c5f908-60c4-40ce-9301-49acdc3eded8,2024-08-15 10:05:17,4818.05,USD,deposit,online,Best Buy,Miscellaneous,United States,Los Angeles,False
+1322498a-106b-457d-a931-515835edaaee,4a7064f2-3450-42c2-b688-107f22b954c3,2023-06-06 04:10:47,1296.56,JPY,withdrawal,ATM,Amazon,Clothing,Japan,Sapporo,False
+88b78e9b-661d-4a59-a59b-e381efa2c21a,70923b0c-ac18-4ebe-9919-c73a8f541bd8,2024-04-21 11:07:49,2284.38,EUR,purchase,online,Best Buy,Grocery,Germany,Frankfurt,False
+c588a3ef-fa11-446f-a61d-c8ddadf4b21f,153cc4bb-b26c-41b7-a226-3c37c3999383,2023-10-25 03:15:24,8656.0,GBP,purchase,ATM,Amazon,Electronics,United Kingdom,Birmingham,False
+6807e0d8-f374-403d-95b3-5ff195bb466a,0bf8a902-379b-4860-920a-5c6c6a752ff9,2023-07-02 02:30:51,8872.22,USD,withdrawal,mobile,Amazon,Grocery,United States,New York,False
+85f7efc0-6557-48b4-99f6-b57cc9804d0f,2b85b570-5478-47cd-aa8c-1de03015ff71,2024-08-13 19:36:45,6534.23,JPY,deposit,ATM,Walmart,Retail,Japan,Fukuoka,False
+a1bc5e86-b8f2-4fe7-89d2-d04e93de91f1,ffd00e47-0343-4c6a-9190-cfb11e3b25de,2024-03-06 20:25:57,6514.38,JPY,deposit,in-branch,Best Buy,Miscellaneous,Japan,Osaka,False
+275d9b1b-01e6-4824-b0de-6b22251c3bc6,3a7cf5e1-c541-4383-bd6e-64a1680a1c42,2023-04-19 04:47:52,3064.19,JPY,withdrawal,mobile,Costco,Retail,Japan,Fukuoka,False
+0e0584f8-52a7-47aa-9a57-00ade96ae509,5648ce7c-ddc5-410c-9992-a77f04b8f233,2023-03-31 06:23:01,362.52,INR,withdrawal,mobile,Target,Grocery,India,Chennai,False
+07b26b8b-c159-421f-aac5-3e6ef83f70e6,f0e39b0f-a757-4d25-b0ff-40eb84a7a369,2024-03-21 13:11:02,1832.75,USD,purchase,ATM,Best Buy,Retail,United States,Phoenix,False
+15b1cbeb-eb8f-47d8-ba53-e80d713534c6,46612667-2ea9-437f-88a2-f66f88342736,2022-09-23 10:25:25,9310.66,JPY,transfer,ATM,Best Buy,Miscellaneous,Japan,Fukuoka,False
+a41ca0a4-fb7b-4fae-8bc9-da69eb9b9195,3181c281-c9e6-4725-8947-6ff8f2da5a55,2024-05-26 11:09:28,6594.25,EUR,withdrawal,in-branch,Target,Retail,Germany,Frankfurt,False
+ad78c3dc-530e-46a4-8500-c445a5863ab5,d277a83e-8b7f-4279-af34-1cae180931ad,2023-01-04 13:53:37,6679.48,EUR,withdrawal,in-branch,Walmart,Clothing,Germany,Cologne,False
+a0effabe-03db-4999-809f-fa391e4baffd,407eff76-a63b-4e13-b91c-da644d9885b4,2023-04-29 09:36:52,1332.81,JPY,purchase,online,Walmart,Clothing,Japan,Sapporo,False
+200d30fd-d42c-4e00-8e5f-3d9849ab6a95,23899793-70ed-4e3f-8ace-aa4e44607bf9,2024-02-13 04:12:04,9936.7,GBP,transfer,ATM,Costco,Electronics,United Kingdom,London,False
+8f447ddb-ab2b-4e5d-ad5d-28c61a7186cb,46d50def-920e-4848-8122-b009ddf7060e,2022-10-26 03:18:55,5644.99,EUR,purchase,mobile,Target,Retail,Germany,Berlin,False
+56517932-7008-44ac-a694-facf20ee4f52,7ccc579e-c2e2-4c76-af9f-3d999f37e220,2024-07-27 14:48:36,2253.6,GBP,deposit,mobile,Costco,Grocery,United Kingdom,Manchester,False
+d80226c5-4ab7-42e2-936f-ea34f6c15bb8,9c487d5a-c318-4d0e-97e0-e105a43869b5,2024-02-16 20:55:01,3484.14,USD,purchase,online,Target,Clothing,United States,Chicago,False
+3650860b-ef13-4c66-a831-2780d3743b6f,46d87bb2-e0e4-4460-8fa9-3c6a6c60bd3b,2023-06-30 07:47:12,9068.43,GBP,transfer,online,Costco,Clothing,United Kingdom,London,False
+026b2aa7-2817-4490-8181-2377d10afbf8,adf09925-03f9-4728-86a2-3e33583b2275,2023-05-31 21:47:40,7999.96,GBP,withdrawal,ATM,Walmart,Retail,United Kingdom,Glasgow,False
+b72989d0-eae2-450c-8c79-2a007dc2231c,0e510f97-ae8f-4bc0-a07b-07ec2c06bef5,2022-12-01 05:58:35,599.1,GBP,withdrawal,in-branch,Target,Clothing,United Kingdom,Birmingham,False
+358c2af7-22bf-4a09-a26a-9552bceb25d7,e61dae1d-a5bd-46b8-8e97-d102abf0a783,2022-08-17 21:39:14,4644.02,GBP,deposit,online,Walmart,Miscellaneous,United Kingdom,London,False
+d5260ed0-0d95-4005-9bce-83a435bf9918,e55febef-b05b-42a4-bbbc-ea50a3919f87,2023-07-14 17:22:28,9073.98,INR,deposit,online,Walmart,Clothing,India,Chennai,False
+94d8383b-cac7-4e98-8d64-b5596d087556,fb8a7b8c-4dbf-416c-a3e0-201a5bbbccea,2022-09-19 18:00:32,303.51,JPY,deposit,mobile,Target,Retail,Japan,Tokyo,False
+5392a6cc-6f89-4a66-ab47-00d0089926e7,ad84beee-e65d-4cf0-a068-3ae8f0857e6b,2024-01-26 03:28:04,6681.33,INR,purchase,online,Best Buy,Grocery,India,Delhi,False
+f5126a89-7f9d-45d2-ade2-88b481df1970,59f10c05-95ad-4511-80be-4e93ca31360d,2024-03-18 06:56:19,1786.69,GBP,deposit,online,Best Buy,Miscellaneous,United Kingdom,Liverpool,False
+88a6a089-ef00-4e86-898e-1365dae8a7df,1ab256c1-b4c2-4e33-8365-3874c05f2313,2023-08-15 17:44:14,8656.32,USD,transfer,in-branch,Walmart,Miscellaneous,United States,Houston,False
+eb6a13c2-9c8f-40bb-81c9-70ca17bd9296,fe9d1125-b83a-447b-8736-2065ba06f68c,2024-01-02 14:28:42,204.68,USD,purchase,ATM,Target,Clothing,United States,Phoenix,False
+1dad1b02-37fd-4c78-a4ff-54b2b8c6c149,eb71e7ef-0f49-471d-a68a-f6068ba861d0,2024-03-15 21:57:34,5590.34,INR,purchase,in-branch,Walmart,Grocery,India,Delhi,False
+0dfbed7e-fc2e-4f89-93dc-7376e03e3a3f,8f3e7761-809a-4284-91ad-1d7faa1bf3a2,2023-02-21 00:18:03,3312.66,USD,deposit,online,Best Buy,Clothing,United States,Los Angeles,False
+7f22e142-da6d-4a94-8ec8-5076ad2075f7,56a4d6a0-e98c-422f-88d0-baeec188bb77,2023-03-06 01:19:57,7054.96,INR,purchase,online,Target,Grocery,India,Delhi,False
+51d2ebc3-e8bd-447a-9deb-6ae277bbfe00,e5d02e56-0b62-4611-8e8a-5725dcef989f,2023-06-12 06:04:05,8605.44,USD,deposit,online,Walmart,Miscellaneous,United States,Chicago,False
+74590ac3-6ea9-4613-8542-0324d71ccbdc,ac368a77-22e0-4782-8d3a-52a81e138b9b,2023-03-11 13:14:01,6954.32,EUR,purchase,online,Walmart,Retail,Germany,Frankfurt,False
+20e2d348-d756-4b62-91bf-7326b88457a3,68632374-d457-4956-a642-1d9a8266ceb4,2023-08-28 19:54:45,3913.03,USD,withdrawal,mobile,Walmart,Miscellaneous,United States,New York,False
+a5c73117-11d2-47e8-a934-9e3f47f5f925,f9213bb4-f94f-4dc5-bce1-0f2575358f24,2023-09-17 01:44:20,231.18,INR,purchase,ATM,Walmart,Grocery,India,Hyderabad,False
+2db3f207-c3d1-4911-8d80-5d02863d26a2,187133f8-b77b-4cb9-9e93-9d65d7eb3bb7,2023-11-14 14:49:37,252.81,EUR,deposit,online,Target,Retail,Germany,Hamburg,False
+09539941-0d24-47cd-a396-9b8773b2ddd6,8e5d22f5-5512-40fb-b9a2-fc82ab4dbcda,2023-06-29 22:23:57,9111.1,GBP,purchase,online,Best Buy,Retail,United Kingdom,Liverpool,False
+107b559b-26cd-4f44-825b-adeea0d2620e,7029e0f2-d6b7-4f7c-a786-aabe7434395e,2024-06-25 20:51:50,536.29,USD,transfer,mobile,Costco,Electronics,United States,Los Angeles,False
+f316c2fc-401e-43f4-be52-1cbd440584a6,8986b821-2c9a-4e01-95be-3100dbfb9b2a,2024-03-13 14:25:42,801.93,EUR,purchase,online,Best Buy,Miscellaneous,Germany,Frankfurt,False
+ca6ea41c-fcf5-402b-ae53-5acea027caec,171aa5b0-7d45-4579-9267-65ffe80f8046,2023-05-11 12:44:37,9032.6,EUR,transfer,in-branch,Target,Clothing,Germany,Cologne,False
+248c94bf-4cd4-4e85-bbdf-65cfa56b0bc9,9220f538-6f2a-4232-9675-d7cf43e48d1b,2024-04-04 01:41:27,2745.75,USD,withdrawal,mobile,Target,Clothing,United States,Chicago,False
+6a4ee72d-fdc4-4653-a493-6f79b8b1c36a,00438310-e819-4aac-a93e-ad801f5ecbfd,2023-11-03 00:02:59,1105.77,JPY,deposit,ATM,Costco,Miscellaneous,Japan,Osaka,False
+f4a1d2f8-d0d9-4e7c-bfbe-b89418da60be,ecb4d48e-90d6-4b6c-9d63-5326c36b1fdb,2024-08-09 05:50:04,1988.41,JPY,withdrawal,mobile,Target,Clothing,Japan,Osaka,False
+4084eb57-7192-4a12-a679-f1902221ec06,31a42802-1715-4d66-b608-59b4fa65125e,2023-02-24 05:50:07,9748.42,GBP,transfer,mobile,Walmart,Grocery,United Kingdom,Glasgow,False
+53f0e245-16d2-47a7-8663-557ca6becbb3,f0e39b0f-a757-4d25-b0ff-40eb84a7a369,2024-07-07 23:16:07,5678.73,USD,withdrawal,mobile,Amazon,Miscellaneous,United States,Chicago,False
+e1fd39cc-b648-47a4-84c0-6e24ae451d23,12006b76-ba69-431d-86e2-cd3357538313,2023-09-17 19:42:45,3877.45,USD,transfer,ATM,Target,Grocery,United States,Houston,False
+4e685b30-d513-4777-9743-071876eefdec,ac368a77-22e0-4782-8d3a-52a81e138b9b,2024-04-02 21:15:18,3234.01,EUR,withdrawal,mobile,Walmart,Grocery,Germany,Frankfurt,False
+051f8ab5-ee0c-41ed-8ef4-91bdc4967b83,930e6b71-bb40-4868-b25a-b15d2daf178b,2023-03-23 03:05:18,2199.72,EUR,purchase,online,Target,Miscellaneous,Germany,Berlin,False
+4f6d0573-5770-4400-9812-b8855d88f9d6,facd5f05-9473-4f62-b0eb-f49b13d2dead,2022-10-14 12:08:36,1712.81,EUR,transfer,mobile,Amazon,Electronics,Germany,Munich,False
+4277a9f0-9d02-41cb-b37f-39db38f464b5,4f7af242-a495-4220-8da5-391f07357cfc,2024-01-08 19:00:57,9786.88,EUR,deposit,online,Target,Electronics,Germany,Berlin,False
+22651e86-8db9-4eae-ae64-3579809bdcaf,747a12d8-60db-4f2f-b643-e13157628403,2022-11-29 13:26:18,2108.53,JPY,transfer,in-branch,Target,Clothing,Japan,Sapporo,False
+c2738f0f-192b-4ed5-aeb6-a69ff293d115,187133f8-b77b-4cb9-9e93-9d65d7eb3bb7,2024-06-26 22:04:48,6983.51,EUR,purchase,mobile,Best Buy,Miscellaneous,Germany,Cologne,False
+29d9a3f5-9377-4e3a-bf8b-819af249556a,6ab2f9af-f1d6-4545-81c0-2638a805587b,2023-12-10 01:01:25,217.75,GBP,withdrawal,online,Costco,Miscellaneous,United Kingdom,Liverpool,False
+403ce23c-2bf3-494c-9a06-b603ae3b0502,e97fa11d-1a6e-4a83-b383-3249629775a0,2023-06-26 03:03:52,5015.99,JPY,purchase,ATM,Costco,Grocery,Japan,Osaka,False
+558f697a-3fe6-4294-826a-5ed4b6ea26ce,b0af2a9b-a15b-4b17-9518-c8e2a87e4879,2023-07-23 07:21:17,7461.16,INR,transfer,in-branch,Target,Clothing,India,Delhi,True
+cccdf75b-f344-4e3a-9e36-b1d0aca48ae1,e8ca6587-ace3-4be6-b943-bcfdfc8260a7,2023-12-14 15:49:15,4673.37,JPY,purchase,online,Best Buy,Clothing,Japan,Tokyo,False
+71b27d1d-b33f-46f3-a197-aed6ba745f6b,5e5e20a5-70ad-4649-a686-4553f9fb6e79,2022-10-14 00:10:58,9518.18,INR,withdrawal,online,Amazon,Retail,India,Chennai,False
+5cca7548-120a-446d-8555-544ee8b8d09a,ffced631-3c81-4bba-bd9f-7eeff92a6ea1,2022-12-21 19:58:52,1337.1,GBP,deposit,ATM,Costco,Clothing,United Kingdom,Liverpool,False
+f9c16d69-71e7-4e4b-954e-d16797fb36e5,aafcbcef-3b84-4dd3-9217-b2519c8789fb,2022-12-03 21:47:42,3643.0,USD,purchase,in-branch,Amazon,Electronics,United States,Phoenix,False
+ca83f83b-eedb-4e4b-a131-ec591a7fa306,07704dea-1647-4899-8bd6-1b40ea824960,2023-12-22 11:12:24,6874.26,EUR,purchase,ATM,Amazon,Clothing,Germany,Berlin,False
+19b8cf5e-386f-4c61-905d-c3d273f38242,a46f95cd-8baa-453b-99c3-6357c265a61a,2024-01-26 04:19:25,6952.67,EUR,purchase,in-branch,Walmart,Grocery,Germany,Frankfurt,False
+89e0899a-52e9-4251-9514-67755febe84f,8b31baff-9734-4f4d-a867-ee42c4c45c96,2022-11-05 13:32:42,6017.9,JPY,transfer,mobile,Walmart,Clothing,Japan,Osaka,False
+7a5af26e-8c84-4e93-81f4-67e60131402a,03abd1d2-ab43-4670-bd81-3f58ec2a9d12,2024-03-23 03:42:55,5814.26,INR,transfer,online,Best Buy,Grocery,India,Mumbai,False
+1fdc70d3-26e7-43b9-889a-9aff33896289,68632374-d457-4956-a642-1d9a8266ceb4,2023-02-28 20:30:17,6364.92,USD,withdrawal,mobile,Costco,Miscellaneous,United States,Houston,False
+6ed376a7-f05f-4aa9-a777-1dfc0ad6a2b1,433bec77-28d4-41f0-954a-c60df0d6f478,2023-04-12 12:38:01,2027.54,JPY,deposit,in-branch,Walmart,Miscellaneous,Japan,Nagoya,False
+9053c07c-cdc2-40a5-9a51-41ee956e3779,8da166b9-e365-445d-9e55-c1463e1c4b67,2023-09-14 17:29:33,7873.36,EUR,transfer,online,Best Buy,Electronics,Germany,Cologne,False
+29a06f48-d6c6-4ef3-827e-e456a7c6423f,783b1a2c-d27a-4c09-b459-9e6caab25347,2024-06-15 08:05:47,8812.49,EUR,transfer,in-branch,Amazon,Electronics,Germany,Frankfurt,False
+4a098068-ee16-4317-8437-5f24b7490372,39882dbb-cf36-4977-87ce-57c4f852448d,2023-03-30 12:16:17,3972.15,JPY,transfer,mobile,Best Buy,Miscellaneous,Japan,Sapporo,False
+8571d2b3-83d8-4634-b889-a58f308c205f,f9213bb4-f94f-4dc5-bce1-0f2575358f24,2023-10-08 03:40:00,992.6,INR,purchase,ATM,Target,Clothing,India,Bangalore,False
+a4835349-1f18-46c6-8065-d345d1f107f4,d771b761-c183-44c1-a7d1-d7f9bdd12fc4,2023-10-03 22:56:53,1738.81,GBP,withdrawal,ATM,Costco,Clothing,United Kingdom,Birmingham,False
+be3c55ca-2e61-4acf-831f-cf850ae97e88,71547b88-37b2-4361-b63c-c4d719524baf,2022-11-13 15:16:01,2367.88,USD,deposit,in-branch,Walmart,Retail,United States,New York,False
+729c4993-16c0-4b75-bc5d-31531163da9c,bf5e1d9f-1aa1-42ea-bcf4-6e6d3654686c,2022-09-28 11:13:29,3389.35,GBP,transfer,online,Target,Grocery,United Kingdom,Liverpool,False
+cf97cb53-968b-47a4-88ce-00656044f0ab,e6f4c42c-5db0-400b-acfa-cb904a3e1ce4,2022-09-06 12:05:13,5169.13,EUR,withdrawal,ATM,Costco,Miscellaneous,Germany,Berlin,False
+d52d61fc-3001-4aa0-823d-0930369d2e22,4e32397f-880a-4098-a065-0394b134fa2b,2024-01-04 22:58:29,5566.21,GBP,purchase,in-branch,Best Buy,Retail,United Kingdom,Glasgow,False
+98a13ebd-00e0-438c-ae8d-92c01d3a0582,b40c7764-33df-42de-8594-9a378b4c2df7,2023-10-18 01:19:09,8555.38,JPY,transfer,ATM,Best Buy,Clothing,Japan,Osaka,False
+b17152d0-4d85-4380-adee-6a29adc41be3,f0a4e20b-7d78-400f-b524-aa9153a4ecca,2024-06-15 11:50:27,7780.1,USD,deposit,online,Walmart,Electronics,United States,Phoenix,False
+54c6c1f7-6d76-4b74-94b3-ab2decd01026,218c1d6a-6541-4a64-9cd6-69b5e178e6a8,2023-02-27 15:30:07,145.43,INR,withdrawal,online,Amazon,Retail,India,Delhi,False
+ed3a8f58-fa33-43b2-a448-52a10065008e,966f90ff-9a05-4e74-86d5-dddd172de084,2024-07-20 08:15:26,7015.83,USD,purchase,in-branch,Amazon,Grocery,United States,Los Angeles,False
+d68a13c5-bf94-4fa7-9c33-c58ddbd75dd6,8f009dbb-7215-470c-98ff-e0f16528ad08,2023-05-14 06:47:09,8235.18,JPY,deposit,online,Walmart,Grocery,Japan,Sapporo,False
+36bbfeed-ed00-482e-8e22-8f6a87984385,92289710-21c5-40ac-bc47-9ac772d1cfe4,2024-06-20 03:16:17,8570.02,GBP,withdrawal,in-branch,Best Buy,Clothing,United Kingdom,Manchester,False
+a827b17e-123a-485a-a9fb-d8cea68eb80a,b869777f-8300-41a3-92ec-ba777c45733c,2024-02-07 20:03:02,7201.51,INR,transfer,mobile,Walmart,Electronics,India,Hyderabad,False
+8f68d23a-4f5f-492a-bf91-02dd06a8e4f6,4fb4567b-cb75-4e96-8595-7dc28b3725fa,2022-12-23 09:25:53,57.79,JPY,purchase,mobile,Target,Retail,Japan,Osaka,False
+51fc0992-c8a1-481d-9d5b-a4563ad25bec,2b828784-0993-44ec-8128-e5960d69df8e,2022-08-28 10:19:35,5151.21,EUR,purchase,online,Amazon,Grocery,Germany,Hamburg,False
+9bb3781b-5497-4db4-96ec-3a0310504279,0c53c294-98d0-4526-a909-f61d968deaa0,2024-06-27 02:53:45,7208.14,GBP,deposit,online,Best Buy,Grocery,United Kingdom,Glasgow,False
+263d2ab0-b8db-4273-a371-416f57535c11,0f9b438a-4ab5-4072-a8f9-e1deccf93e71,2022-10-23 18:07:43,9421.53,INR,deposit,in-branch,Amazon,Miscellaneous,India,Mumbai,False
+3461d5c7-4d93-4f11-880c-5401121aa3ec,13cf1bd8-8d22-4f95-831b-60d545981f11,2023-03-13 10:10:25,4015.62,EUR,withdrawal,online,Amazon,Retail,Germany,Berlin,False
+b8615a92-1b8a-447c-97dd-6360c736e3d7,8988ebfe-3e26-40cc-8d53-acde952cc93b,2023-10-21 11:13:12,7128.19,GBP,deposit,in-branch,Walmart,Miscellaneous,United Kingdom,Manchester,False
+db80c127-49d7-4d89-8654-b7614522f40d,c6dc67d0-563b-4d85-a5d7-ff92d8cf36e3,2024-04-24 19:04:41,9755.36,GBP,withdrawal,in-branch,Costco,Retail,United Kingdom,Birmingham,False
+1d957be8-2744-499c-b0a3-3123c186343c,7ce53041-5f4a-40de-a4b9-3c3b77b056fd,2022-11-29 12:24:13,6661.41,GBP,withdrawal,online,Amazon,Clothing,United Kingdom,London,False
+76d8a13d-176e-4535-a63c-2b6e9fc91d5c,9df9ff00-4d6d-4aa3-a2fb-6ca3fc4551f6,2023-06-02 18:40:52,9316.89,EUR,purchase,in-branch,Amazon,Retail,Germany,Berlin,False
+31d1ee4d-cf5c-49c8-9539-7187a263140a,261c2337-a085-473e-9225-9b96bb7bca38,2024-07-21 03:51:02,6798.29,JPY,purchase,online,Costco,Clothing,Japan,Tokyo,False
+9be3e826-c200-444c-9945-2470890211ca,a888de3b-7364-40e4-a101-6c4534c830cc,2024-03-06 09:39:27,348.07,EUR,purchase,online,Best Buy,Miscellaneous,Germany,Berlin,False
+51a9d7aa-3639-4915-88e0-cef46356c2c9,c997920b-3835-45a9-b6e0-ca97eed56bde,2023-02-19 23:00:07,843.19,EUR,purchase,mobile,Target,Grocery,Germany,Cologne,False

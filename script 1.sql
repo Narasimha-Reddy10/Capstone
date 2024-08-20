@@ -226,8 +226,8 @@ create or replace STORAGE INTEGRATION my_s3_integration_external
   type = External_stage
   storage_provider = s3
   enabled = true
-  storage_aws_role_arn = 'xxxxxxxxxxxxxxxxxxxxxxxxxxxx'
-  storage_allowed_locations = ('s3://xxxxxxxxxxxxxxxx/snowflake-data/RAW_DATA/');
+  storage_aws_role_arn = 'arn:aws:iam::905418194718:role/Capstone'
+  storage_allowed_locations = ('s3://snowflake-data-sneha1/snowflake-data/RAW_DATA/');
  
  
 desc integration my_s3_integration_external;
@@ -235,6 +235,7 @@ desc integration my_s3_integration_external;
  
 create or replace stage capston_stage
   storage_integration = my_s3_integration_external
+  url = 's3://snowflake-data-sneha1/snowflake-data/RAW_DATA/'
 ;
 
 list @CAPSTON.RAW_DATA.CAPSTON_STAGE;
@@ -283,6 +284,9 @@ select * from capston.raw_data.customers;
 select * from capston.raw_data.transactions;
 
 
+-- stream
+
+
 REVOKE APPLYBUDGET ON DATABASE capston FROM ROLE PC_DBT_ROLE;
  
 grant all privileges on DATABASE capston to role PC_DBT_ROLE;
@@ -294,13 +298,13 @@ grant select on all tables in schema RAW_DATA to role PC_DBT_ROLE;
 GRANT SELECT ON FUTURE TABLES IN DATABASE capston TO ROLE PC_DBT_ROLE;
 
 
-ccreate or replace function trans_func(amount number)
+create or replace function trans_func(amount number)
 returns string
 language sql 
 as
 $$
-select case when amount > 500 then 'High'
-        when amount between 100 and 200 then 'Medium'
+select case when amount > 5000 then 'High'
+        when amount between 2000 and 1000 then 'Medium'
         else 'Low' end
  
 $$
@@ -309,34 +313,81 @@ $$
 grant USAGE on FUNCTION trans_func(NUMBER) to role PC_DBT_ROLE;
  
  
-select *, trans_func(amount) as risk_level from transacation_raw;
+select *, trans_func(amount) as risk_level from CAPSTON.RAW_DATA.TRANSACTIONS;
+
+
+CREATE OR REPLACE FUNCTION age_fun(age NUMBER)
+RETURNS STRING
+LANGUAGE SQL
+AS
+$$
+SELECT CASE
+        WHEN age = 0 THEN '18'
+        WHEN age IS NULL THEN 'Unknown'
+        ELSE TO_CHAR(age)
+       END
+$$;
+  
+ 
+GRANT USAGE ON FUNCTION age_fun(NUMBER) TO ROLE PC_DBT_ROLE;
  
  
-CREATE MASKING POLICY CAPSTON.raw_data.EMAIL_MASK AS
-(EMAIL VARCHAR) RETURNS VARCHAR ->
-CASE WHEN CURRENT_ROLE = 'ADMIN' THEN EMAIL
-ELSE REGEXP_REPLACE(EMAIL, '.+\@', '*****@')
-END;
- 
-ALTER TABLE CAPSTON.raw_data.CUSTOMER_RAW MODIFY COLUMN email SET MASKING POLICY CAPSTON.raw_data.EMAIL_MASK;
- 
- 
-CREATE MASKING POLICY CAPSTON.raw_data.Phone_MASK AS
-(PHONE VARCHAR) RETURNS VARCHAR ->
-CASE WHEN CURRENT_ROLE = 'ADMIN' THEN PHONE
-ELSE SUBSTR(PHONE, 0, 5) || '***-****'
-END;
- 
- 
-ALTER TABLE CAPSTON.raw_data.CUSTOMER_RAW MODIFY COLUMN phone_number SET MASKING POLICY CAPSTON.raw_data.Phone_MASK;
- 
- 
-CREATE OR REPLACE MASKING POLICY CAPSTON.raw_data.customer_id_MASK AS
-(Cust_id VARCHAR) RETURNS VARCHAR ->
-CASE
-WHEN CURRENT_ROLE() = 'ADMIN' THEN Cust_id
-ELSE 'XXXXXX'
-END;
- 
- 
-ALTER TABLE CAPSTON.raw_data.CUSTOMER_RAW MODIFY COLUMN phone_number SET MASKING POLICY CAPSTON.raw_data.customer_id_MASK;
+select *, age_fun(amount) as age_correction from CAPSTON.RAW_DATA.TRANSACTIONS;
+
+
+
+create or replace stream CAPSTON.RAW_DATA.ACCOUNTS_stream on table accounts;
+
+create or replace stream CAPSTON.RAW_DATA.CREDIT_BUREAU_stream on table CREDIT_BUREAU;
+
+create or replace stream CAPSTON.RAW_DATA.CUSTOMERS_stream on table CUSTOMERS;
+
+create or replace stream CAPSTON.RAW_DATA.TRANSACTIONS_stream on table TRANSACTIONS;
+
+
+
+
+
+
+SELECT * FROM ACCOUNTS_stream;
+SELECT * FROM CREDIT_BUREAU_stream ;
+
+SELECT * FROM CUSTOMERS_stream;
+
+SELECT * FROM TRANSACTIONS_stream;
+
+
+-- to see the arn on notification
+desc pipe TRANSACTIONS_stream;
+
+
+CREATE OR REPLACE TASK CAPSTON.RAW_DATA.ACCOUNTS_task
+WAREHOUSE='COMPUTE_WH'
+SCHEDULE='1 minute'
+WHEN SYSTEM$STREAM_HAS_DATA('CAPSTON.RAW_DATA.ACCOUNTS_stream') 
+AS
+INSERT INTO CAPSTON.RAW_DATA.transactions (            TRANSACTION_ID,CUSTOMER_ID,TRANSACTION_DATE,AMOUNT,CURRENCY,TRANSACTION_TYPE,CHANNEL,
+MERCHANT_NAME,MERCHANT_CATEGORY,LOCATION_COUNTRY,LOCATION_CITY,IS_FLAGGED
+        )
+        SELECT rt.* FROM CAPSTON.RAW_DATA.transactions rt 
+        JOIN CAPSTON.RAW_DATA.transactions_stream s1 
+        ON s1.CUSTOMER_ID = rt.CUSTOMER_ID;
+
+        
+
+CREATE OR REPLACE TASK CAPSTON.RAW_DATA.CREDIT_BUREAU_task
+WAREHOUSE='COMPUTE_WH'
+SCHEDULE='1 minute'
+WHEN SYSTEM$STREAM_HAS_DATA('CAPSTON.RAW_DATA.CREDIT_BUREAU_stream') AS
+CALL CAPSTON.RAW_DATA.upload_account_data()
+;
+
+CREATE OR REPLACE TASK CAPSTON.RAW_DATA.CREDIT_BUREAU_task
+WAREHOUSE='COMPUTE_WH'
+SCHEDULE='1 minute'
+WHEN SYSTEM$STREAM_HAS_DATA('CAPSTON.RAW_DATA.CREDIT_BUREAU_stream') AS
+CALL CAPSTON.RAW_DATA.upload_account_data()
+;
+
+
+
